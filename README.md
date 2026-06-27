@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales Dashboard (Excel & Power BI)
+# 📊 Power BI Data Analysis Project (Excel & Power BI)
 
 An end-to-end business intelligence and data analytics project built from scratch to analyze 1,200+ realistic e-commerce orders for the year 2024. This repository contains the complete dataset, the Excel workbook model, and the step-by-step documentation for building and deploying the interactive Power BI dashboard.
 
