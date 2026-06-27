@@ -1,0 +1,1201 @@
+Order_ID,Date,Month,Quarter,Year,Region,State,Category,Sub_Category,Product_Name,Quantity,Unit_Price,Sales_Amount,Discount_Percent,Discount_Amount,Net_Sales,Cost_Price,Profit,Profit_Margin_Percent,Customer_Segment,Payment_Mode,Order_Status
+ORD-1001,23-Nov-2024,Nov,Q4,2024,North,Delhi,Books,Textbook,RD Sharma Mathematics,2,899,1798,0,0.0,1798.0,1187.76,610.24,33.94,New,UPI,Delivered
+ORD-1002,16-Jan-2024,Jan,Q1,2024,North,Delhi,Clothing,Jacket,Red Tape Puffer Jacket,1,3999,3999,20,799.8,3199.2,2021.67,1177.53,36.81,Premium,Credit Card,Delivered
+ORD-1003,28-Oct-2024,Oct,Q4,2024,East,West Bengal,Clothing,Kurta,Biba Printed Kurta,3,2199,6597,0,0.0,6597.0,4175.37,2421.63,36.71,Premium,UPI,Delivered
+ORD-1004,02-Jul-2024,Jul,Q3,2024,East,Bihar,Books,Novel,Silent Patient,5,399,1995,0,0.0,1995.0,1353.38,641.62,32.16,Regular,Credit Card,Delivered
+ORD-1005,12-Nov-2024,Nov,Q4,2024,East,Bihar,Clothing,T-Shirt,Puma Men T-Shirt,2,999,1998,5,99.9,1898.1,1289.02,609.08,32.09,New,Net Banking,Delivered
+ORD-1006,20-Aug-2024,Aug,Q3,2024,East,West Bengal,Books,Self-Help,The Psychology of Money,3,399,1197,0,0.0,1197.0,785.89,411.11,34.35,Regular,Debit Card,Delivered
+ORD-1007,13-Jul-2024,Jul,Q3,2024,East,Bihar,Sports,Football,Adidas Tango,1,1499,1499,5,74.95,1424.05,953.13,470.92,33.07,Premium,UPI,Delivered
+ORD-1008,17-Oct-2024,Oct,Q4,2024,East,West Bengal,Home & Kitchen,Lamp,IKEA FADO Table Lamp,2,1499,2998,5,149.9,2848.1,1789.68,1058.42,37.16,Premium,Credit Card,Delivered
+ORD-1009,07-Aug-2024,Aug,Q3,2024,West,Gujarat,Clothing,Jeans,Spykar Super Skinny,4,2299,9196,0,0.0,9196.0,6118.53,3077.47,33.47,New,UPI,Delivered
+ORD-1010,14-Dec-2024,Dec,Q4,2024,West,Rajasthan,Electronics,Earphones,OnePlus Bullets Z2,5,1999,9995,15,1499.25,8495.75,5537.08,2958.67,34.83,New,Net Banking,Delivered
+ORD-1011,28-Feb-2024,Feb,Q1,2024,East,Bihar,Books,Novel,It Ends With Us,4,349,1396,0,0.0,1396.0,903.52,492.48,35.28,New,Net Banking,Delivered
+ORD-1012,13-Sep-2024,Sep,Q3,2024,South,Telangana,Electronics,Tablet,Realme Pad 2,5,19999,99995,5,4999.75,94995.25,59768.2,35227.05,37.08,Premium,Credit Card,Delivered
+ORD-1013,28-Sep-2024,Sep,Q3,2024,North,UP,Books,Biography,Wings of Fire (APJ Abdul Kalam),1,299,299,10,29.9,269.1,181.03,88.07,32.73,Premium,UPI,Delivered
+ORD-1014,17-Oct-2024,Oct,Q4,2024,North,Delhi,Home & Kitchen,Mixer,Sujata Super 900W,2,5499,10998,0,0.0,10998.0,7254.12,3743.88,34.04,New,UPI,Delivered
+ORD-1015,06-Nov-2024,Nov,Q4,2024,West,Maharashtra,Sports,Football,Adidas Tango,4,1499,5996,10,599.6,5396.4,3487.62,1908.78,35.37,Regular,UPI,Delivered
+ORD-1016,22-Jun-2024,Jun,Q2,2024,North,UP,Sports,Football,Puma Spin Ball,2,999,1998,0,0.0,1998.0,1247.27,750.73,37.57,Premium,UPI,Returned
+ORD-1017,18-Jun-2024,Jun,Q2,2024,North,UP,Clothing,Saree,Georgette Partywear Saree,2,2499,4998,20,999.6,3998.4,2510.75,1487.65,37.21,New,Credit Card,Delivered
+ORD-1018,30-Aug-2024,Aug,Q3,2024,West,Maharashtra,Electronics,Mobile,Redmi Note 13,3,17999,53997,10,5399.7,48597.3,31329.03,17268.27,35.53,New,UPI,Delivered
+ORD-1019,26-Nov-2024,Nov,Q4,2024,North,Delhi,Home & Kitchen,Bedsheet,Bombay Dyeing Cotton Bedsheet,2,1499,2998,5,149.9,2848.1,1798.33,1049.77,36.86,Regular,UPI,Delivered
+ORD-1020,07-May-2024,May,Q2,2024,North,Punjab,Sports,Cricket Bat,MRF Genius Grand Edition,5,4999,24995,0,0.0,24995.0,16950.1,8044.9,32.19,New,Net Banking,Delivered
+ORD-1021,05-Sep-2024,Sep,Q3,2024,West,Maharashtra,Home & Kitchen,Mixer,Lifelong Duos 500W,4,1799,7196,0,0.0,7196.0,4886.94,2309.06,32.09,Regular,Debit Card,Delivered
+ORD-1022,04-Aug-2024,Aug,Q3,2024,West,Maharashtra,Clothing,Saree,Banarasi Silk Saree,1,6499,6499,20,1299.8,5199.2,3242.52,1956.68,37.63,Regular,UPI,Delivered
+ORD-1023,28-Sep-2024,Sep,Q3,2024,South,Tamil Nadu,Sports,Cricket Bat,SG Savage Edition,1,3499,3499,0,0.0,3499.0,2311.13,1187.87,33.95,Regular,UPI,Returned
+ORD-1024,06-May-2024,May,Q2,2024,North,UP,Electronics,Earphones,Realme Buds Wireless 3,5,1799,8995,20,1799.0,7196.0,4598.12,2597.88,36.1,Regular,Credit Card,Delivered
+ORD-1025,15-May-2024,May,Q2,2024,West,Maharashtra,Books,Biography,The Story of My Experiments with Truth,1,199,199,0,0.0,199.0,128.85,70.15,35.25,New,COD,Delivered
+ORD-1026,19-Apr-2024,Apr,Q2,2024,East,West Bengal,Books,Novel,To Kill a Mockingbird,3,399,1197,5,59.85,1137.15,715.8,421.35,37.05,Premium,Debit Card,Delivered
+ORD-1027,30-Nov-2024,Nov,Q4,2024,North,UP,Sports,Yoga Mat,Kore Exercise Yoga Mat,2,399,798,5,39.9,758.1,475.27,282.83,37.31,Regular,Credit Card,Delivered
+ORD-1028,05-Nov-2024,Nov,Q4,2024,South,Telangana,Books,Textbook,NCERT Science Class 10,5,199,995,15,149.25,845.75,537.11,308.64,36.49,New,UPI,Delivered
+ORD-1029,21-May-2024,May,Q2,2024,North,Delhi,Books,Textbook,NCERT Science Class 10,2,199,398,15,59.7,338.3,220.94,117.36,34.69,Regular,UPI,Delivered
+ORD-1030,19-Dec-2024,Dec,Q4,2024,South,Telangana,Electronics,Tablet,Realme Pad 2,5,19999,99995,0,0.0,99995.0,64575.49,35419.51,35.42,Regular,UPI,Pending
+ORD-1031,21-Jan-2024,Jan,Q1,2024,East,West Bengal,Clothing,T-Shirt,Nike Dry-Fit T-Shirt,5,1899,9495,10,949.5,8545.5,5797.53,2747.97,32.16,Premium,COD,Delivered
+ORD-1032,24-Mar-2024,Mar,Q1,2024,South,Kerala,Electronics,Laptop,Lenovo IdeaPad 3,4,38999,155996,5,7799.8,148196.2,94254.02,53942.18,36.4,Premium,UPI,Returned
+ORD-1033,28-Aug-2024,Aug,Q3,2024,South,Tamil Nadu,Home & Kitchen,Bedsheet,Spaces Floral Bedsheet,2,2499,4998,5,249.9,4748.1,2950.56,1797.54,37.86,Regular,UPI,Returned
+ORD-1034,22-May-2024,May,Q2,2024,East,Bihar,Sports,Dumbbells,Lifelong Chrome Dumbbells,3,1899,5697,0,0.0,5697.0,3571.57,2125.43,37.31,New,UPI,Pending
+ORD-1035,15-May-2024,May,Q2,2024,North,Delhi,Sports,Dumbbells,Cockatoo Rubber Dumbbells 5kg,3,1299,3897,10,389.7,3507.3,2302.1,1205.2,34.36,Regular,UPI,Delivered
+ORD-1036,10-May-2024,May,Q2,2024,North,UP,Home & Kitchen,Mixer,Sujata Super 900W,5,5499,27495,5,1374.75,26120.25,16765.37,9354.88,35.81,Regular,Credit Card,Delivered
+ORD-1037,09-Jun-2024,Jun,Q2,2024,North,UP,Books,Comic,Amar Chitra Katha,4,120,480,10,48.0,432.0,278.27,153.73,35.59,Regular,UPI,Delivered
+ORD-1038,13-Jul-2024,Jul,Q3,2024,South,Telangana,Sports,Yoga Mat,OJS Premium Yoga Mat,5,599,2995,0,0.0,2995.0,1911.51,1083.49,36.18,Regular,Debit Card,Delivered
+ORD-1039,13-Jun-2024,Jun,Q2,2024,West,Gujarat,Home & Kitchen,Cooker,Hawkins Contura 3L,4,1699,6796,0,0.0,6796.0,4482.17,2313.83,34.05,Regular,Credit Card,Delivered
+ORD-1040,17-Feb-2024,Feb,Q1,2024,South,Telangana,Books,Textbook,RD Sharma Mathematics,2,899,1798,0,0.0,1798.0,1119.75,678.25,37.72,New,Credit Card,Delivered
+ORD-1041,21-Aug-2024,Aug,Q3,2024,West,Rajasthan,Sports,Football,Cosco Milano,4,799,3196,10,319.6,2876.4,1825.48,1050.92,36.54,Premium,UPI,Delivered
+ORD-1042,24-Feb-2024,Feb,Q1,2024,West,Maharashtra,Clothing,Jacket,Fort Collins Bomber,1,2299,2299,20,459.8,1839.2,1167.8,671.4,36.51,Premium,Credit Card,Delivered
+ORD-1043,07-Dec-2024,Dec,Q4,2024,East,Odisha,Sports,Cycle,Leader Scout 26T,5,6499,32495,15,4874.25,27620.75,18611.76,9008.99,32.62,Premium,Credit Card,Delivered
+ORD-1044,06-May-2024,May,Q2,2024,East,Bihar,Home & Kitchen,Cooker,Pigeon Favourite 3L,4,1099,4396,0,0.0,4396.0,2913.72,1482.28,33.72,Regular,UPI,Returned
+ORD-1045,11-Feb-2024,Feb,Q1,2024,South,Tamil Nadu,Clothing,Kurta,W Women Kurta,2,1499,2998,0,0.0,2998.0,1933.39,1064.61,35.51,Regular,Credit Card,Delivered
+ORD-1046,03-Aug-2024,Aug,Q3,2024,West,Rajasthan,Electronics,Smart Watch,Samsung Galaxy Watch 6,4,29999,119996,0,0.0,119996.0,81185.03,38810.97,32.34,Regular,UPI,Returned
+ORD-1047,02-Aug-2024,Aug,Q3,2024,South,Kerala,Clothing,Saree,Georgette Partywear Saree,4,2499,9996,0,0.0,9996.0,6430.74,3565.26,35.67,Premium,Debit Card,Delivered
+ORD-1048,27-Aug-2024,Aug,Q3,2024,South,Telangana,Sports,Cricket Bat,Spartan MSD Warrior,5,2499,12495,0,0.0,12495.0,7809.84,4685.16,37.5,Regular,Net Banking,Delivered
+ORD-1049,13-May-2024,May,Q2,2024,West,Gujarat,Clothing,Kurta,Biba Printed Kurta,3,2199,6597,10,659.7,5937.3,3780.25,2157.05,36.33,New,UPI,Delivered
+ORD-1050,28-Aug-2024,Aug,Q3,2024,North,UP,Sports,Cricket Bat,SS Ton Reserve,2,5999,11998,0,0.0,11998.0,8001.15,3996.85,33.31,Premium,Debit Card,Pending
+ORD-1051,12-Apr-2024,Apr,Q2,2024,North,UP,Clothing,Jeans,Pepe Jeans Regular Fit,4,2499,9996,0,0.0,9996.0,6535.77,3460.23,34.62,Regular,Credit Card,Delivered
+ORD-1052,26-Mar-2024,Mar,Q1,2024,North,Delhi,Books,Novel,Midnight Library,1,329,329,5,16.45,312.55,204.58,107.97,34.54,New,UPI,Pending
+ORD-1053,11-Apr-2024,Apr,Q2,2024,North,UP,Clothing,T-Shirt,Nike Dry-Fit T-Shirt,5,1899,9495,0,0.0,9495.0,6340.51,3154.49,33.22,Regular,UPI,Delivered
+ORD-1054,04-Dec-2024,Dec,Q4,2024,East,West Bengal,Sports,Yoga Mat,Kore Exercise Yoga Mat,4,399,1596,15,239.4,1356.6,849.68,506.92,37.37,New,Credit Card,Delivered
+ORD-1055,28-Dec-2024,Dec,Q4,2024,South,Kerala,Clothing,Jacket,Levis Denim Jacket,5,4599,22995,20,4599.0,18396.0,12260.54,6135.46,33.35,Regular,Net Banking,Delivered
+ORD-1056,14-Jun-2024,Jun,Q2,2024,South,Tamil Nadu,Books,Biography,Steve Jobs by Walter Isaacson,4,699,2796,10,279.6,2516.4,1610.96,905.44,35.98,Regular,UPI,Delivered
+ORD-1057,30-Jun-2024,Jun,Q2,2024,East,Odisha,Books,Comic,Amar Chitra Katha,5,120,600,0,0.0,600.0,390.6,209.4,34.9,Regular,UPI,Delivered
+ORD-1058,11-Oct-2024,Oct,Q4,2024,South,Telangana,Home & Kitchen,Lamp,IKEA FADO Table Lamp,1,1499,1499,0,0.0,1499.0,955.84,543.16,36.23,Regular,UPI,Delivered
+ORD-1059,07-Jul-2024,Jul,Q3,2024,West,Rajasthan,Sports,Yoga Mat,OJS Premium Yoga Mat,5,599,2995,10,299.5,2695.5,1728.11,967.39,35.89,Regular,UPI,Delivered
+ORD-1060,08-Apr-2024,Apr,Q2,2024,East,West Bengal,Sports,Football,Nivia Shinning Star,2,899,1798,15,269.7,1528.3,972.9,555.4,36.34,Regular,Debit Card,Delivered
+ORD-1061,21-Feb-2024,Feb,Q1,2024,South,Kerala,Clothing,Saree,Banarasi Silk Saree,3,6499,19497,0,0.0,19497.0,12916.39,6580.61,33.75,Regular,UPI,Delivered
+ORD-1062,29-May-2024,May,Q2,2024,South,Telangana,Home & Kitchen,Mixer,Prestige Iris 750W,5,3999,19995,5,999.75,18995.25,12312.03,6683.22,35.18,Regular,UPI,Delivered
+ORD-1063,01-Sep-2024,Sep,Q3,2024,North,Delhi,Home & Kitchen,Lamp,Philips Deco LED Lamp,5,599,2995,0,0.0,2995.0,1884.17,1110.83,37.09,Premium,COD,Delivered
+ORD-1064,07-May-2024,May,Q2,2024,North,UP,Home & Kitchen,Pillow,Wakefit Hollow Fiber Pillow,5,599,2995,5,149.75,2845.25,1896.48,948.77,33.35,Regular,COD,Delivered
+ORD-1065,28-Oct-2024,Oct,Q4,2024,West,Gujarat,Sports,Cycle,Hero Sprint Cycle,5,7999,39995,0,0.0,39995.0,27070.83,12924.17,32.31,Regular,UPI,Delivered
+ORD-1066,21-Mar-2024,Mar,Q1,2024,South,Tamil Nadu,Sports,Cricket Bat,SG Savage Edition,1,3499,3499,10,349.9,3149.1,2037.56,1111.54,35.3,Regular,UPI,Delivered
+ORD-1067,27-Dec-2024,Dec,Q4,2024,East,Bihar,Home & Kitchen,Mixer,Lifelong Duos 500W,3,1799,5397,5,269.85,5127.15,3309.62,1817.53,35.45,Regular,Credit Card,Returned
+ORD-1068,13-Mar-2024,Mar,Q1,2024,North,Delhi,Clothing,Saree,Bandhani Print Saree,5,1599,7995,5,399.75,7595.25,4909.18,2686.07,35.37,Regular,UPI,Delivered
+ORD-1069,19-May-2024,May,Q2,2024,West,Gujarat,Electronics,Smart Watch,Noise ColorFit Pro 5,4,3999,15996,10,1599.6,14396.4,9447.25,4949.15,34.38,Regular,UPI,Delivered
+ORD-1070,21-Oct-2024,Oct,Q4,2024,North,UP,Books,Comic,Tinkle Double Digest,2,150,300,15,45.0,255.0,166.04,88.96,34.89,Regular,UPI,Pending
+ORD-1071,11-Aug-2024,Aug,Q3,2024,West,Maharashtra,Home & Kitchen,Bedsheet,Story@Home Double Bedsheet,3,999,2997,10,299.7,2697.3,1780.78,916.52,33.98,New,UPI,Delivered
+ORD-1072,27-May-2024,May,Q2,2024,West,Rajasthan,Electronics,Earphones,boAt Rockerz 255,3,1299,3897,5,194.85,3702.15,2367.14,1335.01,36.06,New,UPI,Delivered
+ORD-1073,01-Jan-2024,Jan,Q1,2024,West,Gujarat,Electronics,Laptop,Acer Aspire 5,3,39999,119997,15,17999.55,101997.45,67065.82,34931.63,34.25,Premium,UPI,Delivered
+ORD-1074,27-May-2024,May,Q2,2024,West,Rajasthan,Home & Kitchen,Mixer,Prestige Iris 750W,5,3999,19995,5,999.75,18995.25,12586.01,6409.24,33.74,Regular,UPI,Delivered
+ORD-1075,25-Apr-2024,Apr,Q2,2024,North,Punjab,Electronics,Laptop,ASUS Vivobook 16,3,44999,134997,20,26999.4,107997.6,71529.48,36468.12,33.77,Regular,Credit Card,Delivered
+ORD-1076,21-Aug-2024,Aug,Q3,2024,South,Kerala,Clothing,Jacket,Red Tape Puffer Jacket,2,3999,7998,0,0.0,7998.0,5091.33,2906.67,36.34,Premium,UPI,Pending
+ORD-1077,16-Sep-2024,Sep,Q3,2024,East,West Bengal,Books,Self-Help,The 5 AM Club,5,320,1600,15,240.0,1360.0,913.81,446.19,32.81,Regular,Credit Card,Delivered
+ORD-1078,05-Oct-2024,Oct,Q4,2024,West,Gujarat,Books,Textbook,RD Sharma Mathematics,5,899,4495,10,449.5,4045.5,2564.9,1480.6,36.6,Premium,UPI,Delivered
+ORD-1079,27-Dec-2024,Dec,Q4,2024,West,Gujarat,Clothing,Kurta,Manyavar Men Kurta,2,2999,5998,20,1199.6,4798.4,3252.94,1545.46,32.21,Regular,UPI,Delivered
+ORD-1080,21-Feb-2024,Feb,Q1,2024,West,Maharashtra,Clothing,Kurta,W Women Kurta,1,1499,1499,15,224.85,1274.15,849.72,424.43,33.31,Regular,Credit Card,Delivered
+ORD-1081,11-Feb-2024,Feb,Q1,2024,East,Bihar,Sports,Dumbbells,Cockatoo Rubber Dumbbells 5kg,4,1299,5196,20,1039.2,4156.8,2586.17,1570.63,37.78,Regular,Credit Card,Returned
+ORD-1082,26-Apr-2024,Apr,Q2,2024,North,Punjab,Electronics,Mobile,Redmi Note 13,2,17999,35998,5,1799.9,34198.1,23056.55,11141.55,32.58,Regular,Debit Card,Delivered
+ORD-1083,10-Jul-2024,Jul,Q3,2024,West,Maharashtra,Clothing,Jacket,Fort Collins Bomber,5,2299,11495,0,0.0,11495.0,7244.14,4250.86,36.98,Regular,Net Banking,Delivered
+ORD-1084,03-May-2024,May,Q2,2024,West,Rajasthan,Clothing,Jeans,Killer Regular Fit,3,1799,5397,15,809.55,4587.45,2914.5,1672.95,36.47,Regular,Debit Card,Returned
+ORD-1085,12-Dec-2024,Dec,Q4,2024,South,Tamil Nadu,Home & Kitchen,Bedsheet,Divine Casa Bedsheet,3,799,2397,10,239.7,2157.3,1426.88,730.42,33.86,Regular,UPI,Pending
+ORD-1086,04-Sep-2024,Sep,Q3,2024,North,Delhi,Home & Kitchen,Pillow,The Sleep Company Pillow,5,1999,9995,5,499.75,9495.25,6452.61,3042.64,32.04,Regular,COD,Delivered
+ORD-1087,20-May-2024,May,Q2,2024,North,UP,Electronics,Smart Watch,Samsung Galaxy Watch 6,3,29999,89997,5,4499.85,85497.15,56122.37,29374.78,34.36,Regular,Credit Card,Delivered
+ORD-1088,13-Dec-2024,Dec,Q4,2024,South,Telangana,Electronics,Mobile,OnePlus 12,4,64999,259996,0,0.0,259996.0,170238.73,89757.27,34.52,Premium,UPI,Delivered
+ORD-1089,31-Jul-2024,Jul,Q3,2024,South,Tamil Nadu,Clothing,Jacket,Levis Denim Jacket,5,4599,22995,20,4599.0,18396.0,12413.79,5982.21,32.52,Premium,UPI,Delivered
+ORD-1090,03-Sep-2024,Sep,Q3,2024,East,Bihar,Books,Novel,Silent Patient,1,399,399,0,0.0,399.0,265.43,133.57,33.48,Regular,Credit Card,Delivered
+ORD-1091,22-Jul-2024,Jul,Q3,2024,East,West Bengal,Home & Kitchen,Mixer,Bajaj GX1 500W,5,2499,12495,0,0.0,12495.0,8087.85,4407.15,35.27,Premium,Credit Card,Delivered
+ORD-1092,22-Nov-2024,Nov,Q4,2024,East,West Bengal,Clothing,Kurta,Manyavar Men Kurta,5,2999,14995,20,2999.0,11996.0,7673.61,4322.39,36.03,Premium,Credit Card,Delivered
+ORD-1093,25-Aug-2024,Aug,Q3,2024,East,Bihar,Home & Kitchen,Mixer,Lifelong Duos 500W,1,1799,1799,0,0.0,1799.0,1148.23,650.77,36.17,Regular,UPI,Returned
+ORD-1094,10-Mar-2024,Mar,Q1,2024,West,Gujarat,Books,Comic,Spider-Man Classic,5,299,1495,0,0.0,1495.0,1006.32,488.68,32.69,Premium,Net Banking,Delivered
+ORD-1095,23-May-2024,May,Q2,2024,North,UP,Books,Textbook,Indian Polity by Laxmikanth,4,749,2996,5,149.8,2846.2,1910.73,935.47,32.87,Regular,Credit Card,Delivered
+ORD-1096,26-Nov-2024,Nov,Q4,2024,East,West Bengal,Home & Kitchen,Bedsheet,Portico New York Bedsheet,1,1999,1999,15,299.85,1699.15,1062.82,636.33,37.45,Regular,Credit Card,Pending
+ORD-1097,26-Jan-2024,Jan,Q1,2024,East,West Bengal,Clothing,Jacket,Decathlon Fleece Jacket,1,1499,1499,20,299.8,1199.2,758.41,440.79,36.76,Regular,Net Banking,Delivered
+ORD-1098,16-Mar-2024,Mar,Q1,2024,North,Punjab,Clothing,Jeans,Spykar Super Skinny,3,2299,6897,0,0.0,6897.0,4321.63,2575.37,37.34,New,UPI,Delivered
+ORD-1099,01-May-2024,May,Q2,2024,East,West Bengal,Clothing,Saree,Kanjivaram Silk Saree,2,7999,15998,10,1599.8,14398.2,9381.37,5016.83,34.84,Premium,Credit Card,Delivered
+ORD-1100,19-Sep-2024,Sep,Q3,2024,North,Punjab,Sports,Football,Puma Spin Ball,1,999,999,20,199.8,799.2,509.97,289.23,36.19,Premium,UPI,Pending
+ORD-1101,24-Jul-2024,Jul,Q3,2024,West,Rajasthan,Electronics,Earphones,OnePlus Bullets Z2,1,1999,1999,0,0.0,1999.0,1278.01,720.99,36.07,Regular,UPI,Delivered
+ORD-1102,26-Oct-2024,Oct,Q4,2024,East,Odisha,Sports,Cycle,Hercules Roadeo,4,9999,39996,20,7999.2,31996.8,21000.32,10996.48,34.37,Regular,Debit Card,Returned
+ORD-1103,29-Nov-2024,Nov,Q4,2024,South,Kerala,Home & Kitchen,Cooker,Butterfly Cordial 5L,3,2199,6597,15,989.55,5607.45,3610.77,1996.68,35.61,Premium,UPI,Delivered
+ORD-1104,10-May-2024,May,Q2,2024,East,West Bengal,Home & Kitchen,Mixer,Prestige Iris 750W,1,3999,3999,0,0.0,3999.0,2583.0,1416.0,35.41,Premium,UPI,Delivered
+ORD-1105,31-Jan-2024,Jan,Q1,2024,East,Bihar,Electronics,Earphones,JBL Tune 510BT,4,3499,13996,0,0.0,13996.0,9490.74,4505.26,32.19,Premium,UPI,Delivered
+ORD-1106,18-Apr-2024,Apr,Q2,2024,South,Telangana,Home & Kitchen,Cooker,Hawkins Classic 3L,3,1499,4497,20,899.4,3597.6,2309.85,1287.75,35.79,Premium,Credit Card,Delivered
+ORD-1107,14-Oct-2024,Oct,Q4,2024,North,UP,Books,Novel,To Kill a Mockingbird,3,399,1197,5,59.85,1137.15,767.91,369.24,32.47,Regular,UPI,Delivered
+ORD-1108,02-Dec-2024,Dec,Q4,2024,West,Maharashtra,Clothing,T-Shirt,Puma Men T-Shirt,5,999,4995,5,249.75,4745.25,3049.16,1696.09,35.74,Regular,UPI,Delivered
+ORD-1109,15-Jun-2024,Jun,Q2,2024,North,Delhi,Clothing,Jeans,Spykar Super Skinny,1,2299,2299,0,0.0,2299.0,1462.91,836.09,36.37,Premium,Credit Card,Delivered
+ORD-1110,19-May-2024,May,Q2,2024,South,Telangana,Electronics,Tablet,OnePlus Pad,1,37999,37999,5,1899.95,36099.05,23850.39,12248.66,33.93,Regular,Credit Card,Delivered
+ORD-1111,22-Apr-2024,Apr,Q2,2024,West,Rajasthan,Electronics,Mobile,Samsung Galaxy S24,3,74999,224997,5,11249.85,213747.15,142364.36,71382.79,33.4,Premium,UPI,Delivered
+ORD-1112,11-Sep-2024,Sep,Q3,2024,West,Maharashtra,Clothing,Kurta,Soch Embroidered Kurta,2,3499,6998,20,1399.6,5598.4,3658.69,1939.71,34.65,Premium,UPI,Delivered
+ORD-1113,22-Jan-2024,Jan,Q1,2024,West,Maharashtra,Home & Kitchen,Mixer,Bajaj GX1 500W,5,2499,12495,10,1249.5,11245.5,7359.1,3886.4,34.56,Premium,UPI,Delivered
+ORD-1114,11-Jan-2024,Jan,Q1,2024,East,West Bengal,Sports,Dumbbells,Cockatoo Rubber Dumbbells 5kg,1,1299,1299,10,129.9,1169.1,784.08,385.02,32.93,Regular,Credit Card,Delivered
+ORD-1115,21-Jul-2024,Jul,Q3,2024,East,Bihar,Books,Textbook,NCERT Science Class 10,2,199,398,0,0.0,398.0,258.95,139.05,34.94,Regular,Credit Card,Returned
+ORD-1116,27-Jun-2024,Jun,Q2,2024,East,Bihar,Clothing,Jeans,Levis 511 Slim Fit,2,2999,5998,5,299.9,5698.1,3600.27,2097.83,36.82,Premium,Debit Card,Delivered
+ORD-1117,31-Mar-2024,Mar,Q1,2024,West,Gujarat,Sports,Cycle,Leader Scout 26T,5,6499,32495,10,3249.5,29245.5,19648.73,9596.77,32.81,Premium,UPI,Delivered
+ORD-1118,14-Aug-2024,Aug,Q3,2024,East,Odisha,Sports,Cricket Bat,SS Ton Reserve,5,5999,29995,0,0.0,29995.0,19155.54,10839.46,36.14,Regular,UPI,Delivered
+ORD-1119,09-Feb-2024,Feb,Q1,2024,North,UP,Sports,Cycle,Leader Scout 26T,4,6499,25996,20,5199.2,20796.8,14084.71,6712.09,32.27,Premium,UPI,Returned
+ORD-1120,19-Oct-2024,Oct,Q4,2024,South,Kerala,Sports,Dumbbells,Lifelong Chrome Dumbbells,2,1899,3798,0,0.0,3798.0,2457.43,1340.57,35.3,Premium,Net Banking,Pending
+ORD-1121,13-Feb-2024,Feb,Q1,2024,South,Tamil Nadu,Clothing,Kurta,Anouk Cotton Kurta,5,999,4995,20,999.0,3996.0,2623.73,1372.27,34.34,Regular,COD,Delivered
+ORD-1122,22-Jun-2024,Jun,Q2,2024,North,UP,Books,Novel,It Ends With Us,1,349,349,20,69.8,279.2,184.47,94.73,33.93,Regular,Debit Card,Delivered
+ORD-1123,04-Nov-2024,Nov,Q4,2024,South,Kerala,Electronics,Smart Watch,Fire-Boltt Gladiator,3,2499,7497,5,374.85,7122.15,4829.26,2292.89,32.19,Premium,UPI,Delivered
+ORD-1124,13-Feb-2024,Feb,Q1,2024,East,Bihar,Home & Kitchen,Bedsheet,Portico New York Bedsheet,5,1999,9995,0,0.0,9995.0,6584.32,3410.68,34.12,Regular,UPI,Delivered
+ORD-1125,02-Apr-2024,Apr,Q2,2024,South,Kerala,Home & Kitchen,Cooker,Prestige Popular 5L,2,1899,3798,0,0.0,3798.0,2372.34,1425.66,37.54,Premium,UPI,Delivered
+ORD-1126,26-Sep-2024,Sep,Q3,2024,North,UP,Books,Comic,Chacha Chaudhary,5,99,495,10,49.5,445.5,280.33,165.17,37.08,Regular,Credit Card,Delivered
+ORD-1127,25-Mar-2024,Mar,Q1,2024,West,Maharashtra,Home & Kitchen,Bedsheet,Portico New York Bedsheet,4,1999,7996,5,399.8,7596.2,5052.56,2543.64,33.49,Premium,UPI,Delivered
+ORD-1128,28-Aug-2024,Aug,Q3,2024,South,Kerala,Sports,Dumbbells,Bulfyss Hex Dumbbells 10kg,3,2199,6597,10,659.7,5937.3,3860.28,2077.02,34.98,Regular,UPI,Delivered
+ORD-1129,05-Nov-2024,Nov,Q4,2024,South,Kerala,Electronics,Earphones,JBL Tune 510BT,5,3499,17495,0,0.0,17495.0,11593.66,5901.34,33.73,Regular,UPI,Delivered
+ORD-1130,23-Mar-2024,Mar,Q1,2024,East,Odisha,Sports,Football,Cosco Milano,1,799,799,5,39.95,759.05,507.81,251.24,33.1,New,COD,Delivered
+ORD-1131,21-Jul-2024,Jul,Q3,2024,East,West Bengal,Home & Kitchen,Mixer,Bajaj GX1 500W,2,2499,4998,0,0.0,4998.0,3194.33,1803.67,36.09,Regular,Debit Card,Delivered
+ORD-1132,15-Mar-2024,Mar,Q1,2024,South,Tamil Nadu,Books,Biography,Steve Jobs by Walter Isaacson,4,699,2796,15,419.4,2376.6,1561.24,815.36,34.31,New,UPI,Delivered
+ORD-1133,17-Mar-2024,Mar,Q1,2024,West,Maharashtra,Books,Textbook,NCERT Science Class 10,1,199,199,0,0.0,199.0,126.23,72.77,36.57,Premium,Credit Card,Delivered
+ORD-1134,12-Sep-2024,Sep,Q3,2024,North,UP,Sports,Cycle,Firefox Target 21S,2,14999,29998,5,1499.9,28498.1,18402.77,10095.33,35.42,Premium,UPI,Delivered
+ORD-1135,06-Dec-2024,Dec,Q4,2024,North,UP,Books,Novel,Midnight Library,5,329,1645,20,329.0,1316.0,878.02,437.98,33.28,Regular,UPI,Returned
+ORD-1136,23-Jan-2024,Jan,Q1,2024,West,Gujarat,Books,Novel,It Ends With Us,1,349,349,10,34.9,314.1,199.29,114.81,36.55,Premium,UPI,Delivered
+ORD-1137,19-Jun-2024,Jun,Q2,2024,South,Tamil Nadu,Books,Comic,Amar Chitra Katha,2,120,240,15,36.0,204.0,138.49,65.51,32.11,Regular,UPI,Delivered
+ORD-1138,22-Aug-2024,Aug,Q3,2024,North,Punjab,Clothing,T-Shirt,Adidas Solid T-Shirt,1,1299,1299,10,129.9,1169.1,790.31,378.79,32.4,Regular,COD,Delivered
+ORD-1139,09-May-2024,May,Q2,2024,North,UP,Clothing,Saree,Chanderi Cotton Saree,1,1899,1899,10,189.9,1709.1,1087.66,621.44,36.36,Premium,UPI,Delivered
+ORD-1140,13-Aug-2024,Aug,Q3,2024,West,Gujarat,Clothing,Kurta,Anouk Cotton Kurta,3,999,2997,20,599.4,2397.6,1524.88,872.72,36.4,Regular,UPI,Delivered
+ORD-1141,02-Apr-2024,Apr,Q2,2024,East,Odisha,Electronics,Mobile,OnePlus 12,3,64999,194997,5,9749.85,185247.15,119809.51,65437.64,35.32,Premium,UPI,Delivered
+ORD-1142,16-Aug-2024,Aug,Q3,2024,North,UP,Books,Comic,Spider-Man Classic,3,299,897,0,0.0,897.0,560.18,336.82,37.55,Premium,UPI,Delivered
+ORD-1143,13-Dec-2024,Dec,Q4,2024,South,Tamil Nadu,Clothing,Jacket,Fort Collins Bomber,1,2299,2299,0,0.0,2299.0,1434.65,864.35,37.6,Premium,UPI,Delivered
+ORD-1144,17-Oct-2024,Oct,Q4,2024,North,UP,Clothing,Kurta,Biba Printed Kurta,3,2199,6597,15,989.55,5607.45,3733.36,1874.09,33.42,Regular,Credit Card,Delivered
+ORD-1145,28-Nov-2024,Nov,Q4,2024,East,West Bengal,Electronics,Mobile,Samsung Galaxy S24,4,74999,299996,20,59999.2,239996.8,154370.56,85626.24,35.68,Regular,UPI,Delivered
+ORD-1146,16-Aug-2024,Aug,Q3,2024,South,Telangana,Books,Biography,Steve Jobs by Walter Isaacson,1,699,699,0,0.0,699.0,469.15,229.85,32.88,Regular,Net Banking,Delivered
+ORD-1147,14-Feb-2024,Feb,Q1,2024,East,Bihar,Books,Novel,Midnight Library,5,329,1645,5,82.25,1562.75,1052.48,510.27,32.65,New,Debit Card,Returned
+ORD-1148,22-Nov-2024,Nov,Q4,2024,South,Kerala,Sports,Football,Nivia Storm Football,2,499,998,0,0.0,998.0,632.94,365.06,36.58,Regular,UPI,Delivered
+ORD-1149,27-Aug-2024,Aug,Q3,2024,South,Telangana,Electronics,Mobile,OnePlus 12,4,64999,259996,15,38999.4,220996.6,143988.51,77008.09,34.85,Premium,Net Banking,Delivered
+ORD-1150,11-Jun-2024,Jun,Q2,2024,North,Punjab,Home & Kitchen,Pillow,The Sleep Company Pillow,2,1999,3998,20,799.6,3198.4,2105.79,1092.61,34.16,Regular,COD,Delivered
+ORD-1151,29-Jan-2024,Jan,Q1,2024,North,UP,Clothing,Saree,Banarasi Silk Saree,2,6499,12998,10,1299.8,11698.2,7908.97,3789.23,32.39,Regular,COD,Delivered
+ORD-1152,25-May-2024,May,Q2,2024,North,Punjab,Clothing,Jacket,Levis Denim Jacket,2,4599,9198,5,459.9,8738.1,5739.76,2998.34,34.31,Regular,Credit Card,Delivered
+ORD-1153,24-Oct-2024,Oct,Q4,2024,South,Tamil Nadu,Sports,Cycle,Hercules Roadeo,5,9999,49995,0,0.0,49995.0,33472.36,16522.64,33.05,Regular,UPI,Delivered
+ORD-1154,22-Oct-2024,Oct,Q4,2024,East,Bihar,Clothing,Jacket,Fort Collins Bomber,5,2299,11495,0,0.0,11495.0,7470.4,4024.6,35.01,Premium,UPI,Pending
+ORD-1155,04-Sep-2024,Sep,Q3,2024,South,Telangana,Home & Kitchen,Bedsheet,Story@Home Double Bedsheet,1,999,999,0,0.0,999.0,628.86,370.14,37.05,Regular,Credit Card,Delivered
+ORD-1156,14-Mar-2024,Mar,Q1,2024,East,Bihar,Books,Self-Help,Think and Grow Rich,2,249,498,10,49.8,448.2,291.73,156.47,34.91,Regular,UPI,Delivered
+ORD-1157,18-Aug-2024,Aug,Q3,2024,South,Tamil Nadu,Electronics,Mobile,OnePlus 12,4,64999,259996,10,25999.6,233996.4,148563.43,85432.97,36.51,New,UPI,Delivered
+ORD-1158,22-Oct-2024,Oct,Q4,2024,East,West Bengal,Clothing,Kurta,Soch Embroidered Kurta,4,3499,13996,15,2099.4,11896.6,8003.37,3893.23,32.73,Regular,UPI,Delivered
+ORD-1159,22-Aug-2024,Aug,Q3,2024,South,Tamil Nadu,Sports,Yoga Mat,Kore Exercise Yoga Mat,1,399,399,5,19.95,379.05,246.27,132.78,35.03,New,Credit Card,Delivered
+ORD-1160,01-Oct-2024,Oct,Q4,2024,North,Delhi,Home & Kitchen,Cooker,Pigeon Favourite 3L,3,1099,3297,10,329.7,2967.3,1904.88,1062.42,35.8,Regular,Credit Card,Delivered
+ORD-1161,10-Oct-2024,Oct,Q4,2024,East,West Bengal,Home & Kitchen,Pillow,Recron Certified Pillow,5,399,1995,5,99.75,1895.25,1268.91,626.34,33.05,Premium,Credit Card,Delivered
+ORD-1162,19-Feb-2024,Feb,Q1,2024,West,Gujarat,Books,Comic,Amar Chitra Katha,2,120,240,5,12.0,228.0,149.6,78.4,34.39,Regular,UPI,Delivered
+ORD-1163,31-Dec-2024,Dec,Q4,2024,East,Odisha,Sports,Dumbbells,Kore Steel Dumbbells 10kg,5,1499,7495,20,1499.0,5996.0,3767.81,2228.19,37.16,New,UPI,Delivered
+ORD-1164,11-Nov-2024,Nov,Q4,2024,East,Bihar,Books,Comic,Batman: Year One,5,499,2495,15,374.25,2120.75,1405.05,715.7,33.75,Regular,Debit Card,Delivered
+ORD-1165,10-Dec-2024,Dec,Q4,2024,North,Punjab,Sports,Yoga Mat,Kore Exercise Yoga Mat,5,399,1995,15,299.25,1695.75,1078.38,617.37,36.41,Premium,COD,Delivered
+ORD-1166,26-Apr-2024,Apr,Q2,2024,North,UP,Home & Kitchen,Cooker,Hawkins Contura 3L,5,1699,8495,10,849.5,7645.5,4808.0,2837.5,37.11,Premium,UPI,Pending
+ORD-1167,26-Feb-2024,Feb,Q1,2024,South,Tamil Nadu,Home & Kitchen,Bedsheet,Story@Home Double Bedsheet,2,999,1998,10,199.8,1798.2,1189.38,608.82,33.86,Regular,Debit Card,Returned
+ORD-1168,01-Feb-2024,Feb,Q1,2024,South,Telangana,Clothing,Jacket,Levis Denim Jacket,4,4599,18396,20,3679.2,14716.8,9457.16,5259.64,35.74,New,Credit Card,Delivered
+ORD-1169,06-Oct-2024,Oct,Q4,2024,East,Bihar,Books,Comic,Spider-Man Classic,2,299,598,5,29.9,568.1,361.73,206.37,36.33,Regular,COD,Pending
+ORD-1170,27-May-2024,May,Q2,2024,South,Telangana,Home & Kitchen,Bedsheet,Story@Home Double Bedsheet,3,999,2997,20,599.4,2397.6,1620.83,776.77,32.4,Premium,UPI,Delivered
+ORD-1171,12-Dec-2024,Dec,Q4,2024,West,Gujarat,Books,Textbook,NCERT Science Class 10,1,199,199,5,9.95,189.05,128.05,61.0,32.27,Regular,COD,Delivered
+ORD-1172,02-Sep-2024,Sep,Q3,2024,South,Tamil Nadu,Sports,Yoga Mat,Strauss Eco Friendly,3,899,2697,0,0.0,2697.0,1689.82,1007.18,37.34,Premium,UPI,Delivered
+ORD-1173,28-Sep-2024,Sep,Q3,2024,South,Telangana,Clothing,T-Shirt,Puma Men T-Shirt,4,999,3996,10,399.6,3596.4,2384.56,1211.84,33.7,Regular,Debit Card,Delivered
+ORD-1174,08-Oct-2024,Oct,Q4,2024,South,Kerala,Home & Kitchen,Lamp,Wipro Smart LED Lamp,3,899,2697,10,269.7,2427.3,1546.49,880.81,36.29,Regular,Debit Card,Delivered
+ORD-1175,28-Apr-2024,Apr,Q2,2024,North,Delhi,Home & Kitchen,Cooker,Hawkins Classic 3L,4,1499,5996,15,899.4,5096.6,3216.87,1879.73,36.88,Premium,Net Banking,Delivered
+ORD-1176,20-Jan-2024,Jan,Q1,2024,North,Punjab,Sports,Cycle,Hero Sprint Cycle,3,7999,23997,5,1199.85,22797.15,14755.7,8041.45,35.27,Premium,Credit Card,Returned
+ORD-1177,09-Mar-2024,Mar,Q1,2024,West,Gujarat,Clothing,T-Shirt,Nike Dry-Fit T-Shirt,2,1899,3798,15,569.7,3228.3,2127.12,1101.18,34.11,Premium,UPI,Delivered
+ORD-1178,31-May-2024,May,Q2,2024,South,Tamil Nadu,Sports,Dumbbells,Bulfyss Hex Dumbbells 10kg,5,2199,10995,10,1099.5,9895.5,6186.71,3708.79,37.48,Premium,UPI,Delivered
+ORD-1179,14-Jun-2024,Jun,Q2,2024,South,Tamil Nadu,Books,Biography,Steve Jobs by Walter Isaacson,4,699,2796,5,139.8,2656.2,1798.89,857.31,32.28,Regular,Debit Card,Delivered
+ORD-1180,30-Nov-2024,Nov,Q4,2024,East,Bihar,Clothing,T-Shirt,Puma Men T-Shirt,4,999,3996,5,199.8,3796.2,2390.02,1406.18,37.04,Premium,COD,Returned
+ORD-1181,08-Jun-2024,Jun,Q2,2024,North,UP,Books,Self-Help,The 5 AM Club,2,320,640,5,32.0,608.0,411.88,196.12,32.26,Regular,Credit Card,Pending
+ORD-1182,10-Jul-2024,Jul,Q3,2024,West,Rajasthan,Sports,Dumbbells,Lifelong Chrome Dumbbells,2,1899,3798,5,189.9,3608.1,2384.31,1223.79,33.92,Regular,Debit Card,Delivered
+ORD-1183,27-Sep-2024,Sep,Q3,2024,East,West Bengal,Sports,Cricket Bat,MRF Genius Grand Edition,5,4999,24995,20,4999.0,19996.0,12640.06,7355.94,36.79,Regular,UPI,Returned
+ORD-1184,14-Aug-2024,Aug,Q3,2024,North,UP,Clothing,Jacket,Fort Collins Bomber,1,2299,2299,20,459.8,1839.2,1189.46,649.74,35.33,Regular,UPI,Delivered
+ORD-1185,15-Oct-2024,Oct,Q4,2024,North,UP,Home & Kitchen,Bedsheet,Bombay Dyeing Cotton Bedsheet,4,1499,5996,5,299.8,5696.2,3810.68,1885.52,33.1,Premium,Credit Card,Delivered
+ORD-1186,25-Jun-2024,Jun,Q2,2024,North,UP,Electronics,Mobile,Redmi Note 13,1,17999,17999,5,899.95,17099.05,11020.89,6078.16,35.55,Premium,Debit Card,Pending
+ORD-1187,26-Nov-2024,Nov,Q4,2024,West,Gujarat,Home & Kitchen,Lamp,IKEA FADO Table Lamp,4,1499,5996,0,0.0,5996.0,3963.14,2032.86,33.9,Premium,Credit Card,Delivered
+ORD-1188,27-Jun-2024,Jun,Q2,2024,North,Delhi,Sports,Dumbbells,Lifelong Chrome Dumbbells,2,1899,3798,5,189.9,3608.1,2417.75,1190.35,32.99,Premium,COD,Delivered
+ORD-1189,05-Oct-2024,Oct,Q4,2024,West,Rajasthan,Home & Kitchen,Cooker,Prestige Popular 5L,4,1899,7596,10,759.6,6836.4,4302.2,2534.2,37.07,Regular,Net Banking,Delivered
+ORD-1190,17-Jan-2024,Jan,Q1,2024,West,Rajasthan,Electronics,Laptop,Dell Inspiron 14,1,49999,49999,0,0.0,49999.0,32781.18,17217.82,34.44,Regular,Credit Card,Returned
+ORD-1191,05-May-2024,May,Q2,2024,North,Punjab,Home & Kitchen,Cooker,Hawkins Contura 3L,2,1699,3398,0,0.0,3398.0,2135.33,1262.67,37.16,New,UPI,Returned
+ORD-1192,21-Oct-2024,Oct,Q4,2024,East,Bihar,Sports,Yoga Mat,Boldfit Yoga Mat,3,699,2097,0,0.0,2097.0,1424.16,672.84,32.09,Regular,UPI,Delivered
+ORD-1193,12-Oct-2024,Oct,Q4,2024,South,Telangana,Home & Kitchen,Pillow,Recron Certified Pillow,1,399,399,10,39.9,359.1,242.93,116.17,32.35,Premium,Debit Card,Delivered
+ORD-1194,01-Aug-2024,Aug,Q3,2024,West,Maharashtra,Books,Biography,Steve Jobs by Walter Isaacson,5,699,3495,15,524.25,2970.75,1884.82,1085.93,36.55,Regular,Net Banking,Delivered
+ORD-1195,25-Aug-2024,Aug,Q3,2024,North,UP,Home & Kitchen,Lamp,Syska LED Bulb,5,199,995,0,0.0,995.0,640.09,354.91,35.67,Regular,UPI,Delivered
+ORD-1196,18-Aug-2024,Aug,Q3,2024,East,West Bengal,Sports,Football,Nivia Storm Football,3,499,1497,10,149.7,1347.3,889.78,457.52,33.96,Premium,Net Banking,Delivered
+ORD-1197,27-Oct-2024,Oct,Q4,2024,South,Kerala,Clothing,Saree,Chanderi Cotton Saree,1,1899,1899,5,94.95,1804.05,1219.95,584.1,32.38,New,UPI,Pending
+ORD-1198,02-Sep-2024,Sep,Q3,2024,South,Telangana,Sports,Football,Cosco Milano,2,799,1598,20,319.6,1278.4,817.28,461.12,36.07,Regular,Credit Card,Delivered
+ORD-1199,06-Jun-2024,Jun,Q2,2024,East,Odisha,Sports,Dumbbells,Bulfyss Hex Dumbbells 10kg,1,2199,2199,15,329.85,1869.15,1244.29,624.86,33.43,Regular,UPI,Delivered
+ORD-1200,24-Jan-2024,Jan,Q1,2024,South,Telangana,Clothing,T-Shirt,Nike Dry-Fit T-Shirt,5,1899,9495,10,949.5,8545.5,5449.56,3095.94,36.23,Regular,UPI,Delivered
+ORD-1201,05-May-2024,May,Q2,2024,West,Rajasthan,Books,Self-Help,Think and Grow Rich,4,249,996,15,149.4,846.6,533.44,313.16,36.99,Premium,UPI,Delivered
+ORD-1202,07-Sep-2024,Sep,Q3,2024,South,Telangana,Electronics,Smart Watch,Noise ColorFit Pro 5,1,3999,3999,0,0.0,3999.0,2662.78,1336.22,33.41,Regular,Net Banking,Delivered
+ORD-1203,28-Dec-2024,Dec,Q4,2024,South,Tamil Nadu,Clothing,Jacket,Fort Collins Bomber,3,2299,6897,0,0.0,6897.0,4531.81,2365.19,34.29,Premium,Credit Card,Delivered
+ORD-1204,06-Sep-2024,Sep,Q3,2024,North,Delhi,Sports,Cycle,Leader Scout 26T,1,6499,6499,0,0.0,6499.0,4235.82,2263.18,34.82,Regular,COD,Delivered
+ORD-1205,23-Dec-2024,Dec,Q4,2024,West,Maharashtra,Electronics,Mobile,Realme 12 Pro,2,24999,49998,5,2499.9,47498.1,29995.81,17502.29,36.85,Regular,Debit Card,Delivered
+ORD-1206,22-Jul-2024,Jul,Q3,2024,North,Punjab,Home & Kitchen,Lamp,Syska LED Bulb,2,199,398,5,19.9,378.1,241.23,136.87,36.2,Premium,UPI,Pending
+ORD-1207,28-Nov-2024,Nov,Q4,2024,North,Delhi,Home & Kitchen,Lamp,IKEA FADO Table Lamp,5,1499,7495,15,1124.25,6370.75,3971.31,2399.44,37.66,Regular,UPI,Delivered
+ORD-1208,10-Aug-2024,Aug,Q3,2024,East,Bihar,Electronics,Smart Watch,Noise ColorFit Pro 5,2,3999,7998,5,399.9,7598.1,5121.7,2476.4,32.59,Premium,Credit Card,Delivered
+ORD-1209,08-Feb-2024,Feb,Q1,2024,East,Bihar,Sports,Cricket Bat,SG Savage Edition,3,3499,10497,0,0.0,10497.0,7113.69,3383.31,32.23,Regular,Debit Card,Delivered
+ORD-1210,22-Jul-2024,Jul,Q3,2024,North,Punjab,Clothing,Jacket,Decathlon Fleece Jacket,5,1499,7495,10,749.5,6745.5,4456.23,2289.27,33.94,Regular,UPI,Delivered
+ORD-1211,18-Dec-2024,Dec,Q4,2024,North,UP,Books,Novel,The Alchemist,4,299,1196,5,59.8,1136.2,761.62,374.58,32.97,Regular,Debit Card,Pending
+ORD-1212,22-Jul-2024,Jul,Q3,2024,East,West Bengal,Books,Biography,Elon Musk by Walter Isaacson,2,799,1598,10,159.8,1438.2,939.41,498.79,34.68,Regular,UPI,Delivered
+ORD-1213,13-Jul-2024,Jul,Q3,2024,North,UP,Books,Textbook,HC Verma Physics,1,799,799,5,39.95,759.05,477.63,281.42,37.08,Premium,Credit Card,Delivered
+ORD-1214,11-Jun-2024,Jun,Q2,2024,East,West Bengal,Electronics,Mobile,OnePlus 12,4,64999,259996,10,25999.6,233996.4,155766.91,78229.49,33.43,Regular,UPI,Delivered
+ORD-1215,12-Oct-2024,Oct,Q4,2024,West,Maharashtra,Electronics,Mobile,OnePlus 12,5,64999,324995,0,0.0,324995.0,213136.75,111858.25,34.42,Premium,Net Banking,Delivered
+ORD-1216,30-Jul-2024,Jul,Q3,2024,West,Maharashtra,Sports,Football,Puma Spin Ball,5,999,4995,0,0.0,4995.0,3302.29,1692.71,33.89,Regular,UPI,Delivered
+ORD-1217,15-Mar-2024,Mar,Q1,2024,North,Delhi,Home & Kitchen,Bedsheet,Story@Home Double Bedsheet,3,999,2997,15,449.55,2547.45,1699.05,848.4,33.3,Regular,COD,Delivered
+ORD-1218,10-Sep-2024,Sep,Q3,2024,South,Kerala,Electronics,Laptop,Lenovo IdeaPad 3,1,38999,38999,10,3899.9,35099.1,22461.07,12638.03,36.01,Premium,Debit Card,Delivered
+ORD-1219,20-Jun-2024,Jun,Q2,2024,West,Rajasthan,Sports,Football,Adidas Tango,3,1499,4497,5,224.85,4272.15,2771.52,1500.63,35.13,Regular,UPI,Delivered
+ORD-1220,21-Dec-2024,Dec,Q4,2024,West,Rajasthan,Clothing,Saree,Georgette Partywear Saree,3,2499,7497,10,749.7,6747.3,4331.1,2416.2,35.81,New,UPI,Pending
+ORD-1221,02-Apr-2024,Apr,Q2,2024,North,UP,Home & Kitchen,Cooker,Butterfly Cordial 5L,3,2199,6597,0,0.0,6597.0,4414.3,2182.7,33.09,Premium,UPI,Delivered
+ORD-1222,20-Nov-2024,Nov,Q4,2024,East,West Bengal,Books,Textbook,Indian Polity by Laxmikanth,4,749,2996,0,0.0,2996.0,1938.24,1057.76,35.31,Regular,Credit Card,Delivered
+ORD-1223,20-Dec-2024,Dec,Q4,2024,West,Rajasthan,Electronics,Tablet,Realme Pad 2,5,19999,99995,0,0.0,99995.0,62653.08,37341.92,37.34,Regular,Credit Card,Delivered
+ORD-1224,09-Nov-2024,Nov,Q4,2024,North,UP,Home & Kitchen,Bedsheet,Story@Home Double Bedsheet,1,999,999,0,0.0,999.0,625.29,373.71,37.41,Regular,Debit Card,Delivered
+ORD-1225,18-Dec-2024,Dec,Q4,2024,South,Kerala,Books,Biography,Elon Musk by Walter Isaacson,5,799,3995,20,799.0,3196.0,2010.43,1185.57,37.1,New,Credit Card,Delivered
+ORD-1226,13-Feb-2024,Feb,Q1,2024,North,UP,Clothing,Saree,Chanderi Cotton Saree,3,1899,5697,15,854.55,4842.45,3230.19,1612.26,33.29,Regular,UPI,Delivered
+ORD-1227,22-Dec-2024,Dec,Q4,2024,West,Gujarat,Electronics,Tablet,Apple iPad Air,1,54999,54999,0,0.0,54999.0,36901.62,18097.38,32.9,Premium,Credit Card,Delivered
+ORD-1228,04-May-2024,May,Q2,2024,South,Telangana,Clothing,Saree,Bandhani Print Saree,4,1599,6396,15,959.4,5436.6,3446.32,1990.28,36.61,Regular,UPI,Delivered
+ORD-1229,09-Aug-2024,Aug,Q3,2024,West,Maharashtra,Sports,Football,Cosco Milano,5,799,3995,10,399.5,3595.5,2313.09,1282.41,35.67,Premium,UPI,Delivered
+ORD-1230,02-Feb-2024,Feb,Q1,2024,North,UP,Clothing,Saree,Chanderi Cotton Saree,2,1899,3798,15,569.7,3228.3,2023.62,1204.68,37.32,Premium,Credit Card,Pending
+ORD-1231,09-Jun-2024,Jun,Q2,2024,West,Rajasthan,Home & Kitchen,Pillow,Sleepwell Fiber Pillow,3,499,1497,10,149.7,1347.3,903.68,443.62,32.93,Premium,Debit Card,Delivered
+ORD-1232,01-Jun-2024,Jun,Q2,2024,North,UP,Clothing,Saree,Kanjivaram Silk Saree,2,7999,15998,5,799.9,15198.1,9529.47,5668.63,37.3,Regular,UPI,Delivered
+ORD-1233,01-Nov-2024,Nov,Q4,2024,South,Telangana,Home & Kitchen,Lamp,Wipro Smart LED Lamp,4,899,3596,20,719.2,2876.8,1903.31,973.49,33.84,Premium,COD,Delivered
+ORD-1234,07-Sep-2024,Sep,Q3,2024,East,West Bengal,Clothing,Saree,Georgette Partywear Saree,5,2499,12495,0,0.0,12495.0,8395.78,4099.22,32.81,New,Credit Card,Delivered
+ORD-1235,15-Jul-2024,Jul,Q3,2024,West,Gujarat,Home & Kitchen,Lamp,IKEA FADO Table Lamp,4,1499,5996,0,0.0,5996.0,3747.26,2248.74,37.5,Regular,Debit Card,Delivered
+ORD-1236,20-May-2024,May,Q2,2024,South,Telangana,Books,Textbook,Indian Polity by Laxmikanth,5,749,3745,15,561.75,3183.25,2078.61,1104.64,34.7,Regular,UPI,Delivered
+ORD-1237,06-Jul-2024,Jul,Q3,2024,North,UP,Home & Kitchen,Pillow,Kurlon Memory Foam Pillow,4,1299,5196,0,0.0,5196.0,3450.97,1745.03,33.58,Premium,UPI,Returned
+ORD-1238,17-Jan-2024,Jan,Q1,2024,West,Gujarat,Books,Novel,Silent Patient,1,399,399,5,19.95,379.05,239.78,139.27,36.74,Premium,Credit Card,Returned
+ORD-1239,08-Nov-2024,Nov,Q4,2024,West,Maharashtra,Sports,Football,Nivia Shinning Star,2,899,1798,0,0.0,1798.0,1176.26,621.74,34.58,Regular,Credit Card,Delivered
+ORD-1240,26-Dec-2024,Dec,Q4,2024,East,Odisha,Sports,Yoga Mat,Strauss Eco Friendly,1,899,899,0,0.0,899.0,609.31,289.69,32.22,Premium,COD,Pending
+ORD-1241,01-Dec-2024,Dec,Q4,2024,South,Telangana,Clothing,Jeans,Pepe Jeans Regular Fit,3,2499,7497,5,374.85,7122.15,4741.13,2381.02,33.43,Premium,Credit Card,Delivered
+ORD-1242,17-May-2024,May,Q2,2024,West,Gujarat,Home & Kitchen,Mixer,Prestige Iris 750W,4,3999,15996,20,3199.2,12796.8,8509.72,4287.08,33.5,Premium,Net Banking,Delivered
+ORD-1243,06-Sep-2024,Sep,Q3,2024,East,Bihar,Electronics,Mobile,Redmi Note 13,3,17999,53997,0,0.0,53997.0,36055.99,17941.01,33.23,Regular,COD,Delivered
+ORD-1244,10-Sep-2024,Sep,Q3,2024,East,Odisha,Books,Self-Help,The 5 AM Club,5,320,1600,0,0.0,1600.0,1046.35,553.65,34.6,Regular,UPI,Delivered
+ORD-1245,25-Jan-2024,Jan,Q1,2024,North,Delhi,Home & Kitchen,Mixer,Prestige Iris 750W,2,3999,7998,15,1199.7,6798.3,4401.16,2397.14,35.26,New,UPI,Pending
+ORD-1246,08-Mar-2024,Mar,Q1,2024,East,West Bengal,Books,Novel,It Ends With Us,3,349,1047,0,0.0,1047.0,672.5,374.5,35.77,New,UPI,Delivered
+ORD-1247,05-Jun-2024,Jun,Q2,2024,South,Kerala,Electronics,Mobile,Apple iPhone 15,2,72999,145998,15,21899.7,124098.3,77521.27,46577.03,37.53,Regular,Credit Card,Delivered
+ORD-1248,05-Jan-2024,Jan,Q1,2024,East,West Bengal,Home & Kitchen,Cooker,Butterfly Cordial 5L,1,2199,2199,5,109.95,2089.05,1343.23,745.82,35.7,Premium,UPI,Delivered
+ORD-1249,02-Jun-2024,Jun,Q2,2024,South,Kerala,Clothing,Jeans,Levis 511 Slim Fit,5,2999,14995,0,0.0,14995.0,9846.0,5149.0,34.34,Regular,UPI,Delivered
+ORD-1250,18-Mar-2024,Mar,Q1,2024,West,Rajasthan,Home & Kitchen,Cooker,Hawkins Classic 3L,1,1499,1499,0,0.0,1499.0,997.05,501.95,33.49,Regular,UPI,Pending
+ORD-1251,10-Jun-2024,Jun,Q2,2024,South,Tamil Nadu,Books,Novel,To Kill a Mockingbird,5,399,1995,5,99.75,1895.25,1263.64,631.61,33.33,Premium,Net Banking,Delivered
+ORD-1252,03-Jun-2024,Jun,Q2,2024,South,Telangana,Sports,Cycle,Firefox Target 21S,4,14999,59996,5,2999.8,56996.2,37547.4,19448.8,34.12,Premium,Debit Card,Delivered
+ORD-1253,16-Jul-2024,Jul,Q3,2024,North,Delhi,Home & Kitchen,Pillow,Sleepwell Fiber Pillow,5,499,2495,0,0.0,2495.0,1694.64,800.36,32.08,New,UPI,Returned
+ORD-1254,18-Oct-2024,Oct,Q4,2024,West,Gujarat,Sports,Football,Cosco Milano,1,799,799,0,0.0,799.0,523.54,275.46,34.48,Regular,UPI,Returned
+ORD-1255,22-Jul-2024,Jul,Q3,2024,East,Bihar,Sports,Dumbbells,Bulfyss Hex Dumbbells 10kg,4,2199,8796,0,0.0,8796.0,5791.57,3004.43,34.16,Regular,UPI,Delivered
+ORD-1256,10-Feb-2024,Feb,Q1,2024,South,Tamil Nadu,Sports,Yoga Mat,OJS Premium Yoga Mat,5,599,2995,0,0.0,2995.0,1912.64,1082.36,36.14,Regular,COD,Delivered
+ORD-1257,05-May-2024,May,Q2,2024,North,Punjab,Electronics,Earphones,Realme Buds Wireless 3,5,1799,8995,0,0.0,8995.0,5743.82,3251.18,36.14,Premium,Debit Card,Delivered
+ORD-1258,28-Dec-2024,Dec,Q4,2024,South,Telangana,Electronics,Laptop,ASUS Vivobook 16,3,44999,134997,20,26999.4,107997.6,70310.04,37687.56,34.9,Premium,UPI,Delivered
+ORD-1259,17-May-2024,May,Q2,2024,North,Delhi,Books,Biography,The Story of My Experiments with Truth,5,199,995,0,0.0,995.0,632.6,362.4,36.42,New,Credit Card,Delivered
+ORD-1260,18-Sep-2024,Sep,Q3,2024,East,West Bengal,Home & Kitchen,Pillow,Kurlon Memory Foam Pillow,3,1299,3897,0,0.0,3897.0,2475.79,1421.21,36.47,Regular,Credit Card,Delivered
+ORD-1261,26-Apr-2024,Apr,Q2,2024,North,Delhi,Electronics,Laptop,HP Pavilion 15,4,58999,235996,10,23599.6,212396.4,136566.38,75830.02,35.7,Regular,COD,Returned
+ORD-1262,10-Oct-2024,Oct,Q4,2024,West,Maharashtra,Books,Textbook,Indian Polity by Laxmikanth,3,749,2247,5,112.35,2134.65,1429.28,705.37,33.04,Regular,UPI,Delivered
+ORD-1263,27-Jan-2024,Jan,Q1,2024,South,Tamil Nadu,Sports,Cricket Bat,Spartan MSD Warrior,1,2499,2499,15,374.85,2124.15,1427.35,696.8,32.8,Premium,UPI,Delivered
+ORD-1264,21-Aug-2024,Aug,Q3,2024,North,Punjab,Clothing,Saree,Bandhani Print Saree,3,1599,4797,5,239.85,4557.15,2952.28,1604.87,35.22,Regular,Credit Card,Delivered
+ORD-1265,10-Apr-2024,Apr,Q2,2024,South,Tamil Nadu,Electronics,Earphones,boAt Rockerz 255,2,1299,2598,20,519.6,2078.4,1331.81,746.59,35.92,Premium,Net Banking,Pending
+ORD-1266,01-Jan-2024,Jan,Q1,2024,West,Rajasthan,Books,Novel,To Kill a Mockingbird,5,399,1995,5,99.75,1895.25,1222.79,672.46,35.48,New,COD,Delivered
+ORD-1267,23-May-2024,May,Q2,2024,North,Delhi,Clothing,Jacket,Fort Collins Bomber,3,2299,6897,15,1034.55,5862.45,3977.52,1884.93,32.15,Regular,UPI,Delivered
+ORD-1268,20-Jul-2024,Jul,Q3,2024,North,UP,Sports,Cricket Bat,Spartan MSD Warrior,2,2499,4998,5,249.9,4748.1,3026.92,1721.18,36.25,New,COD,Delivered
+ORD-1269,16-Jun-2024,Jun,Q2,2024,East,Odisha,Books,Textbook,HC Verma Physics,2,799,1598,0,0.0,1598.0,1065.54,532.46,33.32,Regular,UPI,Delivered
+ORD-1270,26-Aug-2024,Aug,Q3,2024,East,Odisha,Electronics,Smart Watch,boAt Wave Sigma,2,1499,2998,15,449.7,2548.3,1627.09,921.21,36.15,Regular,UPI,Delivered
+ORD-1271,17-Dec-2024,Dec,Q4,2024,East,Bihar,Sports,Cricket Bat,SG Savage Edition,3,3499,10497,0,0.0,10497.0,6565.59,3931.41,37.45,Regular,UPI,Delivered
+ORD-1272,12-Dec-2024,Dec,Q4,2024,East,Odisha,Clothing,T-Shirt,Levis Graphic T-Shirt,4,1499,5996,20,1199.2,4796.8,3189.32,1607.48,33.51,Regular,Credit Card,Delivered
+ORD-1273,12-Mar-2024,Mar,Q1,2024,North,Delhi,Electronics,Laptop,Dell Inspiron 14,2,49999,99998,10,9999.8,89998.2,57808.94,32189.26,35.77,Premium,Credit Card,Delivered
+ORD-1274,12-May-2024,May,Q2,2024,North,Delhi,Electronics,Laptop,ASUS Vivobook 16,2,44999,89998,0,0.0,89998.0,60686.07,29311.93,32.57,Premium,UPI,Delivered
+ORD-1275,24-Aug-2024,Aug,Q3,2024,North,Delhi,Sports,Dumbbells,Bulfyss Hex Dumbbells 10kg,4,2199,8796,0,0.0,8796.0,5655.51,3140.49,35.7,Regular,UPI,Returned
+ORD-1276,20-May-2024,May,Q2,2024,East,Odisha,Clothing,T-Shirt,US Polo Assn T-Shirt,5,1199,5995,5,299.75,5695.25,3752.24,1943.01,34.12,Regular,Net Banking,Delivered
+ORD-1277,14-Feb-2024,Feb,Q1,2024,East,Odisha,Clothing,Kurta,W Women Kurta,5,1499,7495,5,374.75,7120.25,4684.02,2436.23,34.22,Premium,Debit Card,Pending
+ORD-1278,31-Dec-2024,Dec,Q4,2024,East,Odisha,Sports,Dumbbells,Cockatoo Rubber Dumbbells 5kg,5,1299,6495,20,1299.0,5196.0,3321.78,1874.22,36.07,Regular,UPI,Delivered
+ORD-1279,16-Jan-2024,Jan,Q1,2024,East,West Bengal,Home & Kitchen,Pillow,The Sleep Company Pillow,5,1999,9995,5,499.75,9495.25,6441.95,3053.3,32.16,Regular,Credit Card,Delivered
+ORD-1280,29-Jan-2024,Jan,Q1,2024,South,Telangana,Home & Kitchen,Bedsheet,Portico New York Bedsheet,2,1999,3998,5,199.9,3798.1,2489.85,1308.25,34.44,Premium,Credit Card,Returned
+ORD-1281,15-Jan-2024,Jan,Q1,2024,East,Bihar,Sports,Football,Puma Spin Ball,2,999,1998,15,299.7,1698.3,1108.19,590.11,34.75,Regular,UPI,Delivered
+ORD-1282,04-Nov-2024,Nov,Q4,2024,South,Tamil Nadu,Sports,Dumbbells,Aurion PVC Dumbbells 5kg,3,599,1797,5,89.85,1707.15,1141.04,566.11,33.16,Regular,UPI,Delivered
+ORD-1283,14-Jun-2024,Jun,Q2,2024,North,Delhi,Clothing,Jacket,Decathlon Fleece Jacket,1,1499,1499,20,299.8,1199.2,805.43,393.77,32.84,New,UPI,Pending
+ORD-1284,21-Jul-2024,Jul,Q3,2024,North,Punjab,Books,Self-Help,The Psychology of Money,2,399,798,10,79.8,718.2,479.41,238.79,33.25,New,Credit Card,Delivered
+ORD-1285,14-Oct-2024,Oct,Q4,2024,East,West Bengal,Sports,Football,Cosco Milano,3,799,2397,5,119.85,2277.15,1429.23,847.92,37.24,Premium,COD,Pending
+ORD-1286,19-Jul-2024,Jul,Q3,2024,North,Delhi,Sports,Yoga Mat,Strauss Eco Friendly,2,899,1798,0,0.0,1798.0,1215.81,582.19,32.38,Regular,Debit Card,Delivered
+ORD-1287,12-Jun-2024,Jun,Q2,2024,South,Telangana,Electronics,Tablet,OnePlus Pad,1,37999,37999,5,1899.95,36099.05,22835.58,13263.47,36.74,Premium,UPI,Delivered
+ORD-1288,01-Jan-2024,Jan,Q1,2024,North,Punjab,Home & Kitchen,Lamp,Wipro Smart LED Lamp,4,899,3596,15,539.4,3056.6,2056.81,999.79,32.71,Regular,UPI,Delivered
+ORD-1289,22-Oct-2024,Oct,Q4,2024,South,Tamil Nadu,Home & Kitchen,Mixer,Prestige Iris 750W,3,3999,11997,0,0.0,11997.0,7667.56,4329.44,36.09,New,UPI,Delivered
+ORD-1290,11-Jul-2024,Jul,Q3,2024,South,Telangana,Electronics,Smart Watch,Noise ColorFit Pro 5,3,3999,11997,15,1799.55,10197.45,6753.47,3443.98,33.77,Regular,Credit Card,Delivered
+ORD-1291,10-Aug-2024,Aug,Q3,2024,South,Tamil Nadu,Electronics,Tablet,Samsung Galaxy Tab S9,2,35999,71998,10,7199.8,64798.2,42885.51,21912.69,33.82,Premium,Debit Card,Delivered
+ORD-1292,24-May-2024,May,Q2,2024,East,West Bengal,Electronics,Mobile,Redmi Note 13,5,17999,89995,20,17999.0,71996.0,48265.49,23730.51,32.96,Regular,UPI,Delivered
+ORD-1293,30-May-2024,May,Q2,2024,West,Maharashtra,Electronics,Mobile,Samsung Galaxy S24,2,74999,149998,5,7499.9,142498.1,96702.55,45795.55,32.14,Regular,UPI,Delivered
+ORD-1294,29-Aug-2024,Aug,Q3,2024,West,Rajasthan,Books,Novel,Midnight Library,4,329,1316,0,0.0,1316.0,845.22,470.78,35.77,Regular,UPI,Delivered
+ORD-1295,13-Aug-2024,Aug,Q3,2024,West,Gujarat,Clothing,Saree,Bandhani Print Saree,1,1599,1599,0,0.0,1599.0,1063.55,535.45,33.49,Premium,UPI,Delivered
+ORD-1296,04-Oct-2024,Oct,Q4,2024,West,Rajasthan,Clothing,Jacket,Wildcraft Windcheater,4,1999,7996,20,1599.2,6396.8,4126.69,2270.11,35.49,Regular,Net Banking,Delivered
+ORD-1297,30-Apr-2024,Apr,Q2,2024,West,Gujarat,Electronics,Earphones,boAt Rockerz 255,5,1299,6495,20,1299.0,5196.0,3471.07,1724.93,33.2,Premium,Credit Card,Delivered
+ORD-1298,17-Aug-2024,Aug,Q3,2024,South,Tamil Nadu,Clothing,Jeans,Pepe Jeans Regular Fit,1,2499,2499,10,249.9,2249.1,1405.02,844.08,37.53,Premium,UPI,Delivered
+ORD-1299,16-Mar-2024,Mar,Q1,2024,East,Odisha,Electronics,Mobile,Redmi Note 13,5,17999,89995,10,8999.5,80995.5,52900.04,28095.46,34.69,New,Credit Card,Returned
+ORD-1300,07-Jan-2024,Jan,Q1,2024,West,Maharashtra,Home & Kitchen,Cooker,Prestige Popular 5L,5,1899,9495,0,0.0,9495.0,6413.83,3081.17,32.45,Regular,UPI,Delivered
+ORD-1301,01-Oct-2024,Oct,Q4,2024,East,Odisha,Books,Biography,Elon Musk by Walter Isaacson,5,799,3995,15,599.25,3395.75,2113.0,1282.75,37.78,Regular,UPI,Delivered
+ORD-1302,21-Dec-2024,Dec,Q4,2024,West,Maharashtra,Home & Kitchen,Bedsheet,Portico New York Bedsheet,1,1999,1999,15,299.85,1699.15,1147.35,551.8,32.48,New,UPI,Delivered
+ORD-1303,04-Jun-2024,Jun,Q2,2024,East,Odisha,Home & Kitchen,Mixer,Lifelong Duos 500W,2,1799,3598,5,179.9,3418.1,2319.02,1099.08,32.15,Regular,Net Banking,Delivered
+ORD-1304,01-Aug-2024,Aug,Q3,2024,North,Delhi,Home & Kitchen,Cooker,Butterfly Cordial 5L,4,2199,8796,20,1759.2,7036.8,4728.95,2307.85,32.8,Premium,Credit Card,Delivered
+ORD-1305,08-Jun-2024,Jun,Q2,2024,West,Maharashtra,Sports,Cycle,Hero Sprint Cycle,2,7999,15998,5,799.9,15198.1,10220.89,4977.21,32.75,Regular,UPI,Delivered
+ORD-1306,26-Jan-2024,Jan,Q1,2024,East,Bihar,Clothing,Saree,Chanderi Cotton Saree,4,1899,7596,20,1519.2,6076.8,3912.34,2164.46,35.62,New,Credit Card,Delivered
+ORD-1307,07-Sep-2024,Sep,Q3,2024,West,Maharashtra,Home & Kitchen,Pillow,Wakefit Hollow Fiber Pillow,3,599,1797,10,179.7,1617.3,1018.59,598.71,37.02,New,Debit Card,Delivered
+ORD-1308,25-May-2024,May,Q2,2024,North,Punjab,Electronics,Laptop,Acer Aspire 5,2,39999,79998,5,3999.9,75998.1,50070.8,25927.3,34.12,Premium,UPI,Delivered
+ORD-1309,11-Jan-2024,Jan,Q1,2024,North,Punjab,Clothing,Jeans,Spykar Super Skinny,1,2299,2299,5,114.95,2184.05,1387.19,796.86,36.49,Premium,UPI,Pending
+ORD-1310,25-Nov-2024,Nov,Q4,2024,East,Odisha,Home & Kitchen,Bedsheet,Story@Home Double Bedsheet,3,999,2997,5,149.85,2847.15,1844.96,1002.19,35.2,Premium,Net Banking,Delivered
+ORD-1311,22-Feb-2024,Feb,Q1,2024,North,UP,Books,Comic,Batman: Year One,5,499,2495,5,124.75,2370.25,1512.0,858.25,36.21,Regular,UPI,Pending
+ORD-1312,23-Nov-2024,Nov,Q4,2024,East,Odisha,Books,Self-Help,The Psychology of Money,2,399,798,20,159.6,638.4,425.13,213.27,33.41,New,Debit Card,Delivered
+ORD-1313,03-Nov-2024,Nov,Q4,2024,West,Rajasthan,Books,Textbook,HC Verma Physics,4,799,3196,5,159.8,3036.2,1929.7,1106.5,36.44,Regular,UPI,Delivered
+ORD-1314,28-Dec-2024,Dec,Q4,2024,South,Kerala,Clothing,Jacket,Fort Collins Bomber,3,2299,6897,20,1379.4,5517.6,3520.29,1997.31,36.2,Regular,Credit Card,Delivered
+ORD-1315,30-May-2024,May,Q2,2024,North,Punjab,Clothing,Saree,Bandhani Print Saree,2,1599,3198,10,319.8,2878.2,1897.5,980.7,34.07,Regular,UPI,Returned
+ORD-1316,03-Aug-2024,Aug,Q3,2024,East,Odisha,Books,Comic,Amar Chitra Katha,4,120,480,0,0.0,480.0,311.15,168.85,35.18,New,Credit Card,Pending
+ORD-1317,06-Feb-2024,Feb,Q1,2024,West,Maharashtra,Sports,Cricket Bat,Spartan MSD Warrior,5,2499,12495,5,624.75,11870.25,7653.78,4216.47,35.52,New,UPI,Pending
+ORD-1318,24-Jun-2024,Jun,Q2,2024,West,Rajasthan,Home & Kitchen,Cooker,Pigeon Favourite 3L,2,1099,2198,0,0.0,2198.0,1427.06,770.94,35.07,Premium,UPI,Delivered
+ORD-1319,03-Jan-2024,Jan,Q1,2024,West,Gujarat,Clothing,Jeans,Spykar Super Skinny,2,2299,4598,15,689.7,3908.3,2607.28,1301.02,33.29,Premium,UPI,Delivered
+ORD-1320,07-Aug-2024,Aug,Q3,2024,West,Gujarat,Home & Kitchen,Lamp,Philips Deco LED Lamp,1,599,599,20,119.8,479.2,302.84,176.36,36.8,Regular,UPI,Delivered
+ORD-1321,28-Sep-2024,Sep,Q3,2024,South,Tamil Nadu,Electronics,Laptop,Dell Inspiron 14,3,49999,149997,5,7499.85,142497.15,89450.57,53046.58,37.23,Regular,Credit Card,Delivered
+ORD-1322,24-Jan-2024,Jan,Q1,2024,East,Odisha,Home & Kitchen,Pillow,Wakefit Hollow Fiber Pillow,5,599,2995,10,299.5,2695.5,1741.35,954.15,35.4,Premium,UPI,Pending
+ORD-1323,07-Sep-2024,Sep,Q3,2024,East,West Bengal,Clothing,Kurta,Manyavar Men Kurta,2,2999,5998,5,299.9,5698.1,3781.43,1916.67,33.64,Regular,Debit Card,Delivered
+ORD-1324,27-Mar-2024,Mar,Q1,2024,North,Punjab,Electronics,Earphones,JBL Tune 510BT,5,3499,17495,0,0.0,17495.0,11470.34,6024.66,34.44,Regular,UPI,Delivered
+ORD-1325,25-Jan-2024,Jan,Q1,2024,North,Punjab,Home & Kitchen,Lamp,Philips Deco LED Lamp,5,599,2995,5,149.75,2845.25,1845.04,1000.21,35.15,Regular,Credit Card,Delivered
+ORD-1326,03-Jun-2024,Jun,Q2,2024,West,Rajasthan,Electronics,Smart Watch,boAt Wave Sigma,5,1499,7495,0,0.0,7495.0,4835.25,2659.75,35.49,New,Credit Card,Delivered
+ORD-1327,24-May-2024,May,Q2,2024,North,Delhi,Home & Kitchen,Cooker,Hawkins Contura 3L,2,1699,3398,5,169.9,3228.1,2162.47,1065.63,33.01,New,UPI,Delivered
+ORD-1328,23-Mar-2024,Mar,Q1,2024,North,UP,Home & Kitchen,Cooker,Butterfly Cordial 5L,3,2199,6597,5,329.85,6267.15,3886.66,2380.49,37.98,Premium,COD,Delivered
+ORD-1329,08-Dec-2024,Dec,Q4,2024,West,Maharashtra,Electronics,Smart Watch,Noise ColorFit Pro 5,1,3999,3999,5,199.95,3799.05,2502.28,1296.77,34.13,Regular,COD,Delivered
+ORD-1330,26-Jan-2024,Jan,Q1,2024,North,Delhi,Electronics,Tablet,Lenovo Tab M10,3,13999,41997,10,4199.7,37797.3,25109.22,12688.08,33.57,Regular,Debit Card,Delivered
+ORD-1331,11-Mar-2024,Mar,Q1,2024,South,Kerala,Books,Biography,Playing It My Way (Sachin Tendulkar),3,599,1797,0,0.0,1797.0,1154.32,642.68,35.76,Regular,UPI,Delivered
+ORD-1332,21-Aug-2024,Aug,Q3,2024,East,Odisha,Home & Kitchen,Lamp,Wipro Smart LED Lamp,1,899,899,0,0.0,899.0,594.93,304.07,33.82,Regular,COD,Delivered
+ORD-1333,01-Aug-2024,Aug,Q3,2024,West,Rajasthan,Home & Kitchen,Cooker,Hawkins Contura 3L,4,1699,6796,10,679.6,6116.4,4016.53,2099.87,34.33,New,Net Banking,Delivered
+ORD-1334,07-Mar-2024,Mar,Q1,2024,West,Gujarat,Electronics,Earphones,OnePlus Bullets Z2,1,1999,1999,0,0.0,1999.0,1270.76,728.24,36.43,Regular,Debit Card,Delivered
+ORD-1335,22-Oct-2024,Oct,Q4,2024,South,Telangana,Books,Comic,Batman: Year One,5,499,2495,0,0.0,2495.0,1611.7,883.3,35.4,Premium,Credit Card,Delivered
+ORD-1336,24-Nov-2024,Nov,Q4,2024,West,Maharashtra,Sports,Cycle,Hero Sprint Cycle,1,7999,7999,0,0.0,7999.0,5202.02,2796.98,34.97,Regular,Credit Card,Delivered
+ORD-1337,08-Sep-2024,Sep,Q3,2024,East,West Bengal,Books,Self-Help,Atomic Habits,5,450,2250,5,112.5,2137.5,1395.85,741.65,34.7,Regular,Debit Card,Delivered
+ORD-1338,15-Aug-2024,Aug,Q3,2024,West,Maharashtra,Home & Kitchen,Lamp,Syska Table Lamp,1,1199,1199,15,179.85,1019.15,677.44,341.71,33.53,Regular,UPI,Delivered
+ORD-1339,08-Oct-2024,Oct,Q4,2024,North,Delhi,Sports,Cycle,Hercules Roadeo,5,9999,49995,20,9999.0,39996.0,25293.91,14702.09,36.76,Premium,COD,Delivered
+ORD-1340,28-Jan-2024,Jan,Q1,2024,South,Kerala,Books,Comic,Batman: Year One,5,499,2495,15,374.25,2120.75,1406.06,714.69,33.7,Regular,Credit Card,Delivered
+ORD-1341,03-Dec-2024,Dec,Q4,2024,South,Tamil Nadu,Books,Self-Help,Rich Dad Poor Dad,5,349,1745,20,349.0,1396.0,896.84,499.16,35.76,Regular,Net Banking,Delivered
+ORD-1342,28-Jul-2024,Jul,Q3,2024,North,Punjab,Sports,Football,Nivia Shinning Star,1,899,899,10,89.9,809.1,512.11,296.99,36.71,Premium,UPI,Delivered
+ORD-1343,31-Jul-2024,Jul,Q3,2024,North,UP,Sports,Cricket Bat,Spartan MSD Warrior,4,2499,9996,20,1999.2,7996.8,5022.62,2974.18,37.19,Regular,Credit Card,Delivered
+ORD-1344,09-Aug-2024,Aug,Q3,2024,West,Rajasthan,Clothing,Jacket,Decathlon Fleece Jacket,2,1499,2998,0,0.0,2998.0,1928.45,1069.55,35.68,Premium,Net Banking,Delivered
+ORD-1345,15-Jul-2024,Jul,Q3,2024,West,Rajasthan,Clothing,Saree,Georgette Partywear Saree,3,2499,7497,5,374.85,7122.15,4609.25,2512.9,35.28,Regular,UPI,Delivered
+ORD-1346,19-Sep-2024,Sep,Q3,2024,East,Bihar,Sports,Yoga Mat,Strauss Eco Friendly,2,899,1798,5,89.9,1708.1,1080.51,627.59,36.74,Premium,Credit Card,Returned
+ORD-1347,08-Mar-2024,Mar,Q1,2024,South,Telangana,Sports,Yoga Mat,Kore Exercise Yoga Mat,3,399,1197,20,239.4,957.6,621.31,336.29,35.12,Regular,Credit Card,Delivered
+ORD-1348,30-Sep-2024,Sep,Q3,2024,East,Odisha,Electronics,Smart Watch,Noise ColorFit Pro 5,1,3999,3999,10,399.9,3599.1,2262.82,1336.28,37.13,Premium,UPI,Delivered
+ORD-1349,23-Mar-2024,Mar,Q1,2024,East,Bihar,Books,Textbook,HC Verma Physics,3,799,2397,5,119.85,2277.15,1514.8,762.35,33.48,Regular,Debit Card,Delivered
+ORD-1350,11-Dec-2024,Dec,Q4,2024,South,Telangana,Sports,Dumbbells,Kore Steel Dumbbells 10kg,5,1499,7495,5,374.75,7120.25,4710.59,2409.66,33.84,Regular,UPI,Delivered
+ORD-1351,16-Dec-2024,Dec,Q4,2024,East,Bihar,Electronics,Mobile,OnePlus 12,2,64999,129998,15,19499.7,110498.3,74011.65,36486.65,33.02,New,Debit Card,Delivered
+ORD-1352,28-Oct-2024,Oct,Q4,2024,South,Telangana,Clothing,Saree,Georgette Partywear Saree,2,2499,4998,0,0.0,4998.0,3154.83,1843.17,36.88,Regular,Credit Card,Delivered
+ORD-1353,07-Aug-2024,Aug,Q3,2024,East,Bihar,Books,Textbook,RD Sharma Mathematics,5,899,4495,5,224.75,4270.25,2649.0,1621.25,37.97,Regular,COD,Delivered
+ORD-1354,14-Jun-2024,Jun,Q2,2024,North,UP,Sports,Yoga Mat,OJS Premium Yoga Mat,5,599,2995,20,599.0,2396.0,1537.0,859.0,35.85,Premium,UPI,Delivered
+ORD-1355,04-Apr-2024,Apr,Q2,2024,North,UP,Clothing,Kurta,Soch Embroidered Kurta,5,3499,17495,10,1749.5,15745.5,9849.07,5896.43,37.45,Regular,UPI,Delivered
+ORD-1356,03-Jul-2024,Jul,Q3,2024,East,West Bengal,Sports,Cycle,Leader Scout 26T,5,6499,32495,0,0.0,32495.0,20370.57,12124.43,37.31,Regular,UPI,Delivered
+ORD-1357,14-Nov-2024,Nov,Q4,2024,South,Tamil Nadu,Books,Biography,Wings of Fire (APJ Abdul Kalam),4,299,1196,5,59.8,1136.2,741.27,394.93,34.76,Regular,COD,Delivered
+ORD-1358,10-Jul-2024,Jul,Q3,2024,West,Gujarat,Electronics,Tablet,Samsung Galaxy Tab S9,3,35999,107997,20,21599.4,86397.6,53993.38,32404.22,37.51,Regular,COD,Delivered
+ORD-1359,30-Sep-2024,Sep,Q3,2024,North,UP,Electronics,Laptop,Dell Inspiron 14,4,49999,199996,0,0.0,199996.0,126464.43,73531.57,36.77,Premium,Net Banking,Delivered
+ORD-1360,10-Aug-2024,Aug,Q3,2024,North,UP,Clothing,T-Shirt,Levis Graphic T-Shirt,3,1499,4497,0,0.0,4497.0,2811.75,1685.25,37.47,Regular,Debit Card,Delivered
+ORD-1361,21-Oct-2024,Oct,Q4,2024,South,Kerala,Home & Kitchen,Lamp,IKEA FADO Table Lamp,4,1499,5996,10,599.6,5396.4,3448.21,1948.19,36.1,Regular,UPI,Delivered
+ORD-1362,12-Nov-2024,Nov,Q4,2024,North,UP,Sports,Cricket Bat,MRF Genius Grand Edition,3,4999,14997,20,2999.4,11997.6,7514.91,4482.69,37.36,Premium,UPI,Delivered
+ORD-1363,12-Aug-2024,Aug,Q3,2024,West,Gujarat,Electronics,Earphones,Sony WH-CH520,5,4490,22450,5,1122.5,21327.5,13397.57,7929.93,37.18,Regular,Debit Card,Delivered
+ORD-1364,20-Nov-2024,Nov,Q4,2024,South,Kerala,Books,Novel,Midnight Library,5,329,1645,0,0.0,1645.0,1032.06,612.94,37.26,Regular,Credit Card,Delivered
+ORD-1365,13-Feb-2024,Feb,Q1,2024,East,West Bengal,Books,Textbook,Indian Polity by Laxmikanth,5,749,3745,0,0.0,3745.0,2358.07,1386.93,37.03,Regular,Net Banking,Delivered
+ORD-1366,02-Apr-2024,Apr,Q2,2024,North,UP,Home & Kitchen,Pillow,Sleepwell Fiber Pillow,3,499,1497,0,0.0,1497.0,950.66,546.34,36.5,Regular,Credit Card,Pending
+ORD-1367,01-Jul-2024,Jul,Q3,2024,South,Telangana,Clothing,T-Shirt,Nike Dry-Fit T-Shirt,5,1899,9495,0,0.0,9495.0,6399.7,3095.3,32.6,Regular,Credit Card,Delivered
+ORD-1368,05-Jun-2024,Jun,Q2,2024,South,Telangana,Sports,Yoga Mat,VIFITKIT Yoga Mat,4,499,1996,0,0.0,1996.0,1238.1,757.9,37.97,Regular,UPI,Delivered
+ORD-1369,11-Aug-2024,Aug,Q3,2024,East,Odisha,Clothing,Saree,Georgette Partywear Saree,4,2499,9996,15,1499.4,8496.6,5450.78,3045.82,35.85,Regular,Credit Card,Delivered
+ORD-1370,06-Nov-2024,Nov,Q4,2024,North,Punjab,Clothing,Jacket,Decathlon Fleece Jacket,3,1499,4497,0,0.0,4497.0,2984.41,1512.59,33.64,New,Net Banking,Delivered
+ORD-1371,24-Oct-2024,Oct,Q4,2024,West,Rajasthan,Clothing,T-Shirt,US Polo Assn T-Shirt,3,1199,3597,20,719.4,2877.6,1938.46,939.14,32.64,Regular,Credit Card,Delivered
+ORD-1372,19-Jul-2024,Jul,Q3,2024,South,Telangana,Books,Textbook,Indian Polity by Laxmikanth,5,749,3745,20,749.0,2996.0,1873.8,1122.2,37.46,Regular,UPI,Delivered
+ORD-1373,10-Nov-2024,Nov,Q4,2024,South,Telangana,Clothing,Kurta,W Women Kurta,2,1499,2998,0,0.0,2998.0,1991.14,1006.86,33.58,Regular,UPI,Delivered
+ORD-1374,06-Sep-2024,Sep,Q3,2024,South,Tamil Nadu,Books,Self-Help,The Psychology of Money,1,399,399,5,19.95,379.05,246.79,132.26,34.89,Premium,UPI,Returned
+ORD-1375,24-Jan-2024,Jan,Q1,2024,North,UP,Books,Novel,Midnight Library,3,329,987,5,49.35,937.65,613.9,323.75,34.53,Regular,UPI,Delivered
+ORD-1376,27-Oct-2024,Oct,Q4,2024,North,UP,Books,Biography,Steve Jobs by Walter Isaacson,5,699,3495,10,349.5,3145.5,2016.81,1128.69,35.88,New,Credit Card,Delivered
+ORD-1377,05-Nov-2024,Nov,Q4,2024,North,UP,Clothing,Kurta,W Women Kurta,2,1499,2998,0,0.0,2998.0,1951.32,1046.68,34.91,Regular,UPI,Delivered
+ORD-1378,04-Nov-2024,Nov,Q4,2024,North,UP,Clothing,Kurta,Biba Printed Kurta,1,2199,2199,15,329.85,1869.15,1234.6,634.55,33.95,Regular,Credit Card,Delivered
+ORD-1379,29-Jul-2024,Jul,Q3,2024,North,Delhi,Electronics,Laptop,Acer Aspire 5,5,39999,199995,0,0.0,199995.0,125613.55,74381.45,37.19,Regular,Net Banking,Delivered
+ORD-1380,26-Mar-2024,Mar,Q1,2024,East,West Bengal,Sports,Dumbbells,Lifelong Chrome Dumbbells,5,1899,9495,0,0.0,9495.0,6387.39,3107.61,32.73,Premium,Net Banking,Pending
+ORD-1381,20-Apr-2024,Apr,Q2,2024,West,Rajasthan,Home & Kitchen,Lamp,Wipro Smart LED Lamp,2,899,1798,10,179.8,1618.2,1061.62,556.58,34.4,Premium,Net Banking,Delivered
+ORD-1382,03-Dec-2024,Dec,Q4,2024,East,West Bengal,Books,Biography,Playing It My Way (Sachin Tendulkar),5,599,2995,0,0.0,2995.0,1898.2,1096.8,36.62,Regular,UPI,Delivered
+ORD-1383,15-Sep-2024,Sep,Q3,2024,West,Maharashtra,Sports,Cricket Bat,SG Savage Edition,4,3499,13996,0,0.0,13996.0,9414.62,4581.38,32.73,Regular,Debit Card,Delivered
+ORD-1384,03-Dec-2024,Dec,Q4,2024,South,Telangana,Sports,Cricket Bat,Spartan MSD Warrior,5,2499,12495,10,1249.5,11245.5,7222.11,4023.39,35.78,Regular,Credit Card,Delivered
+ORD-1385,03-Sep-2024,Sep,Q3,2024,West,Gujarat,Sports,Cycle,Hero Sprint Cycle,4,7999,31996,0,0.0,31996.0,20326.13,11669.87,36.47,Premium,COD,Delivered
+ORD-1386,02-Nov-2024,Nov,Q4,2024,West,Gujarat,Clothing,T-Shirt,Puma Men T-Shirt,5,999,4995,20,999.0,3996.0,2505.77,1490.23,37.29,Regular,Credit Card,Delivered
+ORD-1387,10-Jun-2024,Jun,Q2,2024,West,Gujarat,Electronics,Laptop,ASUS Vivobook 16,5,44999,224995,5,11249.75,213745.25,135873.19,77872.06,36.43,Regular,Credit Card,Delivered
+ORD-1388,14-Dec-2024,Dec,Q4,2024,West,Maharashtra,Home & Kitchen,Pillow,Wakefit Hollow Fiber Pillow,4,599,2396,0,0.0,2396.0,1538.74,857.26,35.78,Regular,UPI,Delivered
+ORD-1389,25-Jun-2024,Jun,Q2,2024,West,Rajasthan,Clothing,T-Shirt,Adidas Solid T-Shirt,4,1299,5196,0,0.0,5196.0,3252.78,1943.22,37.4,Regular,Debit Card,Delivered
+ORD-1390,10-Nov-2024,Nov,Q4,2024,North,Delhi,Home & Kitchen,Mixer,Prestige Iris 750W,2,3999,7998,15,1199.7,6798.3,4592.6,2205.7,32.44,Regular,UPI,Delivered
+ORD-1391,10-Feb-2024,Feb,Q1,2024,North,UP,Home & Kitchen,Lamp,Syska LED Bulb,5,199,995,5,49.75,945.25,626.41,318.84,33.73,Regular,COD,Delivered
+ORD-1392,23-Nov-2024,Nov,Q4,2024,West,Gujarat,Electronics,Laptop,Acer Aspire 5,3,39999,119997,5,5999.85,113997.15,70908.12,43089.03,37.8,Regular,Credit Card,Delivered
+ORD-1393,27-Mar-2024,Mar,Q1,2024,North,Punjab,Clothing,T-Shirt,Adidas Solid T-Shirt,1,1299,1299,5,64.95,1234.05,822.84,411.21,33.32,Regular,UPI,Delivered
+ORD-1394,22-Sep-2024,Sep,Q3,2024,North,UP,Electronics,Mobile,Realme 12 Pro,3,24999,74997,20,14999.4,59997.6,40492.41,19505.19,32.51,Regular,COD,Delivered
+ORD-1395,06-Nov-2024,Nov,Q4,2024,South,Kerala,Home & Kitchen,Pillow,Sleepwell Fiber Pillow,3,499,1497,0,0.0,1497.0,964.71,532.29,35.56,Regular,UPI,Delivered
+ORD-1396,29-Feb-2024,Feb,Q1,2024,East,Bihar,Sports,Yoga Mat,OJS Premium Yoga Mat,4,599,2396,15,359.4,2036.6,1356.78,679.82,33.38,Premium,COD,Delivered
+ORD-1397,23-Aug-2024,Aug,Q3,2024,North,Punjab,Electronics,Tablet,Apple iPad Air,4,54999,219996,5,10999.8,208996.2,138065.98,70930.22,33.94,Regular,UPI,Pending
+ORD-1398,21-Sep-2024,Sep,Q3,2024,North,UP,Books,Textbook,NCERT Science Class 10,1,199,199,10,19.9,179.1,118.28,60.82,33.96,Premium,UPI,Pending
+ORD-1399,31-Aug-2024,Aug,Q3,2024,East,Odisha,Clothing,Jacket,Levis Denim Jacket,2,4599,9198,5,459.9,8738.1,5679.24,3058.86,35.01,Regular,Debit Card,Returned
+ORD-1400,15-Apr-2024,Apr,Q2,2024,South,Tamil Nadu,Clothing,Jacket,Levis Denim Jacket,2,4599,9198,0,0.0,9198.0,5768.92,3429.08,37.28,Regular,COD,Delivered
+ORD-1401,04-Jan-2024,Jan,Q1,2024,North,Punjab,Books,Comic,Amar Chitra Katha,4,120,480,5,24.0,456.0,296.15,159.85,35.05,New,COD,Delivered
+ORD-1402,23-Apr-2024,Apr,Q2,2024,South,Tamil Nadu,Sports,Dumbbells,Bulfyss Hex Dumbbells 10kg,5,2199,10995,0,0.0,10995.0,7148.38,3846.62,34.99,Regular,Credit Card,Delivered
+ORD-1403,02-Mar-2024,Mar,Q1,2024,West,Gujarat,Electronics,Mobile,Samsung Galaxy S24,4,74999,299996,0,0.0,299996.0,191855.29,108140.71,36.05,Premium,UPI,Delivered
+ORD-1404,01-May-2024,May,Q2,2024,East,Odisha,Sports,Yoga Mat,VIFITKIT Yoga Mat,2,499,998,15,149.7,848.3,547.52,300.78,35.46,Regular,Debit Card,Delivered
+ORD-1405,24-Jul-2024,Jul,Q3,2024,East,Odisha,Clothing,Jacket,Decathlon Fleece Jacket,5,1499,7495,5,374.75,7120.25,4762.39,2357.86,33.11,Premium,Debit Card,Delivered
+ORD-1406,14-Jul-2024,Jul,Q3,2024,South,Tamil Nadu,Clothing,Kurta,Manyavar Men Kurta,2,2999,5998,10,599.8,5398.2,3508.7,1889.5,35.0,New,Net Banking,Delivered
+ORD-1407,10-Jun-2024,Jun,Q2,2024,West,Gujarat,Books,Comic,Batman: Year One,1,499,499,10,49.9,449.1,281.11,167.99,37.41,Regular,UPI,Delivered
+ORD-1408,18-Nov-2024,Nov,Q4,2024,North,Punjab,Books,Self-Help,Rich Dad Poor Dad,3,349,1047,20,209.4,837.6,547.33,290.27,34.65,Premium,UPI,Delivered
+ORD-1409,28-Jun-2024,Jun,Q2,2024,South,Telangana,Sports,Cycle,Firefox Target 21S,3,14999,44997,10,4499.7,40497.3,25898.24,14599.06,36.05,Regular,Debit Card,Delivered
+ORD-1410,10-Feb-2024,Feb,Q1,2024,West,Rajasthan,Books,Biography,Steve Jobs by Walter Isaacson,2,699,1398,10,139.8,1258.2,811.93,446.27,35.47,Premium,UPI,Returned
+ORD-1411,10-Feb-2024,Feb,Q1,2024,South,Kerala,Clothing,Saree,Chanderi Cotton Saree,3,1899,5697,5,284.85,5412.15,3552.12,1860.03,34.37,Regular,Net Banking,Delivered
+ORD-1412,04-Jul-2024,Jul,Q3,2024,West,Gujarat,Clothing,Jeans,Levis 511 Slim Fit,2,2999,5998,5,299.9,5698.1,3759.16,1938.94,34.03,New,Debit Card,Delivered
+ORD-1413,26-Mar-2024,Mar,Q1,2024,West,Maharashtra,Electronics,Mobile,Redmi Note 13,5,17999,89995,0,0.0,89995.0,55939.26,34055.74,37.84,Regular,Debit Card,Delivered
+ORD-1414,14-May-2024,May,Q2,2024,South,Tamil Nadu,Home & Kitchen,Bedsheet,Portico New York Bedsheet,2,1999,3998,5,199.9,3798.1,2455.81,1342.29,35.34,Regular,Credit Card,Delivered
+ORD-1415,18-Jan-2024,Jan,Q1,2024,East,Odisha,Home & Kitchen,Lamp,Syska LED Bulb,3,199,597,20,119.4,477.6,308.86,168.74,35.33,New,Credit Card,Delivered
+ORD-1416,01-Nov-2024,Nov,Q4,2024,West,Rajasthan,Sports,Dumbbells,Lifelong Chrome Dumbbells,5,1899,9495,5,474.75,9020.25,6084.48,2935.77,32.55,Regular,UPI,Delivered
+ORD-1417,06-Jun-2024,Jun,Q2,2024,East,Odisha,Books,Textbook,NCERT Science Class 10,1,199,199,0,0.0,199.0,129.63,69.37,34.86,Premium,UPI,Delivered
+ORD-1418,30-Sep-2024,Sep,Q3,2024,North,UP,Home & Kitchen,Lamp,Syska Table Lamp,1,1199,1199,10,119.9,1079.1,720.71,358.39,33.21,Regular,Debit Card,Delivered
+ORD-1419,06-Apr-2024,Apr,Q2,2024,West,Rajasthan,Home & Kitchen,Lamp,Wipro Smart LED Lamp,2,899,1798,10,179.8,1618.2,1083.72,534.48,33.03,Regular,UPI,Delivered
+ORD-1420,21-Sep-2024,Sep,Q3,2024,East,Odisha,Sports,Yoga Mat,OJS Premium Yoga Mat,2,599,1198,0,0.0,1198.0,755.87,442.13,36.91,Regular,Credit Card,Delivered
+ORD-1421,19-May-2024,May,Q2,2024,West,Maharashtra,Books,Novel,To Kill a Mockingbird,1,399,399,20,79.8,319.2,198.33,120.87,37.87,New,UPI,Delivered
+ORD-1422,12-Aug-2024,Aug,Q3,2024,North,Delhi,Electronics,Laptop,HP Pavilion 15,4,58999,235996,5,11799.8,224196.2,143600.98,80595.22,35.95,Regular,Debit Card,Pending
+ORD-1423,25-Aug-2024,Aug,Q3,2024,North,Punjab,Electronics,Laptop,HP Pavilion 15,3,58999,176997,10,17699.7,159297.3,99446.61,59850.69,37.57,Regular,UPI,Delivered
+ORD-1424,14-Jul-2024,Jul,Q3,2024,North,Delhi,Clothing,Kurta,Anouk Cotton Kurta,2,999,1998,0,0.0,1998.0,1262.64,735.36,36.8,Premium,UPI,Delivered
+ORD-1425,16-Apr-2024,Apr,Q2,2024,West,Gujarat,Books,Self-Help,The Psychology of Money,1,399,399,20,79.8,319.2,207.88,111.32,34.87,Regular,Credit Card,Delivered
+ORD-1426,27-Jan-2024,Jan,Q1,2024,South,Tamil Nadu,Clothing,Kurta,Biba Printed Kurta,1,2199,2199,0,0.0,2199.0,1468.19,730.81,33.23,Regular,UPI,Delivered
+ORD-1427,22-Jan-2024,Jan,Q1,2024,West,Rajasthan,Sports,Football,Adidas Tango,1,1499,1499,5,74.95,1424.05,896.39,527.66,37.05,Regular,Credit Card,Pending
+ORD-1428,16-Nov-2024,Nov,Q4,2024,North,Delhi,Books,Textbook,Fundamentals of Database Systems,1,999,999,0,0.0,999.0,648.62,350.38,35.07,Regular,Credit Card,Delivered
+ORD-1429,26-Jun-2024,Jun,Q2,2024,West,Rajasthan,Clothing,T-Shirt,Levis Graphic T-Shirt,3,1499,4497,0,0.0,4497.0,2855.78,1641.22,36.5,Regular,Debit Card,Delivered
+ORD-1430,04-Oct-2024,Oct,Q4,2024,West,Maharashtra,Sports,Football,Puma Spin Ball,3,999,2997,10,299.7,2697.3,1790.86,906.44,33.61,Regular,Net Banking,Returned
+ORD-1431,10-Oct-2024,Oct,Q4,2024,South,Tamil Nadu,Sports,Football,Cosco Milano,3,799,2397,5,119.85,2277.15,1485.83,791.32,34.75,Regular,Debit Card,Delivered
+ORD-1432,04-Apr-2024,Apr,Q2,2024,North,UP,Books,Comic,Chacha Chaudhary,3,99,297,0,0.0,297.0,195.87,101.13,34.05,Regular,UPI,Delivered
+ORD-1433,11-Sep-2024,Sep,Q3,2024,South,Telangana,Books,Self-Help,Think and Grow Rich,3,249,747,0,0.0,747.0,467.45,279.55,37.42,Premium,UPI,Pending
+ORD-1434,01-Apr-2024,Apr,Q2,2024,North,Delhi,Electronics,Earphones,Sony WH-CH520,1,4490,4490,0,0.0,4490.0,2937.63,1552.37,34.57,Premium,Credit Card,Delivered
+ORD-1435,25-Dec-2024,Dec,Q4,2024,East,West Bengal,Books,Textbook,Fundamentals of Database Systems,1,999,999,0,0.0,999.0,675.14,323.86,32.42,Regular,Credit Card,Returned
+ORD-1436,10-Feb-2024,Feb,Q1,2024,West,Rajasthan,Electronics,Tablet,Realme Pad 2,4,19999,79996,10,7999.6,71996.4,48068.75,23927.65,33.23,Regular,Credit Card,Delivered
+ORD-1437,06-Feb-2024,Feb,Q1,2024,East,West Bengal,Clothing,Jacket,Wildcraft Windcheater,1,1999,1999,5,99.95,1899.05,1237.99,661.06,34.81,Regular,Credit Card,Delivered
+ORD-1438,16-Nov-2024,Nov,Q4,2024,South,Telangana,Sports,Dumbbells,Aurion PVC Dumbbells 5kg,5,599,2995,10,299.5,2695.5,1780.3,915.2,33.95,Premium,UPI,Delivered
+ORD-1439,02-Apr-2024,Apr,Q2,2024,West,Rajasthan,Books,Textbook,Fundamentals of Database Systems,5,999,4995,15,749.25,4245.75,2870.17,1375.58,32.4,New,Credit Card,Pending
+ORD-1440,09-Jul-2024,Jul,Q3,2024,West,Rajasthan,Home & Kitchen,Bedsheet,Divine Casa Bedsheet,2,799,1598,20,319.6,1278.4,809.02,469.38,36.72,Premium,COD,Delivered
+ORD-1441,19-Aug-2024,Aug,Q3,2024,West,Gujarat,Electronics,Mobile,OnePlus 12,5,64999,324995,0,0.0,324995.0,211590.13,113404.87,34.89,New,UPI,Delivered
+ORD-1442,23-Apr-2024,Apr,Q2,2024,South,Kerala,Electronics,Tablet,Realme Pad 2,5,19999,99995,20,19999.0,79996.0,52336.59,27659.41,34.58,Regular,UPI,Delivered
+ORD-1443,20-Mar-2024,Mar,Q1,2024,South,Kerala,Books,Comic,Chacha Chaudhary,2,99,198,5,9.9,188.1,125.78,62.32,33.13,Regular,UPI,Returned
+ORD-1444,09-Feb-2024,Feb,Q1,2024,East,Odisha,Clothing,Kurta,Soch Embroidered Kurta,1,3499,3499,5,174.95,3324.05,2068.36,1255.69,37.78,Premium,UPI,Delivered
+ORD-1445,20-Jun-2024,Jun,Q2,2024,East,Odisha,Home & Kitchen,Mixer,Lifelong Duos 500W,5,1799,8995,0,0.0,8995.0,5919.01,3075.99,34.2,Premium,UPI,Delivered
+ORD-1446,12-Jun-2024,Jun,Q2,2024,South,Kerala,Sports,Football,Nivia Shinning Star,1,899,899,10,89.9,809.1,548.78,260.32,32.17,Premium,Credit Card,Delivered
+ORD-1447,09-Aug-2024,Aug,Q3,2024,East,Odisha,Clothing,Jeans,Wrangler Comfort Fit,1,1999,1999,15,299.85,1699.15,1111.73,587.42,34.57,Regular,UPI,Delivered
+ORD-1448,13-Sep-2024,Sep,Q3,2024,West,Rajasthan,Clothing,Jeans,Killer Regular Fit,5,1799,8995,5,449.75,8545.25,5548.19,2997.06,35.07,Premium,UPI,Delivered
+ORD-1449,25-Sep-2024,Sep,Q3,2024,South,Tamil Nadu,Electronics,Tablet,OnePlus Pad,3,37999,113997,0,0.0,113997.0,71447.82,42549.18,37.32,Regular,UPI,Delivered
+ORD-1450,25-Jun-2024,Jun,Q2,2024,North,Punjab,Clothing,Saree,Bandhani Print Saree,4,1599,6396,0,0.0,6396.0,4134.55,2261.45,35.36,New,UPI,Delivered
+ORD-1451,20-Mar-2024,Mar,Q1,2024,North,Delhi,Electronics,Laptop,Acer Aspire 5,2,39999,79998,5,3999.9,75998.1,47181.44,28816.66,37.92,Premium,UPI,Delivered
+ORD-1452,12-Jan-2024,Jan,Q1,2024,East,West Bengal,Sports,Football,Nivia Shinning Star,5,899,4495,20,899.0,3596.0,2391.42,1204.58,33.5,Regular,Credit Card,Pending
+ORD-1453,21-Dec-2024,Dec,Q4,2024,North,Punjab,Sports,Cycle,Hero Sprint Cycle,3,7999,23997,0,0.0,23997.0,14964.69,9032.31,37.64,Regular,Credit Card,Delivered
+ORD-1454,26-Aug-2024,Aug,Q3,2024,North,Delhi,Home & Kitchen,Bedsheet,Spaces Floral Bedsheet,1,2499,2499,0,0.0,2499.0,1593.24,905.76,36.24,New,UPI,Pending
+ORD-1455,17-Sep-2024,Sep,Q3,2024,North,Punjab,Home & Kitchen,Pillow,Wakefit Hollow Fiber Pillow,1,599,599,0,0.0,599.0,378.53,220.47,36.81,New,Credit Card,Delivered
+ORD-1456,21-Jan-2024,Jan,Q1,2024,South,Telangana,Books,Self-Help,Think and Grow Rich,4,249,996,0,0.0,996.0,618.62,377.38,37.89,Premium,UPI,Delivered
+ORD-1457,13-Sep-2024,Sep,Q3,2024,East,West Bengal,Books,Biography,Wings of Fire (APJ Abdul Kalam),5,299,1495,5,74.75,1420.25,899.78,520.47,36.65,Regular,UPI,Delivered
+ORD-1458,14-Jul-2024,Jul,Q3,2024,South,Kerala,Clothing,Jacket,Decathlon Fleece Jacket,4,1499,5996,5,299.8,5696.2,3842.57,1853.63,32.54,Regular,Credit Card,Delivered
+ORD-1459,11-Mar-2024,Mar,Q1,2024,South,Tamil Nadu,Books,Comic,Chacha Chaudhary,4,99,396,0,0.0,396.0,261.11,134.89,34.06,Regular,UPI,Delivered
+ORD-1460,29-Sep-2024,Sep,Q3,2024,North,Delhi,Books,Textbook,HC Verma Physics,3,799,2397,10,239.7,2157.3,1461.94,695.36,32.23,Regular,Debit Card,Delivered
+ORD-1461,22-Nov-2024,Nov,Q4,2024,East,West Bengal,Clothing,T-Shirt,Adidas Solid T-Shirt,2,1299,2598,0,0.0,2598.0,1729.61,868.39,33.43,Premium,UPI,Delivered
+ORD-1462,28-Apr-2024,Apr,Q2,2024,South,Tamil Nadu,Electronics,Tablet,Apple iPad Air,4,54999,219996,0,0.0,219996.0,143028.08,76967.92,34.99,Premium,Debit Card,Delivered
+ORD-1463,17-Jul-2024,Jul,Q3,2024,West,Gujarat,Clothing,Jeans,Pepe Jeans Regular Fit,2,2499,4998,0,0.0,4998.0,3221.29,1776.71,35.55,New,COD,Pending
+ORD-1464,23-Apr-2024,Apr,Q2,2024,South,Tamil Nadu,Electronics,Laptop,ASUS Vivobook 16,5,44999,224995,15,33749.25,191245.75,126465.41,64780.34,33.87,New,Net Banking,Delivered
+ORD-1465,22-Jan-2024,Jan,Q1,2024,West,Rajasthan,Books,Biography,Playing It My Way (Sachin Tendulkar),5,599,2995,20,599.0,2396.0,1561.03,834.97,34.85,New,Debit Card,Delivered
+ORD-1466,19-Aug-2024,Aug,Q3,2024,West,Maharashtra,Clothing,Jacket,Red Tape Puffer Jacket,4,3999,15996,0,0.0,15996.0,10452.78,5543.22,34.65,Regular,Credit Card,Delivered
+ORD-1467,29-May-2024,May,Q2,2024,West,Gujarat,Books,Self-Help,Think and Grow Rich,2,249,498,10,49.8,448.2,285.8,162.4,36.23,New,Credit Card,Returned
+ORD-1468,25-Aug-2024,Aug,Q3,2024,West,Maharashtra,Sports,Cricket Bat,SG Savage Edition,5,3499,17495,20,3499.0,13996.0,8791.15,5204.85,37.19,Regular,Credit Card,Delivered
+ORD-1469,29-Oct-2024,Oct,Q4,2024,South,Kerala,Electronics,Tablet,Lenovo Tab M10,2,13999,27998,0,0.0,27998.0,17511.95,10486.05,37.45,Premium,Credit Card,Delivered
+ORD-1470,28-Dec-2024,Dec,Q4,2024,West,Rajasthan,Sports,Cycle,Firefox Target 21S,4,14999,59996,20,11999.2,47996.8,30854.09,17142.71,35.72,Premium,COD,Delivered
+ORD-1471,03-Dec-2024,Dec,Q4,2024,South,Tamil Nadu,Clothing,Jeans,Levis 511 Slim Fit,4,2999,11996,5,599.8,11396.2,7277.28,4118.92,36.14,Premium,UPI,Delivered
+ORD-1472,01-Mar-2024,Mar,Q1,2024,South,Tamil Nadu,Electronics,Smart Watch,boAt Wave Sigma,1,1499,1499,15,224.85,1274.15,828.02,446.13,35.01,Regular,Debit Card,Delivered
+ORD-1473,09-Sep-2024,Sep,Q3,2024,South,Tamil Nadu,Sports,Dumbbells,Bulfyss Hex Dumbbells 10kg,4,2199,8796,15,1319.4,7476.6,4671.11,2805.49,37.52,Premium,UPI,Delivered
+ORD-1474,13-Nov-2024,Nov,Q4,2024,South,Tamil Nadu,Clothing,Jeans,Levis 511 Slim Fit,3,2999,8997,0,0.0,8997.0,5656.62,3340.38,37.13,Regular,Credit Card,Delivered
+ORD-1475,18-Jun-2024,Jun,Q2,2024,North,Delhi,Electronics,Earphones,Sony WH-CH520,2,4490,8980,5,449.0,8531.0,5602.01,2928.99,34.33,Premium,Credit Card,Delivered
+ORD-1476,31-Mar-2024,Mar,Q1,2024,West,Rajasthan,Sports,Yoga Mat,Kore Exercise Yoga Mat,1,399,399,5,19.95,379.05,242.35,136.7,36.06,New,Net Banking,Delivered
+ORD-1477,08-Oct-2024,Oct,Q4,2024,North,Punjab,Home & Kitchen,Cooker,Hawkins Classic 3L,3,1499,4497,10,449.7,4047.3,2637.31,1409.99,34.84,Regular,Credit Card,Delivered
+ORD-1478,25-Feb-2024,Feb,Q1,2024,North,Punjab,Sports,Yoga Mat,OJS Premium Yoga Mat,5,599,2995,10,299.5,2695.5,1713.2,982.3,36.44,Regular,Credit Card,Returned
+ORD-1479,10-Nov-2024,Nov,Q4,2024,West,Rajasthan,Home & Kitchen,Lamp,Wipro Smart LED Lamp,5,899,4495,5,224.75,4270.25,2829.11,1441.14,33.75,New,UPI,Delivered
+ORD-1480,16-Nov-2024,Nov,Q4,2024,North,UP,Clothing,Jacket,Fort Collins Bomber,4,2299,9196,0,0.0,9196.0,5885.69,3310.31,36.0,Regular,Credit Card,Delivered
+ORD-1481,13-Apr-2024,Apr,Q2,2024,East,Odisha,Electronics,Tablet,Lenovo Tab M10,5,13999,69995,20,13999.0,55996.0,35805.83,20190.17,36.06,Regular,Credit Card,Delivered
+ORD-1482,18-Oct-2024,Oct,Q4,2024,North,Delhi,Clothing,Saree,Chanderi Cotton Saree,4,1899,7596,15,1139.4,6456.6,4311.95,2144.65,33.22,Premium,Credit Card,Delivered
+ORD-1483,01-Oct-2024,Oct,Q4,2024,East,Odisha,Home & Kitchen,Mixer,Sujata Super 900W,3,5499,16497,10,1649.7,14847.3,9699.9,5147.4,34.67,Regular,Credit Card,Delivered
+ORD-1484,30-Jun-2024,Jun,Q2,2024,North,Delhi,Books,Novel,It Ends With Us,4,349,1396,20,279.2,1116.8,748.86,367.94,32.95,Regular,UPI,Delivered
+ORD-1485,06-Jun-2024,Jun,Q2,2024,East,Bihar,Electronics,Tablet,OnePlus Pad,1,37999,37999,15,5699.85,32299.15,21725.15,10574.0,32.74,Regular,Net Banking,Delivered
+ORD-1486,25-Sep-2024,Sep,Q3,2024,East,West Bengal,Electronics,Tablet,Apple iPad Air,2,54999,109998,0,0.0,109998.0,71127.62,38870.38,35.34,Regular,Credit Card,Delivered
+ORD-1487,07-Apr-2024,Apr,Q2,2024,East,Odisha,Sports,Yoga Mat,VIFITKIT Yoga Mat,2,499,998,0,0.0,998.0,667.99,330.01,33.07,New,Credit Card,Delivered
+ORD-1488,19-Jan-2024,Jan,Q1,2024,West,Gujarat,Sports,Cricket Bat,MRF Genius Grand Edition,3,4999,14997,0,0.0,14997.0,9916.36,5080.64,33.88,Regular,UPI,Delivered
+ORD-1489,24-Jan-2024,Jan,Q1,2024,North,UP,Books,Novel,Midnight Library,3,329,987,5,49.35,937.65,599.4,338.25,36.07,Regular,UPI,Delivered
+ORD-1490,13-Aug-2024,Aug,Q3,2024,North,Punjab,Clothing,Jeans,Wrangler Comfort Fit,1,1999,1999,0,0.0,1999.0,1354.32,644.68,32.25,Regular,UPI,Delivered
+ORD-1491,08-Oct-2024,Oct,Q4,2024,East,Odisha,Clothing,Saree,Bandhani Print Saree,2,1599,3198,0,0.0,3198.0,1996.43,1201.57,37.57,Premium,UPI,Delivered
+ORD-1492,07-Mar-2024,Mar,Q1,2024,North,Punjab,Electronics,Mobile,Redmi Note 13,1,17999,17999,0,0.0,17999.0,11619.94,6379.06,35.44,Regular,Credit Card,Delivered
+ORD-1493,19-Dec-2024,Dec,Q4,2024,West,Rajasthan,Books,Self-Help,Rich Dad Poor Dad,2,349,698,20,139.6,558.4,348.84,209.56,37.53,New,Debit Card,Delivered
+ORD-1494,17-Feb-2024,Feb,Q1,2024,West,Maharashtra,Home & Kitchen,Bedsheet,Story@Home Double Bedsheet,4,999,3996,5,199.8,3796.2,2569.45,1226.75,32.32,Regular,Net Banking,Delivered
+ORD-1495,05-Jul-2024,Jul,Q3,2024,West,Maharashtra,Books,Self-Help,Think and Grow Rich,4,249,996,0,0.0,996.0,621.43,374.57,37.61,Regular,Credit Card,Delivered
+ORD-1496,24-May-2024,May,Q2,2024,East,Bihar,Sports,Football,Puma Spin Ball,1,999,999,10,99.9,899.1,601.55,297.55,33.09,Premium,UPI,Delivered
+ORD-1497,03-Jun-2024,Jun,Q2,2024,West,Gujarat,Sports,Dumbbells,Kore Steel Dumbbells 10kg,5,1499,7495,5,374.75,7120.25,4648.65,2471.6,34.71,New,UPI,Delivered
+ORD-1498,21-Dec-2024,Dec,Q4,2024,West,Gujarat,Sports,Yoga Mat,Strauss Eco Friendly,2,899,1798,0,0.0,1798.0,1186.24,611.76,34.02,Regular,COD,Delivered
+ORD-1499,06-Sep-2024,Sep,Q3,2024,North,UP,Sports,Dumbbells,Cockatoo Rubber Dumbbells 5kg,5,1299,6495,0,0.0,6495.0,4347.24,2147.76,33.07,Regular,COD,Delivered
+ORD-1500,25-Feb-2024,Feb,Q1,2024,West,Gujarat,Home & Kitchen,Mixer,Prestige Iris 750W,2,3999,7998,0,0.0,7998.0,5384.54,2613.46,32.68,New,Credit Card,Delivered
+ORD-1501,16-Mar-2024,Mar,Q1,2024,South,Kerala,Sports,Yoga Mat,OJS Premium Yoga Mat,5,599,2995,15,449.25,2545.75,1608.25,937.5,36.83,Premium,UPI,Delivered
+ORD-1502,13-Dec-2024,Dec,Q4,2024,East,Odisha,Books,Novel,Midnight Library,1,329,329,20,65.8,263.2,169.57,93.63,35.57,Regular,UPI,Delivered
+ORD-1503,08-Oct-2024,Oct,Q4,2024,North,Delhi,Sports,Yoga Mat,Kore Exercise Yoga Mat,3,399,1197,0,0.0,1197.0,759.04,437.96,36.59,Premium,UPI,Delivered
+ORD-1504,14-Jul-2024,Jul,Q3,2024,West,Gujarat,Home & Kitchen,Pillow,Kurlon Memory Foam Pillow,2,1299,2598,15,389.7,2208.3,1387.57,820.73,37.17,Regular,Net Banking,Delivered
+ORD-1505,01-Aug-2024,Aug,Q3,2024,South,Kerala,Clothing,Jeans,Levis 511 Slim Fit,1,2999,2999,0,0.0,2999.0,1885.29,1113.71,37.14,New,Credit Card,Pending
+ORD-1506,10-Mar-2024,Mar,Q1,2024,North,Delhi,Home & Kitchen,Lamp,Syska LED Bulb,4,199,796,0,0.0,796.0,515.22,280.78,35.27,Regular,Net Banking,Delivered
+ORD-1507,25-Apr-2024,Apr,Q2,2024,South,Kerala,Sports,Cricket Bat,DSC Condor,4,1999,7996,5,399.8,7596.2,5034.21,2561.99,33.73,Regular,COD,Delivered
+ORD-1508,18-Jan-2024,Jan,Q1,2024,North,UP,Home & Kitchen,Bedsheet,Bombay Dyeing Cotton Bedsheet,5,1499,7495,15,1124.25,6370.75,4317.48,2053.27,32.23,Regular,Debit Card,Delivered
+ORD-1509,23-May-2024,May,Q2,2024,West,Rajasthan,Electronics,Smart Watch,Apple Watch SE,1,27900,27900,5,1395.0,26505.0,17184.44,9320.56,35.17,Premium,COD,Delivered
+ORD-1510,20-Nov-2024,Nov,Q4,2024,East,Bihar,Electronics,Tablet,Realme Pad 2,1,19999,19999,15,2999.85,16999.15,11002.57,5996.58,35.28,New,Credit Card,Delivered
+ORD-1511,29-Jun-2024,Jun,Q2,2024,East,Odisha,Clothing,T-Shirt,US Polo Assn T-Shirt,3,1199,3597,5,179.85,3417.15,2131.23,1285.92,37.63,Regular,UPI,Delivered
+ORD-1512,29-May-2024,May,Q2,2024,North,Punjab,Home & Kitchen,Mixer,Lifelong Duos 500W,5,1799,8995,0,0.0,8995.0,6036.43,2958.57,32.89,Regular,UPI,Delivered
+ORD-1513,11-May-2024,May,Q2,2024,North,UP,Electronics,Smart Watch,Fire-Boltt Gladiator,5,2499,12495,0,0.0,12495.0,8241.07,4253.93,34.05,Regular,UPI,Delivered
+ORD-1514,30-Apr-2024,Apr,Q2,2024,West,Maharashtra,Sports,Cricket Bat,SS Ton Reserve,1,5999,5999,0,0.0,5999.0,3933.74,2065.26,34.43,Premium,Net Banking,Delivered
+ORD-1515,30-Jul-2024,Jul,Q3,2024,West,Maharashtra,Home & Kitchen,Cooker,Prestige Popular 5L,5,1899,9495,10,949.5,8545.5,5326.06,3219.44,37.67,Regular,Debit Card,Delivered
+ORD-1516,25-Aug-2024,Aug,Q3,2024,West,Gujarat,Books,Biography,Playing It My Way (Sachin Tendulkar),2,599,1198,10,119.8,1078.2,712.7,365.5,33.9,Regular,UPI,Delivered
+ORD-1517,10-Aug-2024,Aug,Q3,2024,North,Punjab,Home & Kitchen,Lamp,Syska Table Lamp,5,1199,5995,0,0.0,5995.0,3751.92,2243.08,37.42,Regular,UPI,Delivered
+ORD-1518,08-Nov-2024,Nov,Q4,2024,East,Odisha,Books,Self-Help,Atomic Habits,3,450,1350,10,135.0,1215.0,786.91,428.09,35.23,Premium,UPI,Delivered
+ORD-1519,09-Apr-2024,Apr,Q2,2024,East,Bihar,Clothing,Saree,Bandhani Print Saree,1,1599,1599,0,0.0,1599.0,1071.17,527.83,33.01,Regular,UPI,Delivered
+ORD-1520,16-Aug-2024,Aug,Q3,2024,East,West Bengal,Books,Self-Help,The Psychology of Money,1,399,399,0,0.0,399.0,262.21,136.79,34.28,Regular,Credit Card,Returned
+ORD-1521,21-Apr-2024,Apr,Q2,2024,North,UP,Electronics,Mobile,Realme 12 Pro,2,24999,49998,10,4999.8,44998.2,29671.08,15327.12,34.06,New,Credit Card,Pending
+ORD-1522,26-Feb-2024,Feb,Q1,2024,South,Kerala,Books,Biography,Wings of Fire (APJ Abdul Kalam),4,299,1196,5,59.8,1136.2,756.89,379.31,33.38,Premium,Credit Card,Delivered
+ORD-1523,11-May-2024,May,Q2,2024,South,Tamil Nadu,Books,Novel,Silent Patient,4,399,1596,10,159.6,1436.4,976.4,460.0,32.02,Regular,Debit Card,Delivered
+ORD-1524,05-Feb-2024,Feb,Q1,2024,West,Maharashtra,Sports,Dumbbells,Kore Steel Dumbbells 10kg,4,1499,5996,0,0.0,5996.0,3769.28,2226.72,37.14,Premium,UPI,Delivered
+ORD-1525,14-Aug-2024,Aug,Q3,2024,East,West Bengal,Electronics,Mobile,Apple iPhone 15,5,72999,364995,5,18249.75,346745.25,231152.25,115593.0,33.34,Regular,Credit Card,Delivered
+ORD-1526,01-Jan-2024,Jan,Q1,2024,North,UP,Home & Kitchen,Bedsheet,Portico New York Bedsheet,3,1999,5997,10,599.7,5397.3,3532.42,1864.88,34.55,Regular,COD,Delivered
+ORD-1527,11-Aug-2024,Aug,Q3,2024,West,Rajasthan,Electronics,Smart Watch,Fire-Boltt Gladiator,1,2499,2499,10,249.9,2249.1,1523.2,725.9,32.28,Premium,Credit Card,Delivered
+ORD-1528,02-Jul-2024,Jul,Q3,2024,East,Bihar,Books,Biography,Wings of Fire (APJ Abdul Kalam),1,299,299,10,29.9,269.1,175.47,93.63,34.79,New,UPI,Delivered
+ORD-1529,28-May-2024,May,Q2,2024,South,Tamil Nadu,Sports,Cricket Bat,Spartan MSD Warrior,2,2499,4998,5,249.9,4748.1,3142.07,1606.03,33.82,New,Credit Card,Delivered
+ORD-1530,13-Feb-2024,Feb,Q1,2024,West,Rajasthan,Clothing,Jeans,Levis 511 Slim Fit,2,2999,5998,0,0.0,5998.0,3977.78,2020.22,33.68,Regular,Credit Card,Delivered
+ORD-1531,03-Oct-2024,Oct,Q4,2024,East,Odisha,Sports,Dumbbells,Aurion PVC Dumbbells 5kg,1,599,599,10,59.9,539.1,336.06,203.04,37.66,Premium,UPI,Delivered
+ORD-1532,30-Nov-2024,Nov,Q4,2024,West,Rajasthan,Sports,Football,Puma Spin Ball,2,999,1998,0,0.0,1998.0,1243.18,754.82,37.78,Regular,Credit Card,Delivered
+ORD-1533,12-Nov-2024,Nov,Q4,2024,North,Delhi,Clothing,T-Shirt,Adidas Solid T-Shirt,1,1299,1299,5,64.95,1234.05,825.88,408.17,33.08,Regular,Credit Card,Delivered
+ORD-1534,02-Feb-2024,Feb,Q1,2024,North,Delhi,Home & Kitchen,Pillow,Wakefit Hollow Fiber Pillow,2,599,1198,0,0.0,1198.0,800.58,397.42,33.17,Regular,Debit Card,Pending
+ORD-1535,13-Dec-2024,Dec,Q4,2024,West,Gujarat,Electronics,Smart Watch,Apple Watch SE,2,27900,55800,10,5580.0,50220.0,33656.72,16563.28,32.98,Premium,Debit Card,Delivered
+ORD-1536,20-Jun-2024,Jun,Q2,2024,North,Delhi,Books,Textbook,Indian Polity by Laxmikanth,2,749,1498,10,149.8,1348.2,880.65,467.55,34.68,Regular,COD,Delivered
+ORD-1537,21-Feb-2024,Feb,Q1,2024,West,Maharashtra,Electronics,Earphones,boAt Rockerz 255,1,1299,1299,0,0.0,1299.0,819.36,479.64,36.92,Regular,Credit Card,Returned
+ORD-1538,01-Aug-2024,Aug,Q3,2024,West,Rajasthan,Clothing,Jeans,Pepe Jeans Regular Fit,3,2499,7497,20,1499.4,5997.6,3880.6,2117.0,35.3,Regular,UPI,Delivered
+ORD-1539,01-Nov-2024,Nov,Q4,2024,South,Telangana,Home & Kitchen,Pillow,Sleepwell Fiber Pillow,3,499,1497,10,149.7,1347.3,869.18,478.12,35.49,Regular,UPI,Pending
+ORD-1540,18-Feb-2024,Feb,Q1,2024,East,Bihar,Sports,Football,Cosco Milano,2,799,1598,5,79.9,1518.1,946.06,572.04,37.68,Regular,UPI,Delivered
+ORD-1541,30-Aug-2024,Aug,Q3,2024,West,Maharashtra,Clothing,T-Shirt,Puma Men T-Shirt,3,999,2997,5,149.85,2847.15,1801.04,1046.11,36.74,Regular,Credit Card,Returned
+ORD-1542,20-Aug-2024,Aug,Q3,2024,North,Delhi,Electronics,Smart Watch,Fire-Boltt Gladiator,2,2499,4998,0,0.0,4998.0,3244.22,1753.78,35.09,Regular,Net Banking,Delivered
+ORD-1543,30-Oct-2024,Oct,Q4,2024,East,Odisha,Clothing,Saree,Banarasi Silk Saree,1,6499,6499,10,649.9,5849.1,3706.38,2142.72,36.63,Regular,UPI,Delivered
+ORD-1544,22-Apr-2024,Apr,Q2,2024,North,Punjab,Sports,Dumbbells,Aurion PVC Dumbbells 5kg,4,599,2396,0,0.0,2396.0,1516.6,879.4,36.7,Premium,UPI,Delivered
+ORD-1545,22-Aug-2024,Aug,Q3,2024,South,Telangana,Books,Self-Help,The Psychology of Money,3,399,1197,0,0.0,1197.0,744.45,452.55,37.81,Regular,UPI,Delivered
+ORD-1546,26-Aug-2024,Aug,Q3,2024,West,Gujarat,Clothing,Saree,Banarasi Silk Saree,3,6499,19497,0,0.0,19497.0,13011.77,6485.23,33.26,Premium,Credit Card,Delivered
+ORD-1547,10-Oct-2024,Oct,Q4,2024,South,Tamil Nadu,Home & Kitchen,Pillow,Recron Certified Pillow,2,399,798,15,119.7,678.3,454.61,223.69,32.98,Regular,Debit Card,Delivered
+ORD-1548,06-May-2024,May,Q2,2024,South,Kerala,Home & Kitchen,Pillow,Kurlon Memory Foam Pillow,5,1299,6495,0,0.0,6495.0,4382.99,2112.01,32.52,New,UPI,Delivered
+ORD-1549,28-Aug-2024,Aug,Q3,2024,North,Punjab,Sports,Dumbbells,Bulfyss Hex Dumbbells 10kg,1,2199,2199,15,329.85,1869.15,1214.42,654.73,35.03,Regular,Debit Card,Delivered
+ORD-1550,27-Jul-2024,Jul,Q3,2024,South,Tamil Nadu,Books,Self-Help,The Psychology of Money,1,399,399,0,0.0,399.0,258.87,140.13,35.12,Regular,Debit Card,Returned
+ORD-1551,25-Oct-2024,Oct,Q4,2024,North,Punjab,Home & Kitchen,Cooker,Butterfly Cordial 5L,2,2199,4398,10,439.8,3958.2,2602.95,1355.25,34.24,Premium,UPI,Delivered
+ORD-1552,16-Jul-2024,Jul,Q3,2024,East,Bihar,Electronics,Tablet,OnePlus Pad,3,37999,113997,20,22799.4,91197.6,59690.08,31507.52,34.55,Regular,Credit Card,Delivered
+ORD-1553,20-Jun-2024,Jun,Q2,2024,North,UP,Books,Novel,The Alchemist,4,299,1196,10,119.6,1076.4,697.42,378.98,35.21,Regular,UPI,Delivered
+ORD-1554,26-Dec-2024,Dec,Q4,2024,North,UP,Clothing,Jeans,Wrangler Comfort Fit,2,1999,3998,20,799.6,3198.4,2004.8,1193.6,37.32,Regular,COD,Delivered
+ORD-1555,25-Dec-2024,Dec,Q4,2024,South,Telangana,Clothing,Saree,Chanderi Cotton Saree,3,1899,5697,20,1139.4,4557.6,3011.72,1545.88,33.92,Regular,UPI,Delivered
+ORD-1556,05-Sep-2024,Sep,Q3,2024,North,Punjab,Sports,Cycle,Hercules Roadeo,4,9999,39996,10,3999.6,35996.4,24045.39,11951.01,33.2,New,Debit Card,Pending
+ORD-1557,03-Feb-2024,Feb,Q1,2024,South,Kerala,Electronics,Mobile,Redmi Note 13,2,17999,35998,5,1799.9,34198.1,23169.06,11029.04,32.25,Regular,UPI,Delivered
+ORD-1558,16-Mar-2024,Mar,Q1,2024,West,Maharashtra,Clothing,Jacket,Wildcraft Windcheater,3,1999,5997,10,599.7,5397.3,3660.31,1736.99,32.18,Regular,UPI,Delivered
+ORD-1559,15-Aug-2024,Aug,Q3,2024,North,Punjab,Clothing,T-Shirt,Puma Men T-Shirt,2,999,1998,20,399.6,1598.4,1052.83,545.57,34.13,Regular,UPI,Delivered
+ORD-1560,16-Jun-2024,Jun,Q2,2024,West,Rajasthan,Sports,Cycle,Leader Scout 26T,4,6499,25996,5,1299.8,24696.2,16152.18,8544.02,34.6,New,UPI,Delivered
+ORD-1561,26-Apr-2024,Apr,Q2,2024,West,Gujarat,Books,Novel,To Kill a Mockingbird,3,399,1197,5,59.85,1137.15,736.14,401.01,35.26,Regular,COD,Delivered
+ORD-1562,26-May-2024,May,Q2,2024,South,Tamil Nadu,Clothing,Jeans,Pepe Jeans Regular Fit,1,2499,2499,0,0.0,2499.0,1698.39,800.61,32.04,Regular,UPI,Delivered
+ORD-1563,15-Apr-2024,Apr,Q2,2024,North,UP,Books,Self-Help,The Psychology of Money,3,399,1197,15,179.55,1017.45,663.78,353.67,34.76,Regular,UPI,Returned
+ORD-1564,26-Jul-2024,Jul,Q3,2024,West,Maharashtra,Home & Kitchen,Bedsheet,Portico New York Bedsheet,1,1999,1999,20,399.8,1599.2,1085.11,514.09,32.15,Regular,Debit Card,Delivered
+ORD-1565,28-May-2024,May,Q2,2024,South,Telangana,Home & Kitchen,Bedsheet,Bombay Dyeing Cotton Bedsheet,4,1499,5996,0,0.0,5996.0,3767.68,2228.32,37.16,Regular,UPI,Delivered
+ORD-1566,22-Apr-2024,Apr,Q2,2024,West,Gujarat,Electronics,Tablet,Apple iPad Air,5,54999,274995,5,13749.75,261245.25,171117.18,90128.07,34.5,Regular,COD,Delivered
+ORD-1567,12-Jan-2024,Jan,Q1,2024,North,UP,Home & Kitchen,Mixer,Sujata Super 900W,4,5499,21996,5,1099.8,20896.2,13570.58,7325.62,35.06,Premium,Credit Card,Delivered
+ORD-1568,07-Dec-2024,Dec,Q4,2024,East,Odisha,Clothing,Kurta,Biba Printed Kurta,4,2199,8796,10,879.6,7916.4,4913.96,3002.44,37.93,Regular,UPI,Delivered
+ORD-1569,14-Oct-2024,Oct,Q4,2024,North,Delhi,Home & Kitchen,Lamp,IKEA FADO Table Lamp,3,1499,4497,0,0.0,4497.0,3005.53,1491.47,33.17,New,UPI,Returned
+ORD-1570,12-Mar-2024,Mar,Q1,2024,North,Delhi,Clothing,Saree,Georgette Partywear Saree,5,2499,12495,10,1249.5,11245.5,7016.82,4228.68,37.6,New,Debit Card,Delivered
+ORD-1571,28-Jul-2024,Jul,Q3,2024,East,Odisha,Clothing,Jacket,Fort Collins Bomber,5,2299,11495,0,0.0,11495.0,7264.33,4230.67,36.8,Premium,UPI,Delivered
+ORD-1572,03-Jun-2024,Jun,Q2,2024,East,Odisha,Sports,Dumbbells,Kore Steel Dumbbells 10kg,1,1499,1499,0,0.0,1499.0,943.23,555.77,37.08,Regular,Credit Card,Delivered
+ORD-1573,04-Mar-2024,Mar,Q1,2024,East,Odisha,Clothing,Kurta,W Women Kurta,1,1499,1499,0,0.0,1499.0,998.16,500.84,33.41,Regular,COD,Delivered
+ORD-1574,04-Jul-2024,Jul,Q3,2024,West,Rajasthan,Home & Kitchen,Bedsheet,Story@Home Double Bedsheet,1,999,999,10,99.9,899.1,585.09,314.01,34.92,Regular,Net Banking,Delivered
+ORD-1575,30-Jan-2024,Jan,Q1,2024,South,Kerala,Home & Kitchen,Cooker,Pigeon Favourite 3L,2,1099,2198,0,0.0,2198.0,1398.72,799.28,36.36,Regular,COD,Delivered
+ORD-1576,28-May-2024,May,Q2,2024,East,Bihar,Electronics,Smart Watch,Fire-Boltt Gladiator,2,2499,4998,0,0.0,4998.0,3278.32,1719.68,34.41,Regular,UPI,Delivered
+ORD-1577,16-Dec-2024,Dec,Q4,2024,East,Odisha,Books,Novel,Midnight Library,5,329,1645,10,164.5,1480.5,991.05,489.45,33.06,Regular,Credit Card,Delivered
+ORD-1578,05-Sep-2024,Sep,Q3,2024,West,Gujarat,Clothing,T-Shirt,Adidas Solid T-Shirt,2,1299,2598,20,519.6,2078.4,1316.18,762.22,36.67,Regular,Net Banking,Delivered
+ORD-1579,26-Sep-2024,Sep,Q3,2024,North,Punjab,Home & Kitchen,Mixer,Prestige Iris 750W,2,3999,7998,0,0.0,7998.0,5188.87,2809.13,35.12,Regular,UPI,Delivered
+ORD-1580,01-Nov-2024,Nov,Q4,2024,East,West Bengal,Books,Novel,The Alchemist,2,299,598,0,0.0,598.0,401.5,196.5,32.86,Regular,UPI,Delivered
+ORD-1581,07-Mar-2024,Mar,Q1,2024,North,Punjab,Electronics,Mobile,Apple iPhone 15,4,72999,291996,10,29199.6,262796.4,163604.17,99192.23,37.74,Regular,Debit Card,Delivered
+ORD-1582,31-Jan-2024,Jan,Q1,2024,West,Maharashtra,Books,Novel,The Alchemist,3,299,897,0,0.0,897.0,596.75,300.25,33.47,Premium,COD,Delivered
+ORD-1583,12-Apr-2024,Apr,Q2,2024,South,Telangana,Books,Novel,The Alchemist,2,299,598,5,29.9,568.1,384.56,183.54,32.31,Regular,UPI,Delivered
+ORD-1584,09-Nov-2024,Nov,Q4,2024,South,Telangana,Sports,Cricket Bat,MRF Genius Grand Edition,5,4999,24995,0,0.0,24995.0,16290.0,8705.0,34.83,Premium,COD,Delivered
+ORD-1585,02-Oct-2024,Oct,Q4,2024,North,UP,Electronics,Laptop,Acer Aspire 5,4,39999,159996,10,15999.6,143996.4,95309.49,48686.91,33.81,Regular,Credit Card,Delivered
+ORD-1586,30-Jun-2024,Jun,Q2,2024,West,Gujarat,Clothing,Jacket,Decathlon Fleece Jacket,4,1499,5996,0,0.0,5996.0,3991.44,2004.56,33.43,Regular,Credit Card,Delivered
+ORD-1587,10-Sep-2024,Sep,Q3,2024,East,Bihar,Books,Comic,Tinkle Double Digest,1,150,150,10,15.0,135.0,87.7,47.3,35.04,Regular,Credit Card,Delivered
+ORD-1588,17-Dec-2024,Dec,Q4,2024,West,Maharashtra,Sports,Dumbbells,Cockatoo Rubber Dumbbells 5kg,4,1299,5196,5,259.8,4936.2,3314.2,1622.0,32.86,New,Debit Card,Pending
+ORD-1589,07-Jul-2024,Jul,Q3,2024,South,Tamil Nadu,Home & Kitchen,Mixer,Philips HL7756 750W,4,4499,17996,20,3599.2,14396.8,9494.88,4901.92,34.05,Regular,UPI,Delivered
+ORD-1590,29-Oct-2024,Oct,Q4,2024,North,UP,Clothing,T-Shirt,Nike Dry-Fit T-Shirt,2,1899,3798,10,379.8,3418.2,2160.36,1257.84,36.8,Premium,UPI,Delivered
+ORD-1591,05-Aug-2024,Aug,Q3,2024,West,Gujarat,Sports,Cycle,Hercules Roadeo,4,9999,39996,10,3999.6,35996.4,23345.45,12650.95,35.15,Premium,UPI,Delivered
+ORD-1592,22-May-2024,May,Q2,2024,South,Kerala,Electronics,Mobile,OnePlus 12,4,64999,259996,15,38999.4,220996.6,140078.54,80918.06,36.62,New,UPI,Delivered
+ORD-1593,04-Feb-2024,Feb,Q1,2024,West,Rajasthan,Electronics,Laptop,ASUS Vivobook 16,5,44999,224995,10,22499.5,202495.5,127402.92,75092.58,37.08,Premium,UPI,Delivered
+ORD-1594,23-Sep-2024,Sep,Q3,2024,West,Gujarat,Clothing,Saree,Georgette Partywear Saree,4,2499,9996,20,1999.2,7996.8,5083.57,2913.23,36.43,Regular,Net Banking,Delivered
+ORD-1595,17-Jan-2024,Jan,Q1,2024,West,Maharashtra,Home & Kitchen,Lamp,Syska Table Lamp,4,1199,4796,15,719.4,4076.6,2639.92,1436.68,35.24,Regular,Credit Card,Returned
+ORD-1596,04-Jun-2024,Jun,Q2,2024,South,Kerala,Home & Kitchen,Cooker,Pigeon Favourite 3L,4,1099,4396,15,659.4,3736.6,2487.98,1248.62,33.42,Regular,Credit Card,Delivered
+ORD-1597,03-Oct-2024,Oct,Q4,2024,West,Gujarat,Sports,Football,Puma Spin Ball,1,999,999,10,99.9,899.1,571.65,327.45,36.42,Regular,UPI,Delivered
+ORD-1598,25-May-2024,May,Q2,2024,East,West Bengal,Electronics,Smart Watch,Noise ColorFit Pro 5,2,3999,7998,10,799.8,7198.2,4613.56,2584.64,35.91,Premium,UPI,Returned
+ORD-1599,23-Jun-2024,Jun,Q2,2024,West,Maharashtra,Home & Kitchen,Bedsheet,Spaces Floral Bedsheet,4,2499,9996,10,999.6,8996.4,5608.24,3388.16,37.66,Regular,UPI,Delivered
+ORD-1600,13-Feb-2024,Feb,Q1,2024,North,Punjab,Electronics,Tablet,Samsung Galaxy Tab S9,1,35999,35999,20,7199.8,28799.2,18419.02,10380.18,36.04,Regular,Net Banking,Delivered
+ORD-1601,03-Aug-2024,Aug,Q3,2024,East,West Bengal,Home & Kitchen,Pillow,Sleepwell Fiber Pillow,3,499,1497,10,149.7,1347.3,881.43,465.87,34.58,Regular,UPI,Delivered
+ORD-1602,19-Dec-2024,Dec,Q4,2024,South,Kerala,Home & Kitchen,Pillow,The Sleep Company Pillow,2,1999,3998,5,199.9,3798.1,2437.62,1360.48,35.82,Regular,Credit Card,Delivered
+ORD-1603,08-Feb-2024,Feb,Q1,2024,South,Kerala,Books,Novel,It Ends With Us,5,349,1745,10,174.5,1570.5,1049.53,520.97,33.17,Premium,COD,Delivered
+ORD-1604,23-Oct-2024,Oct,Q4,2024,North,UP,Books,Self-Help,Atomic Habits,5,450,2250,20,450.0,1800.0,1167.33,632.67,35.15,Regular,Debit Card,Delivered
+ORD-1605,03-Jun-2024,Jun,Q2,2024,East,Odisha,Sports,Yoga Mat,Boldfit Yoga Mat,4,699,2796,10,279.6,2516.4,1598.1,918.3,36.49,Regular,Credit Card,Delivered
+ORD-1606,10-Jan-2024,Jan,Q1,2024,South,Telangana,Home & Kitchen,Cooker,Butterfly Cordial 5L,3,2199,6597,20,1319.4,5277.6,3528.27,1749.33,33.15,New,COD,Pending
+ORD-1607,16-Nov-2024,Nov,Q4,2024,North,UP,Clothing,Saree,Georgette Partywear Saree,2,2499,4998,5,249.9,4748.1,2986.69,1761.41,37.1,Premium,UPI,Delivered
+ORD-1608,12-Jun-2024,Jun,Q2,2024,North,UP,Clothing,Kurta,Biba Printed Kurta,3,2199,6597,0,0.0,6597.0,4191.65,2405.35,36.46,Premium,UPI,Delivered
+ORD-1609,08-Apr-2024,Apr,Q2,2024,North,Delhi,Books,Biography,Elon Musk by Walter Isaacson,5,799,3995,10,399.5,3595.5,2320.25,1275.25,35.47,New,UPI,Delivered
+ORD-1610,15-Jan-2024,Jan,Q1,2024,East,Odisha,Sports,Football,Nivia Storm Football,4,499,1996,0,0.0,1996.0,1244.15,751.85,37.67,New,UPI,Delivered
+ORD-1611,02-Feb-2024,Feb,Q1,2024,West,Gujarat,Electronics,Earphones,Sony WH-CH520,2,4490,8980,0,0.0,8980.0,5875.24,3104.76,34.57,Regular,UPI,Delivered
+ORD-1612,24-Oct-2024,Oct,Q4,2024,East,Odisha,Electronics,Laptop,Acer Aspire 5,1,39999,39999,10,3999.9,35999.1,23030.68,12968.42,36.02,Regular,UPI,Delivered
+ORD-1613,30-Apr-2024,Apr,Q2,2024,West,Maharashtra,Clothing,T-Shirt,Adidas Solid T-Shirt,2,1299,2598,5,129.9,2468.1,1595.3,872.8,35.36,Regular,Credit Card,Delivered
+ORD-1614,10-Jul-2024,Jul,Q3,2024,North,Punjab,Sports,Dumbbells,Bulfyss Hex Dumbbells 10kg,2,2199,4398,5,219.9,4178.1,2810.88,1367.22,32.72,New,UPI,Delivered
+ORD-1615,06-Jun-2024,Jun,Q2,2024,North,UP,Sports,Cricket Bat,MRF Genius Grand Edition,2,4999,9998,5,499.9,9498.1,6203.81,3294.29,34.68,Regular,COD,Delivered
+ORD-1616,16-Dec-2024,Dec,Q4,2024,North,UP,Clothing,Kurta,Anouk Cotton Kurta,1,999,999,10,99.9,899.1,607.48,291.62,32.43,New,UPI,Pending
+ORD-1617,30-Apr-2024,Apr,Q2,2024,East,West Bengal,Clothing,Kurta,Biba Printed Kurta,4,2199,8796,0,0.0,8796.0,5598.15,3197.85,36.36,Regular,Debit Card,Delivered
+ORD-1618,30-Jul-2024,Jul,Q3,2024,East,Bihar,Home & Kitchen,Mixer,Lifelong Duos 500W,3,1799,5397,20,1079.4,4317.6,2694.1,1623.5,37.6,Regular,Debit Card,Delivered
+ORD-1619,16-Jun-2024,Jun,Q2,2024,West,Rajasthan,Electronics,Mobile,Samsung Galaxy S24,4,74999,299996,0,0.0,299996.0,186052.88,113943.12,37.98,Regular,UPI,Delivered
+ORD-1620,26-Feb-2024,Feb,Q1,2024,South,Tamil Nadu,Sports,Football,Puma Spin Ball,4,999,3996,10,399.6,3596.4,2327.19,1269.21,35.29,New,UPI,Delivered
+ORD-1621,30-Oct-2024,Oct,Q4,2024,East,Odisha,Clothing,T-Shirt,Levis Graphic T-Shirt,3,1499,4497,0,0.0,4497.0,2894.31,1602.69,35.64,Regular,Net Banking,Delivered
+ORD-1622,11-Jan-2024,Jan,Q1,2024,North,UP,Sports,Football,Nivia Storm Football,4,499,1996,5,99.8,1896.2,1205.43,690.77,36.43,New,UPI,Delivered
+ORD-1623,03-Nov-2024,Nov,Q4,2024,East,West Bengal,Electronics,Tablet,Samsung Galaxy Tab S9,5,35999,179995,0,0.0,179995.0,111749.34,68245.66,37.92,Regular,Debit Card,Returned
+ORD-1624,10-Dec-2024,Dec,Q4,2024,West,Maharashtra,Clothing,Jeans,Pepe Jeans Regular Fit,3,2499,7497,5,374.85,7122.15,4734.71,2387.44,33.52,Regular,UPI,Delivered
+ORD-1625,20-Apr-2024,Apr,Q2,2024,East,Bihar,Clothing,Kurta,W Women Kurta,4,1499,5996,0,0.0,5996.0,3727.87,2268.13,37.83,New,UPI,Delivered
+ORD-1626,07-May-2024,May,Q2,2024,East,Bihar,Home & Kitchen,Mixer,Prestige Iris 750W,4,3999,15996,0,0.0,15996.0,10753.9,5242.1,32.77,New,UPI,Delivered
+ORD-1627,15-Jul-2024,Jul,Q3,2024,West,Rajasthan,Sports,Yoga Mat,Kore Exercise Yoga Mat,1,399,399,20,79.8,319.2,199.03,120.17,37.65,Regular,UPI,Returned
+ORD-1628,06-Nov-2024,Nov,Q4,2024,North,Delhi,Books,Comic,Batman: Year One,4,499,1996,5,99.8,1896.2,1286.86,609.34,32.13,Premium,UPI,Returned
+ORD-1629,22-Jan-2024,Jan,Q1,2024,South,Kerala,Clothing,Jacket,Fort Collins Bomber,3,2299,6897,15,1034.55,5862.45,3681.12,2181.33,37.21,Regular,Credit Card,Delivered
+ORD-1630,29-Feb-2024,Feb,Q1,2024,East,West Bengal,Clothing,Kurta,Biba Printed Kurta,3,2199,6597,10,659.7,5937.3,3781.91,2155.39,36.3,New,Credit Card,Delivered
+ORD-1631,15-May-2024,May,Q2,2024,East,Odisha,Clothing,Saree,Georgette Partywear Saree,2,2499,4998,20,999.6,3998.4,2683.65,1314.75,32.88,Premium,Debit Card,Delivered
+ORD-1632,17-Mar-2024,Mar,Q1,2024,North,Delhi,Clothing,T-Shirt,Levis Graphic T-Shirt,3,1499,4497,0,0.0,4497.0,2978.62,1518.38,33.76,Regular,COD,Returned
+ORD-1633,21-Jan-2024,Jan,Q1,2024,West,Gujarat,Sports,Dumbbells,Bulfyss Hex Dumbbells 10kg,4,2199,8796,0,0.0,8796.0,5899.92,2896.08,32.92,New,UPI,Delivered
+ORD-1634,25-May-2024,May,Q2,2024,South,Tamil Nadu,Sports,Yoga Mat,Strauss Eco Friendly,5,899,4495,5,224.75,4270.25,2797.07,1473.18,34.5,New,Credit Card,Delivered
+ORD-1635,01-Aug-2024,Aug,Q3,2024,North,Delhi,Home & Kitchen,Mixer,Bajaj GX1 500W,1,2499,2499,5,124.95,2374.05,1568.96,805.09,33.91,Premium,UPI,Delivered
+ORD-1636,24-Feb-2024,Feb,Q1,2024,East,West Bengal,Electronics,Mobile,Redmi Note 13,4,17999,71996,15,10799.4,61196.6,40249.09,20947.51,34.23,Regular,Credit Card,Delivered
+ORD-1637,23-Jan-2024,Jan,Q1,2024,West,Gujarat,Sports,Football,Nivia Shinning Star,1,899,899,5,44.95,854.05,546.07,307.98,36.06,Regular,UPI,Pending
+ORD-1638,14-Jul-2024,Jul,Q3,2024,North,Punjab,Books,Textbook,RD Sharma Mathematics,4,899,3596,0,0.0,3596.0,2233.95,1362.05,37.88,Regular,UPI,Delivered
+ORD-1639,27-Nov-2024,Nov,Q4,2024,South,Tamil Nadu,Books,Biography,Elon Musk by Walter Isaacson,3,799,2397,0,0.0,2397.0,1537.78,859.22,35.85,Regular,UPI,Delivered
+ORD-1640,16-Aug-2024,Aug,Q3,2024,West,Gujarat,Books,Comic,Batman: Year One,4,499,1996,0,0.0,1996.0,1328.12,667.88,33.46,Premium,Credit Card,Delivered
+ORD-1641,06-Aug-2024,Aug,Q3,2024,North,Delhi,Sports,Yoga Mat,OJS Premium Yoga Mat,2,599,1198,0,0.0,1198.0,809.66,388.34,32.42,Regular,Credit Card,Delivered
+ORD-1642,27-Aug-2024,Aug,Q3,2024,West,Maharashtra,Home & Kitchen,Bedsheet,Portico New York Bedsheet,2,1999,3998,5,199.9,3798.1,2546.6,1251.5,32.95,Regular,UPI,Delivered
+ORD-1643,09-Feb-2024,Feb,Q1,2024,North,UP,Electronics,Smart Watch,Samsung Galaxy Watch 6,4,29999,119996,0,0.0,119996.0,77742.94,42253.06,35.21,Premium,Debit Card,Delivered
+ORD-1644,26-Oct-2024,Oct,Q4,2024,North,UP,Electronics,Mobile,Redmi Note 13,2,17999,35998,0,0.0,35998.0,24139.34,11858.66,32.94,Regular,UPI,Delivered
+ORD-1645,09-Jun-2024,Jun,Q2,2024,West,Rajasthan,Home & Kitchen,Pillow,The Sleep Company Pillow,3,1999,5997,0,0.0,5997.0,3794.09,2202.91,36.73,Regular,COD,Delivered
+ORD-1646,10-Dec-2024,Dec,Q4,2024,North,Punjab,Sports,Cricket Bat,MRF Genius Grand Edition,4,4999,19996,0,0.0,19996.0,12413.48,7582.52,37.92,Premium,Credit Card,Delivered
+ORD-1647,02-Dec-2024,Dec,Q4,2024,West,Gujarat,Sports,Cycle,Hercules Roadeo,4,9999,39996,5,1999.8,37996.2,23757.43,14238.77,37.47,Regular,UPI,Delivered
+ORD-1648,22-Dec-2024,Dec,Q4,2024,South,Tamil Nadu,Clothing,Kurta,W Women Kurta,2,1499,2998,10,299.8,2698.2,1809.21,888.99,32.95,New,Credit Card,Delivered
+ORD-1649,25-Aug-2024,Aug,Q3,2024,South,Kerala,Home & Kitchen,Mixer,Prestige Iris 750W,2,3999,7998,0,0.0,7998.0,5313.29,2684.71,33.57,Regular,Credit Card,Delivered
+ORD-1650,18-Aug-2024,Aug,Q3,2024,South,Tamil Nadu,Books,Comic,Spider-Man Classic,1,299,299,10,29.9,269.1,166.97,102.13,37.95,Premium,Debit Card,Pending
+ORD-1651,10-Sep-2024,Sep,Q3,2024,East,West Bengal,Home & Kitchen,Lamp,IKEA FADO Table Lamp,5,1499,7495,15,1124.25,6370.75,4038.51,2332.24,36.61,Regular,UPI,Delivered
+ORD-1652,10-Oct-2024,Oct,Q4,2024,North,Punjab,Home & Kitchen,Lamp,Philips Deco LED Lamp,4,599,2396,10,239.6,2156.4,1394.97,761.43,35.31,Regular,UPI,Delivered
+ORD-1653,28-Aug-2024,Aug,Q3,2024,East,Odisha,Clothing,Jacket,Decathlon Fleece Jacket,5,1499,7495,10,749.5,6745.5,4555.26,2190.24,32.47,New,Debit Card,Delivered
+ORD-1654,30-May-2024,May,Q2,2024,West,Gujarat,Books,Biography,Steve Jobs by Walter Isaacson,5,699,3495,5,174.75,3320.25,2114.82,1205.43,36.31,Premium,Credit Card,Delivered
+ORD-1655,12-Apr-2024,Apr,Q2,2024,South,Telangana,Home & Kitchen,Mixer,Philips HL7756 750W,4,4499,17996,5,899.8,17096.2,10840.41,6255.79,36.59,Regular,COD,Delivered
+ORD-1656,13-May-2024,May,Q2,2024,East,Bihar,Clothing,Jeans,Spykar Super Skinny,1,2299,2299,0,0.0,2299.0,1471.97,827.03,35.97,Regular,UPI,Delivered
+ORD-1657,06-Sep-2024,Sep,Q3,2024,East,Odisha,Books,Novel,Midnight Library,3,329,987,0,0.0,987.0,662.48,324.52,32.88,New,Credit Card,Delivered
+ORD-1658,26-Jan-2024,Jan,Q1,2024,West,Gujarat,Electronics,Mobile,Realme 12 Pro,5,24999,124995,0,0.0,124995.0,83673.73,41321.27,33.06,Regular,UPI,Delivered
+ORD-1659,15-Apr-2024,Apr,Q2,2024,East,West Bengal,Books,Biography,Playing It My Way (Sachin Tendulkar),4,599,2396,0,0.0,2396.0,1507.7,888.3,37.07,Regular,Debit Card,Delivered
+ORD-1660,13-Apr-2024,Apr,Q2,2024,West,Gujarat,Electronics,Laptop,ASUS Vivobook 16,3,44999,134997,5,6749.85,128247.15,83399.3,44847.85,34.97,Regular,UPI,Delivered
+ORD-1661,03-Jul-2024,Jul,Q3,2024,South,Tamil Nadu,Sports,Dumbbells,Kore Steel Dumbbells 10kg,2,1499,2998,10,299.8,2698.2,1739.81,958.39,35.52,Regular,Credit Card,Returned
+ORD-1662,15-Dec-2024,Dec,Q4,2024,East,West Bengal,Home & Kitchen,Cooker,Hawkins Classic 3L,5,1499,7495,0,0.0,7495.0,4685.02,2809.98,37.49,Regular,COD,Delivered
+ORD-1663,01-Feb-2024,Feb,Q1,2024,West,Maharashtra,Clothing,Jacket,Wildcraft Windcheater,5,1999,9995,5,499.75,9495.25,6125.94,3369.31,35.48,New,Debit Card,Returned
+ORD-1664,09-Jun-2024,Jun,Q2,2024,East,West Bengal,Books,Comic,Batman: Year One,2,499,998,10,99.8,898.2,580.93,317.27,35.32,Regular,Credit Card,Delivered
+ORD-1665,29-Nov-2024,Nov,Q4,2024,West,Rajasthan,Books,Biography,Steve Jobs by Walter Isaacson,3,699,2097,0,0.0,2097.0,1304.79,792.21,37.78,Regular,Debit Card,Delivered
+ORD-1666,05-Mar-2024,Mar,Q1,2024,East,West Bengal,Electronics,Smart Watch,Apple Watch SE,3,27900,83700,20,16740.0,66960.0,42884.03,24075.97,35.96,Premium,UPI,Returned
+ORD-1667,03-Oct-2024,Oct,Q4,2024,East,West Bengal,Books,Biography,Playing It My Way (Sachin Tendulkar),1,599,599,0,0.0,599.0,401.63,197.37,32.95,Regular,Credit Card,Delivered
+ORD-1668,29-Nov-2024,Nov,Q4,2024,North,Punjab,Books,Comic,Tinkle Double Digest,4,150,600,10,60.0,540.0,366.65,173.35,32.1,Premium,COD,Delivered
+ORD-1669,17-Nov-2024,Nov,Q4,2024,South,Kerala,Books,Self-Help,The 5 AM Club,2,320,640,10,64.0,576.0,375.08,200.92,34.88,Regular,UPI,Delivered
+ORD-1670,03-Jul-2024,Jul,Q3,2024,West,Maharashtra,Clothing,Kurta,Anouk Cotton Kurta,1,999,999,0,0.0,999.0,623.11,375.89,37.63,New,Credit Card,Delivered
+ORD-1671,08-Jul-2024,Jul,Q3,2024,West,Rajasthan,Sports,Cycle,Leader Scout 26T,3,6499,19497,15,2924.55,16572.45,10907.78,5664.67,34.18,New,Credit Card,Pending
+ORD-1672,01-Aug-2024,Aug,Q3,2024,South,Tamil Nadu,Sports,Football,Cosco Milano,4,799,3196,0,0.0,3196.0,2167.15,1028.85,32.19,Regular,Credit Card,Delivered
+ORD-1673,21-Aug-2024,Aug,Q3,2024,West,Maharashtra,Clothing,Jacket,Levis Denim Jacket,1,4599,4599,10,459.9,4139.1,2593.64,1545.46,37.34,Regular,UPI,Delivered
+ORD-1674,01-Mar-2024,Mar,Q1,2024,East,Odisha,Books,Self-Help,Rich Dad Poor Dad,4,349,1396,0,0.0,1396.0,931.79,464.21,33.25,Regular,Credit Card,Delivered
+ORD-1675,05-Jun-2024,Jun,Q2,2024,East,West Bengal,Clothing,Kurta,Manyavar Men Kurta,1,2999,2999,20,599.8,2399.2,1537.69,861.51,35.91,New,UPI,Delivered
+ORD-1676,16-Oct-2024,Oct,Q4,2024,West,Gujarat,Home & Kitchen,Lamp,Syska LED Bulb,2,199,398,0,0.0,398.0,258.81,139.19,34.97,Regular,UPI,Delivered
+ORD-1677,15-Jun-2024,Jun,Q2,2024,North,UP,Sports,Dumbbells,Bulfyss Hex Dumbbells 10kg,2,2199,4398,10,439.8,3958.2,2534.59,1423.61,35.97,Regular,Credit Card,Delivered
+ORD-1678,22-May-2024,May,Q2,2024,North,Delhi,Electronics,Smart Watch,boAt Wave Sigma,5,1499,7495,0,0.0,7495.0,4936.47,2558.53,34.14,Regular,COD,Delivered
+ORD-1679,28-Jan-2024,Jan,Q1,2024,South,Kerala,Sports,Cricket Bat,MRF Genius Grand Edition,5,4999,24995,0,0.0,24995.0,16940.18,8054.82,32.23,Regular,UPI,Delivered
+ORD-1680,23-Oct-2024,Oct,Q4,2024,West,Maharashtra,Sports,Cycle,Hercules Roadeo,4,9999,39996,0,0.0,39996.0,25976.94,14019.06,35.05,New,UPI,Delivered
+ORD-1681,13-Jan-2024,Jan,Q1,2024,East,Odisha,Books,Novel,The Alchemist,1,299,299,20,59.8,239.2,150.72,88.48,36.99,Regular,UPI,Delivered
+ORD-1682,06-Jun-2024,Jun,Q2,2024,West,Rajasthan,Clothing,T-Shirt,US Polo Assn T-Shirt,3,1199,3597,0,0.0,3597.0,2236.0,1361.0,37.84,Regular,UPI,Delivered
+ORD-1683,30-Jul-2024,Jul,Q3,2024,East,Odisha,Home & Kitchen,Mixer,Prestige Iris 750W,2,3999,7998,5,399.9,7598.1,5053.71,2544.39,33.49,Regular,Credit Card,Delivered
+ORD-1684,16-Jul-2024,Jul,Q3,2024,North,Punjab,Electronics,Tablet,OnePlus Pad,5,37999,189995,10,18999.5,170995.5,106688.79,64306.71,37.61,Regular,Credit Card,Returned
+ORD-1685,10-Jan-2024,Jan,Q1,2024,East,Bihar,Sports,Cricket Bat,SG Savage Edition,5,3499,17495,0,0.0,17495.0,11166.65,6328.35,36.17,Regular,UPI,Delivered
+ORD-1686,14-Apr-2024,Apr,Q2,2024,South,Kerala,Sports,Football,Nivia Shinning Star,5,899,4495,10,449.5,4045.5,2741.56,1303.94,32.23,Regular,UPI,Delivered
+ORD-1687,13-Nov-2024,Nov,Q4,2024,East,Bihar,Clothing,T-Shirt,Puma Men T-Shirt,4,999,3996,5,199.8,3796.2,2489.82,1306.38,34.41,Premium,UPI,Delivered
+ORD-1688,19-Nov-2024,Nov,Q4,2024,South,Telangana,Sports,Yoga Mat,Kore Exercise Yoga Mat,2,399,798,20,159.6,638.4,417.38,221.02,34.62,Regular,UPI,Delivered
+ORD-1689,12-Mar-2024,Mar,Q1,2024,East,Odisha,Clothing,Jacket,Red Tape Puffer Jacket,3,3999,11997,10,1199.7,10797.3,7105.81,3691.49,34.19,New,Debit Card,Delivered
+ORD-1690,05-Dec-2024,Dec,Q4,2024,East,Odisha,Clothing,Kurta,Soch Embroidered Kurta,3,3499,10497,0,0.0,10497.0,7083.81,3413.19,32.52,Regular,COD,Delivered
+ORD-1691,03-Jan-2024,Jan,Q1,2024,North,UP,Clothing,Kurta,Soch Embroidered Kurta,4,3499,13996,10,1399.6,12596.4,8216.48,4379.92,34.77,Premium,Credit Card,Delivered
+ORD-1692,16-Jan-2024,Jan,Q1,2024,West,Rajasthan,Electronics,Tablet,OnePlus Pad,5,37999,189995,10,18999.5,170995.5,109985.17,61010.33,35.68,Premium,Debit Card,Pending
+ORD-1693,04-Mar-2024,Mar,Q1,2024,West,Gujarat,Clothing,Kurta,Manyavar Men Kurta,2,2999,5998,0,0.0,5998.0,3991.7,2006.3,33.45,Premium,Debit Card,Delivered
+ORD-1694,10-Nov-2024,Nov,Q4,2024,East,Bihar,Clothing,Jeans,Killer Regular Fit,3,1799,5397,0,0.0,5397.0,3437.05,1959.95,36.32,New,Debit Card,Delivered
+ORD-1695,10-Apr-2024,Apr,Q2,2024,West,Maharashtra,Books,Comic,Batman: Year One,4,499,1996,0,0.0,1996.0,1303.6,692.4,34.69,Premium,Credit Card,Delivered
+ORD-1696,16-Oct-2024,Oct,Q4,2024,South,Tamil Nadu,Sports,Football,Nivia Storm Football,2,499,998,5,49.9,948.1,640.93,307.17,32.4,New,Net Banking,Delivered
+ORD-1697,20-May-2024,May,Q2,2024,South,Telangana,Electronics,Smart Watch,Apple Watch SE,3,27900,83700,20,16740.0,66960.0,45063.15,21896.85,32.7,Regular,UPI,Delivered
+ORD-1698,28-Nov-2024,Nov,Q4,2024,North,Punjab,Home & Kitchen,Lamp,Syska Table Lamp,1,1199,1199,20,239.8,959.2,621.56,337.64,35.2,Regular,Debit Card,Returned
+ORD-1699,24-Apr-2024,Apr,Q2,2024,North,Punjab,Home & Kitchen,Pillow,Recron Certified Pillow,3,399,1197,0,0.0,1197.0,770.28,426.72,35.65,Regular,Net Banking,Delivered
+ORD-1700,25-Apr-2024,Apr,Q2,2024,West,Maharashtra,Clothing,Jeans,Pepe Jeans Regular Fit,3,2499,7497,5,374.85,7122.15,4442.59,2679.56,37.62,Premium,UPI,Delivered
+ORD-1701,13-Jan-2024,Jan,Q1,2024,East,Odisha,Clothing,T-Shirt,Levis Graphic T-Shirt,2,1499,2998,10,299.8,2698.2,1807.66,890.54,33.0,Premium,Credit Card,Delivered
+ORD-1702,07-Feb-2024,Feb,Q1,2024,West,Maharashtra,Home & Kitchen,Pillow,Sleepwell Fiber Pillow,1,499,499,0,0.0,499.0,336.83,162.17,32.5,Regular,Net Banking,Delivered
+ORD-1703,06-Mar-2024,Mar,Q1,2024,North,Punjab,Electronics,Tablet,Realme Pad 2,4,19999,79996,0,0.0,79996.0,50086.27,29909.73,37.39,Regular,UPI,Delivered
+ORD-1704,24-Jul-2024,Jul,Q3,2024,North,UP,Home & Kitchen,Cooker,Hawkins Contura 3L,5,1699,8495,0,0.0,8495.0,5498.0,2997.0,35.28,Regular,UPI,Delivered
+ORD-1705,21-Feb-2024,Feb,Q1,2024,East,Bihar,Electronics,Earphones,Realme Buds Wireless 3,3,1799,5397,5,269.85,5127.15,3212.06,1915.09,37.35,Regular,Debit Card,Delivered
+ORD-1706,09-Apr-2024,Apr,Q2,2024,South,Telangana,Sports,Yoga Mat,VIFITKIT Yoga Mat,4,499,1996,15,299.4,1696.6,1125.66,570.94,33.65,Regular,UPI,Delivered
+ORD-1707,31-Jan-2024,Jan,Q1,2024,South,Kerala,Sports,Dumbbells,Lifelong Chrome Dumbbells,3,1899,5697,5,284.85,5412.15,3545.07,1867.08,34.5,Regular,UPI,Delivered
+ORD-1708,04-Nov-2024,Nov,Q4,2024,East,Odisha,Books,Novel,Midnight Library,5,329,1645,0,0.0,1645.0,1025.56,619.44,37.66,Regular,Net Banking,Returned
+ORD-1709,04-Aug-2024,Aug,Q3,2024,East,West Bengal,Clothing,Jeans,Levis 511 Slim Fit,3,2999,8997,5,449.85,8547.15,5641.73,2905.42,33.99,Premium,COD,Delivered
+ORD-1710,18-Jun-2024,Jun,Q2,2024,East,Bihar,Books,Biography,The Story of My Experiments with Truth,2,199,398,0,0.0,398.0,257.61,140.39,35.27,Premium,UPI,Delivered
+ORD-1711,02-Jan-2024,Jan,Q1,2024,South,Telangana,Clothing,Kurta,Soch Embroidered Kurta,2,3499,6998,5,349.9,6648.1,4313.58,2334.52,35.12,Premium,Debit Card,Delivered
+ORD-1712,11-Jul-2024,Jul,Q3,2024,South,Kerala,Clothing,T-Shirt,Nike Dry-Fit T-Shirt,1,1899,1899,0,0.0,1899.0,1218.16,680.84,35.85,Regular,UPI,Delivered
+ORD-1713,19-Nov-2024,Nov,Q4,2024,East,West Bengal,Electronics,Laptop,Dell Inspiron 14,3,49999,149997,0,0.0,149997.0,94968.61,55028.39,36.69,Regular,UPI,Delivered
+ORD-1714,05-May-2024,May,Q2,2024,South,Tamil Nadu,Electronics,Laptop,Lenovo IdeaPad 3,1,38999,38999,0,0.0,38999.0,26124.91,12874.09,33.01,Regular,Credit Card,Returned
+ORD-1715,22-Jun-2024,Jun,Q2,2024,South,Kerala,Home & Kitchen,Cooker,Pigeon Favourite 3L,3,1099,3297,0,0.0,3297.0,2230.32,1066.68,32.35,New,COD,Returned
+ORD-1716,30-Dec-2024,Dec,Q4,2024,North,Delhi,Clothing,Jeans,Pepe Jeans Regular Fit,2,2499,4998,20,999.6,3998.4,2569.74,1428.66,35.73,Regular,Credit Card,Pending
+ORD-1717,05-May-2024,May,Q2,2024,North,UP,Sports,Football,Puma Spin Ball,3,999,2997,0,0.0,2997.0,1917.06,1079.94,36.03,Regular,Debit Card,Returned
+ORD-1718,17-Sep-2024,Sep,Q3,2024,West,Maharashtra,Electronics,Earphones,Realme Buds Wireless 3,1,1799,1799,0,0.0,1799.0,1170.28,628.72,34.95,Premium,Credit Card,Delivered
+ORD-1719,12-Sep-2024,Sep,Q3,2024,West,Maharashtra,Books,Self-Help,The 5 AM Club,4,320,1280,15,192.0,1088.0,705.49,382.51,35.16,Regular,Credit Card,Delivered
+ORD-1720,28-Nov-2024,Nov,Q4,2024,North,Delhi,Clothing,Jeans,Killer Regular Fit,2,1799,3598,10,359.8,3238.2,2050.16,1188.04,36.69,Regular,UPI,Delivered
+ORD-1721,10-Jul-2024,Jul,Q3,2024,East,Bihar,Electronics,Laptop,HP Pavilion 15,3,58999,176997,15,26549.55,150447.45,97960.73,52486.72,34.89,Regular,UPI,Delivered
+ORD-1722,21-Jun-2024,Jun,Q2,2024,West,Gujarat,Home & Kitchen,Lamp,IKEA FADO Table Lamp,3,1499,4497,15,674.55,3822.45,2442.63,1379.82,36.1,Regular,UPI,Delivered
+ORD-1723,26-Nov-2024,Nov,Q4,2024,North,Punjab,Electronics,Tablet,Realme Pad 2,5,19999,99995,20,19999.0,79996.0,52686.91,27309.09,34.14,Premium,COD,Delivered
+ORD-1724,06-Feb-2024,Feb,Q1,2024,East,West Bengal,Sports,Football,Adidas Tango,2,1499,2998,10,299.8,2698.2,1713.36,984.84,36.5,Premium,Debit Card,Delivered
+ORD-1725,07-Apr-2024,Apr,Q2,2024,South,Telangana,Sports,Yoga Mat,Kore Exercise Yoga Mat,3,399,1197,5,59.85,1137.15,761.14,376.01,33.07,Premium,UPI,Delivered
+ORD-1726,23-Oct-2024,Oct,Q4,2024,North,Punjab,Sports,Football,Cosco Milano,2,799,1598,5,79.9,1518.1,1007.11,510.99,33.66,Regular,UPI,Delivered
+ORD-1727,09-Oct-2024,Oct,Q4,2024,West,Rajasthan,Home & Kitchen,Bedsheet,Bombay Dyeing Cotton Bedsheet,3,1499,4497,5,224.85,4272.15,2758.65,1513.5,35.43,New,UPI,Delivered
+ORD-1728,12-Oct-2024,Oct,Q4,2024,North,Punjab,Clothing,Jacket,Decathlon Fleece Jacket,3,1499,4497,0,0.0,4497.0,2923.0,1574.0,35.0,Premium,UPI,Delivered
+ORD-1729,05-Aug-2024,Aug,Q3,2024,West,Rajasthan,Sports,Yoga Mat,VIFITKIT Yoga Mat,5,499,2495,0,0.0,2495.0,1631.87,863.13,34.59,Regular,UPI,Pending
+ORD-1730,18-Jun-2024,Jun,Q2,2024,West,Gujarat,Clothing,Kurta,Manyavar Men Kurta,5,2999,14995,10,1499.5,13495.5,8519.71,4975.79,36.87,Regular,Credit Card,Delivered
+ORD-1731,04-Jun-2024,Jun,Q2,2024,North,Delhi,Electronics,Smart Watch,Fire-Boltt Gladiator,1,2499,2499,15,374.85,2124.15,1320.39,803.76,37.84,Regular,COD,Delivered
+ORD-1732,15-Apr-2024,Apr,Q2,2024,South,Kerala,Sports,Cricket Bat,Spartan MSD Warrior,1,2499,2499,10,249.9,2249.1,1464.42,784.68,34.89,Regular,Net Banking,Delivered
+ORD-1733,21-Mar-2024,Mar,Q1,2024,North,Delhi,Sports,Dumbbells,Bulfyss Hex Dumbbells 10kg,1,2199,2199,10,219.9,1979.1,1340.46,638.64,32.27,New,UPI,Delivered
+ORD-1734,09-Aug-2024,Aug,Q3,2024,West,Maharashtra,Sports,Cycle,Hercules Roadeo,5,9999,49995,5,2499.75,47495.25,30878.97,16616.28,34.99,Premium,UPI,Delivered
+ORD-1735,14-Mar-2024,Mar,Q1,2024,West,Maharashtra,Home & Kitchen,Pillow,Kurlon Memory Foam Pillow,5,1299,6495,10,649.5,5845.5,3943.48,1902.02,32.54,New,Credit Card,Delivered
+ORD-1736,16-Feb-2024,Feb,Q1,2024,East,Bihar,Home & Kitchen,Bedsheet,Spaces Floral Bedsheet,4,2499,9996,0,0.0,9996.0,6446.45,3549.55,35.51,Regular,Credit Card,Delivered
+ORD-1737,15-Jul-2024,Jul,Q3,2024,South,Telangana,Sports,Cricket Bat,Spartan MSD Warrior,1,2499,2499,5,124.95,2374.05,1598.05,776.0,32.69,Regular,Net Banking,Delivered
+ORD-1738,07-Dec-2024,Dec,Q4,2024,North,UP,Clothing,Kurta,Anouk Cotton Kurta,5,999,4995,0,0.0,4995.0,3395.2,1599.8,32.03,Regular,UPI,Delivered
+ORD-1739,15-Jun-2024,Jun,Q2,2024,West,Gujarat,Clothing,Saree,Banarasi Silk Saree,5,6499,32495,0,0.0,32495.0,21047.99,11447.01,35.23,Regular,Credit Card,Delivered
+ORD-1740,14-Jul-2024,Jul,Q3,2024,East,Bihar,Home & Kitchen,Cooker,Butterfly Cordial 5L,1,2199,2199,0,0.0,2199.0,1396.44,802.56,36.5,Premium,UPI,Delivered
+ORD-1741,25-Aug-2024,Aug,Q3,2024,West,Gujarat,Electronics,Mobile,Realme 12 Pro,2,24999,49998,15,7499.7,42498.3,26706.58,15791.72,37.16,Premium,Net Banking,Delivered
+ORD-1742,10-Jan-2024,Jan,Q1,2024,North,Delhi,Books,Novel,Midnight Library,4,329,1316,0,0.0,1316.0,822.05,493.95,37.53,Premium,Credit Card,Delivered
+ORD-1743,02-Jul-2024,Jul,Q3,2024,South,Tamil Nadu,Electronics,Smart Watch,Fire-Boltt Gladiator,4,2499,9996,0,0.0,9996.0,6699.22,3296.78,32.98,Premium,Credit Card,Delivered
+ORD-1744,22-Feb-2024,Feb,Q1,2024,West,Rajasthan,Books,Biography,Wings of Fire (APJ Abdul Kalam),5,299,1495,0,0.0,1495.0,931.27,563.73,37.71,Regular,UPI,Delivered
+ORD-1745,02-May-2024,May,Q2,2024,South,Tamil Nadu,Electronics,Earphones,boAt Rockerz 255,1,1299,1299,10,129.9,1169.1,782.4,386.7,33.08,Premium,UPI,Pending
+ORD-1746,19-Feb-2024,Feb,Q1,2024,South,Telangana,Clothing,T-Shirt,Levis Graphic T-Shirt,5,1499,7495,0,0.0,7495.0,5013.69,2481.31,33.11,Regular,Credit Card,Delivered
+ORD-1747,04-Oct-2024,Oct,Q4,2024,West,Gujarat,Electronics,Laptop,Dell Inspiron 14,1,49999,49999,10,4999.9,44999.1,28772.52,16226.58,36.06,Regular,Credit Card,Delivered
+ORD-1748,18-Apr-2024,Apr,Q2,2024,West,Maharashtra,Electronics,Tablet,Realme Pad 2,3,19999,59997,0,0.0,59997.0,37440.52,22556.48,37.6,Regular,UPI,Delivered
+ORD-1749,22-Feb-2024,Feb,Q1,2024,South,Kerala,Electronics,Smart Watch,boAt Wave Sigma,4,1499,5996,0,0.0,5996.0,3836.98,2159.02,36.01,Premium,Net Banking,Delivered
+ORD-1750,07-Dec-2024,Dec,Q4,2024,West,Maharashtra,Books,Novel,Midnight Library,5,329,1645,15,246.75,1398.25,898.99,499.26,35.71,Premium,UPI,Delivered
+ORD-1751,07-Jan-2024,Jan,Q1,2024,South,Tamil Nadu,Sports,Cricket Bat,SS Ton Reserve,2,5999,11998,10,1199.8,10798.2,7185.5,3612.7,33.46,Premium,UPI,Delivered
+ORD-1752,31-May-2024,May,Q2,2024,South,Tamil Nadu,Home & Kitchen,Cooker,Hawkins Classic 3L,2,1499,2998,15,449.7,2548.3,1692.98,855.32,33.56,Regular,UPI,Delivered
+ORD-1753,21-Jan-2024,Jan,Q1,2024,West,Rajasthan,Books,Novel,To Kill a Mockingbird,3,399,1197,10,119.7,1077.3,683.58,393.72,36.55,Regular,COD,Delivered
+ORD-1754,07-May-2024,May,Q2,2024,South,Telangana,Home & Kitchen,Pillow,The Sleep Company Pillow,2,1999,3998,15,599.7,3398.3,2235.36,1162.94,34.22,Regular,Credit Card,Pending
+ORD-1755,27-Jan-2024,Jan,Q1,2024,South,Tamil Nadu,Clothing,T-Shirt,Adidas Solid T-Shirt,5,1299,6495,20,1299.0,5196.0,3480.66,1715.34,33.01,New,UPI,Delivered
+ORD-1756,27-Aug-2024,Aug,Q3,2024,East,West Bengal,Clothing,Jeans,Killer Regular Fit,2,1799,3598,5,179.9,3418.1,2181.38,1236.72,36.18,Regular,COD,Delivered
+ORD-1757,03-Sep-2024,Sep,Q3,2024,North,Punjab,Home & Kitchen,Lamp,Wipro Smart LED Lamp,4,899,3596,15,539.4,3056.6,1972.61,1083.99,35.46,Premium,UPI,Delivered
+ORD-1758,03-Sep-2024,Sep,Q3,2024,North,Punjab,Home & Kitchen,Mixer,Bajaj GX1 500W,5,2499,12495,20,2499.0,9996.0,6289.16,3706.84,37.08,Premium,UPI,Delivered
+ORD-1759,20-Aug-2024,Aug,Q3,2024,East,Odisha,Sports,Cycle,Leader Scout 26T,1,6499,6499,10,649.9,5849.1,3674.4,2174.7,37.18,Regular,UPI,Delivered
+ORD-1760,07-Jan-2024,Jan,Q1,2024,East,Odisha,Home & Kitchen,Lamp,IKEA FADO Table Lamp,3,1499,4497,10,449.7,4047.3,2628.21,1419.09,35.06,Premium,Credit Card,Delivered
+ORD-1761,20-Jan-2024,Jan,Q1,2024,North,Punjab,Sports,Football,Nivia Shinning Star,4,899,3596,5,179.8,3416.2,2276.13,1140.07,33.37,Premium,UPI,Delivered
+ORD-1762,21-Nov-2024,Nov,Q4,2024,East,Bihar,Electronics,Earphones,OnePlus Bullets Z2,2,1999,3998,5,199.9,3798.1,2463.69,1334.41,35.13,New,UPI,Delivered
+ORD-1763,15-Jan-2024,Jan,Q1,2024,South,Kerala,Sports,Dumbbells,Kore Steel Dumbbells 10kg,3,1499,4497,5,224.85,4272.15,2803.08,1469.07,34.39,New,Net Banking,Delivered
+ORD-1764,17-Feb-2024,Feb,Q1,2024,West,Gujarat,Sports,Cricket Bat,DSC Condor,2,1999,3998,10,399.8,3598.2,2266.68,1331.52,37.01,Regular,Credit Card,Delivered
+ORD-1765,29-Sep-2024,Sep,Q3,2024,West,Rajasthan,Books,Biography,Wings of Fire (APJ Abdul Kalam),1,299,299,10,29.9,269.1,179.99,89.11,33.11,Regular,UPI,Delivered
+ORD-1766,23-Dec-2024,Dec,Q4,2024,East,West Bengal,Clothing,Kurta,Manyavar Men Kurta,1,2999,2999,0,0.0,2999.0,1998.61,1000.39,33.36,Regular,UPI,Delivered
+ORD-1767,08-Aug-2024,Aug,Q3,2024,South,Tamil Nadu,Books,Textbook,RD Sharma Mathematics,2,899,1798,15,269.7,1528.3,964.23,564.07,36.91,New,Credit Card,Delivered
+ORD-1768,05-Apr-2024,Apr,Q2,2024,South,Tamil Nadu,Clothing,Jeans,Wrangler Comfort Fit,4,1999,7996,15,1199.4,6796.6,4469.51,2327.09,34.24,Premium,Net Banking,Delivered
+ORD-1769,30-May-2024,May,Q2,2024,North,Punjab,Electronics,Tablet,Apple iPad Air,3,54999,164997,0,0.0,164997.0,108095.93,56901.07,34.49,Regular,Credit Card,Delivered
+ORD-1770,01-Feb-2024,Feb,Q1,2024,East,West Bengal,Sports,Cricket Bat,MRF Genius Grand Edition,2,4999,9998,20,1999.6,7998.4,5338.99,2659.41,33.25,Regular,Credit Card,Pending
+ORD-1771,16-May-2024,May,Q2,2024,West,Gujarat,Books,Comic,Spider-Man Classic,3,299,897,10,89.7,807.3,533.55,273.75,33.91,Regular,UPI,Delivered
+ORD-1772,03-Jul-2024,Jul,Q3,2024,West,Gujarat,Sports,Cricket Bat,SS Ton Reserve,3,5999,17997,0,0.0,17997.0,11161.47,6835.53,37.98,New,UPI,Delivered
+ORD-1773,12-Mar-2024,Mar,Q1,2024,North,UP,Electronics,Smart Watch,boAt Wave Sigma,2,1499,2998,10,299.8,2698.2,1746.05,952.15,35.29,Premium,Net Banking,Delivered
+ORD-1774,04-Dec-2024,Dec,Q4,2024,South,Tamil Nadu,Books,Novel,It Ends With Us,1,349,349,10,34.9,314.1,207.52,106.58,33.93,Regular,Credit Card,Delivered
+ORD-1775,11-Feb-2024,Feb,Q1,2024,East,Odisha,Home & Kitchen,Mixer,Philips HL7756 750W,3,4499,13497,5,674.85,12822.15,8497.45,4324.7,33.73,New,Net Banking,Delivered
+ORD-1776,15-Sep-2024,Sep,Q3,2024,North,Delhi,Home & Kitchen,Mixer,Bajaj GX1 500W,5,2499,12495,15,1874.25,10620.75,6691.96,3928.79,36.99,Regular,UPI,Delivered
+ORD-1777,03-May-2024,May,Q2,2024,South,Tamil Nadu,Clothing,T-Shirt,Puma Men T-Shirt,4,999,3996,0,0.0,3996.0,2515.94,1480.06,37.04,New,COD,Delivered
+ORD-1778,22-Apr-2024,Apr,Q2,2024,East,Bihar,Home & Kitchen,Mixer,Lifelong Duos 500W,5,1799,8995,15,1349.25,7645.75,4781.85,2863.9,37.46,Premium,Net Banking,Pending
+ORD-1779,03-Nov-2024,Nov,Q4,2024,North,UP,Books,Biography,Elon Musk by Walter Isaacson,5,799,3995,10,399.5,3595.5,2403.62,1191.88,33.15,Regular,UPI,Delivered
+ORD-1780,15-Feb-2024,Feb,Q1,2024,East,Bihar,Sports,Football,Nivia Storm Football,5,499,2495,10,249.5,2245.5,1409.38,836.12,37.24,Regular,UPI,Delivered
+ORD-1781,08-Jun-2024,Jun,Q2,2024,North,UP,Sports,Football,Cosco Milano,4,799,3196,10,319.6,2876.4,1916.48,959.92,33.37,Premium,COD,Delivered
+ORD-1782,05-Dec-2024,Dec,Q4,2024,South,Tamil Nadu,Home & Kitchen,Mixer,Sujata Super 900W,4,5499,21996,10,2199.6,19796.4,12445.64,7350.76,37.13,New,Net Banking,Delivered
+ORD-1783,21-Aug-2024,Aug,Q3,2024,South,Telangana,Books,Textbook,HC Verma Physics,5,799,3995,10,399.5,3595.5,2295.85,1299.65,36.15,New,UPI,Pending
+ORD-1784,27-Dec-2024,Dec,Q4,2024,West,Rajasthan,Clothing,Kurta,Biba Printed Kurta,4,2199,8796,0,0.0,8796.0,5971.33,2824.67,32.11,Regular,Net Banking,Delivered
+ORD-1785,25-Apr-2024,Apr,Q2,2024,North,Delhi,Home & Kitchen,Lamp,Syska Table Lamp,2,1199,2398,0,0.0,2398.0,1565.6,832.4,34.71,Regular,Credit Card,Pending
+ORD-1786,19-Jul-2024,Jul,Q3,2024,West,Maharashtra,Sports,Yoga Mat,VIFITKIT Yoga Mat,2,499,998,20,199.6,798.4,513.87,284.53,35.64,Regular,Debit Card,Delivered
+ORD-1787,28-Jan-2024,Jan,Q1,2024,East,Odisha,Clothing,Jacket,Decathlon Fleece Jacket,4,1499,5996,15,899.4,5096.6,3248.9,1847.7,36.25,Regular,UPI,Delivered
+ORD-1788,29-Nov-2024,Nov,Q4,2024,North,Punjab,Sports,Cricket Bat,SG Savage Edition,4,3499,13996,10,1399.6,12596.4,8323.28,4273.12,33.92,Regular,UPI,Delivered
+ORD-1789,30-Aug-2024,Aug,Q3,2024,South,Tamil Nadu,Electronics,Smart Watch,boAt Wave Sigma,5,1499,7495,10,749.5,6745.5,4574.69,2170.81,32.18,Premium,UPI,Delivered
+ORD-1790,03-May-2024,May,Q2,2024,West,Gujarat,Books,Comic,Chacha Chaudhary,4,99,396,0,0.0,396.0,264.0,132.0,33.33,New,Credit Card,Delivered
+ORD-1791,30-Nov-2024,Nov,Q4,2024,West,Gujarat,Electronics,Mobile,Apple iPhone 15,1,72999,72999,0,0.0,72999.0,47402.13,25596.87,35.06,Premium,Credit Card,Delivered
+ORD-1792,20-Oct-2024,Oct,Q4,2024,West,Gujarat,Electronics,Smart Watch,Fire-Boltt Gladiator,4,2499,9996,15,1499.4,8496.6,5777.66,2718.94,32.0,Premium,UPI,Delivered
+ORD-1793,15-Jun-2024,Jun,Q2,2024,North,UP,Sports,Football,Cosco Milano,1,799,799,10,79.9,719.1,469.83,249.27,34.66,Regular,Debit Card,Delivered
+ORD-1794,22-Sep-2024,Sep,Q3,2024,North,Delhi,Electronics,Laptop,Acer Aspire 5,2,39999,79998,0,0.0,79998.0,52261.36,27736.64,34.67,Premium,UPI,Delivered
+ORD-1795,15-Apr-2024,Apr,Q2,2024,South,Tamil Nadu,Sports,Yoga Mat,Kore Exercise Yoga Mat,1,399,399,0,0.0,399.0,259.5,139.5,34.96,Regular,Credit Card,Delivered
+ORD-1796,02-Dec-2024,Dec,Q4,2024,North,Delhi,Books,Novel,Midnight Library,3,329,987,20,197.4,789.6,510.63,278.97,35.33,Regular,Credit Card,Delivered
+ORD-1797,29-Jun-2024,Jun,Q2,2024,South,Telangana,Electronics,Mobile,Samsung Galaxy S24,1,74999,74999,5,3749.95,71249.05,44780.03,26469.02,37.15,New,UPI,Delivered
+ORD-1798,09-Oct-2024,Oct,Q4,2024,South,Telangana,Books,Self-Help,The Psychology of Money,5,399,1995,10,199.5,1795.5,1121.22,674.28,37.55,Regular,UPI,Returned
+ORD-1799,23-Jul-2024,Jul,Q3,2024,West,Maharashtra,Books,Biography,Steve Jobs by Walter Isaacson,5,699,3495,5,174.75,3320.25,2072.61,1247.64,37.58,Premium,COD,Delivered
+ORD-1800,08-Apr-2024,Apr,Q2,2024,East,Bihar,Sports,Cycle,Firefox Target 21S,4,14999,59996,0,0.0,59996.0,38336.34,21659.66,36.1,Premium,UPI,Pending
+ORD-1801,06-May-2024,May,Q2,2024,North,Punjab,Electronics,Smart Watch,Noise ColorFit Pro 5,5,3999,19995,10,1999.5,17995.5,11228.43,6767.07,37.6,Premium,UPI,Delivered
+ORD-1802,19-May-2024,May,Q2,2024,South,Tamil Nadu,Books,Novel,The Alchemist,4,299,1196,5,59.8,1136.2,730.26,405.94,35.73,Regular,COD,Delivered
+ORD-1803,05-Jun-2024,Jun,Q2,2024,West,Maharashtra,Sports,Yoga Mat,Strauss Eco Friendly,3,899,2697,20,539.4,2157.6,1372.8,784.8,36.37,Regular,UPI,Delivered
+ORD-1804,18-Jul-2024,Jul,Q3,2024,South,Kerala,Sports,Cycle,Decathlon Rockrider,4,12999,51996,15,7799.4,44196.6,28972.58,15224.02,34.45,Regular,Credit Card,Delivered
+ORD-1805,02-Dec-2024,Dec,Q4,2024,South,Tamil Nadu,Home & Kitchen,Pillow,The Sleep Company Pillow,1,1999,1999,10,199.9,1799.1,1191.81,607.29,33.76,Regular,Credit Card,Delivered
+ORD-1806,03-Apr-2024,Apr,Q2,2024,West,Gujarat,Home & Kitchen,Pillow,The Sleep Company Pillow,3,1999,5997,10,599.7,5397.3,3514.91,1882.39,34.88,Premium,COD,Delivered
+ORD-1807,21-Nov-2024,Nov,Q4,2024,North,Punjab,Home & Kitchen,Bedsheet,Bombay Dyeing Cotton Bedsheet,1,1499,1499,0,0.0,1499.0,995.03,503.97,33.62,New,UPI,Delivered
+ORD-1808,26-May-2024,May,Q2,2024,West,Maharashtra,Home & Kitchen,Pillow,Kurlon Memory Foam Pillow,4,1299,5196,15,779.4,4416.6,2874.77,1541.83,34.91,New,Net Banking,Delivered
+ORD-1809,26-Jul-2024,Jul,Q3,2024,North,UP,Clothing,T-Shirt,Levis Graphic T-Shirt,5,1499,7495,10,749.5,6745.5,4281.06,2464.44,36.53,Premium,COD,Delivered
+ORD-1810,27-Sep-2024,Sep,Q3,2024,North,UP,Home & Kitchen,Cooker,Hawkins Contura 3L,2,1699,3398,0,0.0,3398.0,2122.08,1275.92,37.55,Premium,Credit Card,Pending
+ORD-1811,04-Aug-2024,Aug,Q3,2024,West,Gujarat,Clothing,Saree,Kanjivaram Silk Saree,3,7999,23997,5,1199.85,22797.15,15271.89,7525.26,33.01,New,Net Banking,Delivered
+ORD-1812,04-Sep-2024,Sep,Q3,2024,East,Odisha,Clothing,T-Shirt,US Polo Assn T-Shirt,4,1199,4796,5,239.8,4556.2,3077.18,1479.02,32.46,New,COD,Delivered
+ORD-1813,19-Jan-2024,Jan,Q1,2024,West,Rajasthan,Home & Kitchen,Mixer,Bajaj GX1 500W,1,2499,2499,15,374.85,2124.15,1358.85,765.3,36.03,Regular,UPI,Returned
+ORD-1814,05-Apr-2024,Apr,Q2,2024,West,Gujarat,Electronics,Mobile,Redmi Note 13,4,17999,71996,5,3599.8,68396.2,42753.41,25642.79,37.49,Regular,UPI,Delivered
+ORD-1815,06-Sep-2024,Sep,Q3,2024,North,Delhi,Books,Textbook,Indian Polity by Laxmikanth,4,749,2996,10,299.6,2696.4,1720.19,976.21,36.2,Regular,UPI,Delivered
+ORD-1816,25-Feb-2024,Feb,Q1,2024,West,Rajasthan,Home & Kitchen,Cooker,Prestige Popular 5L,3,1899,5697,10,569.7,5127.3,3180.71,1946.59,37.97,New,Debit Card,Delivered
+ORD-1817,25-May-2024,May,Q2,2024,North,Delhi,Home & Kitchen,Lamp,Syska Table Lamp,1,1199,1199,0,0.0,1199.0,791.31,407.69,34.0,New,COD,Pending
+ORD-1818,01-Mar-2024,Mar,Q1,2024,West,Gujarat,Sports,Dumbbells,Kore Steel Dumbbells 10kg,3,1499,4497,10,449.7,4047.3,2631.2,1416.1,34.99,New,Net Banking,Delivered
+ORD-1819,26-Feb-2024,Feb,Q1,2024,North,Delhi,Clothing,Jeans,Wrangler Comfort Fit,5,1999,9995,0,0.0,9995.0,6657.1,3337.9,33.4,Regular,Credit Card,Delivered
+ORD-1820,01-Nov-2024,Nov,Q4,2024,North,Punjab,Home & Kitchen,Bedsheet,Spaces Floral Bedsheet,4,2499,9996,0,0.0,9996.0,6653.88,3342.12,33.43,Regular,UPI,Delivered
+ORD-1821,07-May-2024,May,Q2,2024,East,West Bengal,Books,Textbook,Indian Polity by Laxmikanth,2,749,1498,15,224.7,1273.3,843.42,429.88,33.76,Premium,Debit Card,Delivered
+ORD-1822,02-Apr-2024,Apr,Q2,2024,South,Telangana,Clothing,Jeans,Levis 511 Slim Fit,2,2999,5998,10,599.8,5398.2,3359.31,2038.89,37.77,New,COD,Delivered
+ORD-1823,11-Nov-2024,Nov,Q4,2024,South,Tamil Nadu,Electronics,Earphones,OnePlus Bullets Z2,5,1999,9995,5,499.75,9495.25,6285.95,3209.3,33.8,New,UPI,Delivered
+ORD-1824,01-Feb-2024,Feb,Q1,2024,West,Rajasthan,Electronics,Tablet,Apple iPad Air,3,54999,164997,10,16499.7,148497.3,94568.03,53929.27,36.32,Regular,UPI,Delivered
+ORD-1825,25-Jan-2024,Jan,Q1,2024,South,Tamil Nadu,Electronics,Mobile,OnePlus 12,2,64999,129998,5,6499.9,123498.1,80066.72,43431.38,35.17,New,UPI,Delivered
+ORD-1826,08-Sep-2024,Sep,Q3,2024,East,Odisha,Books,Novel,The Alchemist,1,299,299,20,59.8,239.2,159.36,79.84,33.38,Regular,UPI,Delivered
+ORD-1827,28-Oct-2024,Oct,Q4,2024,East,West Bengal,Books,Textbook,Fundamentals of Database Systems,4,999,3996,0,0.0,3996.0,2690.23,1305.77,32.68,Regular,Debit Card,Delivered
+ORD-1828,27-Oct-2024,Oct,Q4,2024,South,Tamil Nadu,Home & Kitchen,Mixer,Prestige Iris 750W,5,3999,19995,10,1999.5,17995.5,11482.72,6512.78,36.19,Regular,Debit Card,Delivered
+ORD-1829,19-Mar-2024,Mar,Q1,2024,North,Delhi,Clothing,Kurta,Soch Embroidered Kurta,3,3499,10497,20,2099.4,8397.6,5697.84,2699.76,32.15,New,UPI,Delivered
+ORD-1830,11-Aug-2024,Aug,Q3,2024,North,Punjab,Home & Kitchen,Pillow,Wakefit Hollow Fiber Pillow,1,599,599,0,0.0,599.0,392.91,206.09,34.41,Premium,UPI,Delivered
+ORD-1831,16-Oct-2024,Oct,Q4,2024,North,UP,Clothing,Kurta,Anouk Cotton Kurta,5,999,4995,20,999.0,3996.0,2710.46,1285.54,32.17,Regular,Debit Card,Delivered
+ORD-1832,18-Jul-2024,Jul,Q3,2024,West,Rajasthan,Books,Textbook,RD Sharma Mathematics,1,899,899,0,0.0,899.0,588.23,310.77,34.57,Regular,UPI,Returned
+ORD-1833,19-Sep-2024,Sep,Q3,2024,West,Rajasthan,Sports,Yoga Mat,VIFITKIT Yoga Mat,2,499,998,5,49.9,948.1,628.11,319.99,33.75,Regular,UPI,Delivered
+ORD-1834,01-May-2024,May,Q2,2024,East,West Bengal,Clothing,Saree,Banarasi Silk Saree,3,6499,19497,0,0.0,19497.0,12839.65,6657.35,34.15,Regular,Net Banking,Delivered
+ORD-1835,01-Jan-2024,Jan,Q1,2024,East,Bihar,Sports,Yoga Mat,VIFITKIT Yoga Mat,1,499,499,20,99.8,399.2,253.83,145.37,36.42,Regular,Net Banking,Delivered
+ORD-1836,30-Jan-2024,Jan,Q1,2024,North,Punjab,Clothing,Saree,Banarasi Silk Saree,3,6499,19497,0,0.0,19497.0,12716.79,6780.21,34.78,New,Debit Card,Delivered
+ORD-1837,24-Feb-2024,Feb,Q1,2024,West,Rajasthan,Books,Comic,Batman: Year One,2,499,998,15,149.7,848.3,537.18,311.12,36.68,Regular,Credit Card,Delivered
+ORD-1838,21-Jul-2024,Jul,Q3,2024,South,Kerala,Clothing,Kurta,Biba Printed Kurta,2,2199,4398,15,659.7,3738.3,2338.76,1399.54,37.44,Regular,UPI,Returned
+ORD-1839,06-Apr-2024,Apr,Q2,2024,West,Rajasthan,Clothing,Saree,Kanjivaram Silk Saree,3,7999,23997,0,0.0,23997.0,16152.75,7844.25,32.69,Premium,Credit Card,Delivered
+ORD-1840,14-Mar-2024,Mar,Q1,2024,North,Punjab,Clothing,Kurta,Anouk Cotton Kurta,1,999,999,20,199.8,799.2,502.09,297.11,37.18,Premium,UPI,Delivered
+ORD-1841,15-Jul-2024,Jul,Q3,2024,North,Delhi,Electronics,Mobile,Samsung Galaxy S24,2,74999,149998,0,0.0,149998.0,95407.64,54590.36,36.39,New,Credit Card,Delivered
+ORD-1842,05-Jan-2024,Jan,Q1,2024,North,UP,Books,Novel,To Kill a Mockingbird,2,399,798,15,119.7,678.3,451.46,226.84,33.44,New,Debit Card,Delivered
+ORD-1843,02-Sep-2024,Sep,Q3,2024,South,Tamil Nadu,Electronics,Smart Watch,boAt Wave Sigma,5,1499,7495,0,0.0,7495.0,4656.44,2838.56,37.87,Regular,Credit Card,Delivered
+ORD-1844,31-Jul-2024,Jul,Q3,2024,South,Tamil Nadu,Clothing,T-Shirt,Adidas Solid T-Shirt,4,1299,5196,10,519.6,4676.4,2940.72,1735.68,37.12,Premium,UPI,Returned
+ORD-1845,15-Jul-2024,Jul,Q3,2024,North,Punjab,Clothing,T-Shirt,Adidas Solid T-Shirt,1,1299,1299,5,64.95,1234.05,791.57,442.48,35.86,Premium,UPI,Returned
+ORD-1846,13-Feb-2024,Feb,Q1,2024,North,UP,Clothing,Jeans,Killer Regular Fit,5,1799,8995,10,899.5,8095.5,5310.46,2785.04,34.4,Premium,UPI,Delivered
+ORD-1847,03-Jun-2024,Jun,Q2,2024,East,Odisha,Electronics,Tablet,OnePlus Pad,3,37999,113997,5,5699.85,108297.15,72412.15,35885.0,33.14,Premium,UPI,Delivered
+ORD-1848,17-Mar-2024,Mar,Q1,2024,South,Kerala,Clothing,Kurta,Anouk Cotton Kurta,4,999,3996,0,0.0,3996.0,2504.65,1491.35,37.32,Regular,Debit Card,Delivered
+ORD-1849,14-Jun-2024,Jun,Q2,2024,South,Tamil Nadu,Home & Kitchen,Bedsheet,Spaces Floral Bedsheet,4,2499,9996,10,999.6,8996.4,5837.56,3158.84,35.11,New,Credit Card,Delivered
+ORD-1850,11-Mar-2024,Mar,Q1,2024,South,Kerala,Home & Kitchen,Pillow,Recron Certified Pillow,5,399,1995,20,399.0,1596.0,1036.69,559.31,35.04,Regular,UPI,Delivered
+ORD-1851,03-Aug-2024,Aug,Q3,2024,South,Telangana,Electronics,Laptop,Lenovo IdeaPad 3,1,38999,38999,5,1949.95,37049.05,25179.81,11869.24,32.04,Regular,Credit Card,Pending
+ORD-1852,26-Feb-2024,Feb,Q1,2024,North,Punjab,Books,Textbook,NCERT Science Class 10,4,199,796,0,0.0,796.0,533.41,262.59,32.99,Regular,COD,Delivered
+ORD-1853,17-Apr-2024,Apr,Q2,2024,South,Tamil Nadu,Clothing,T-Shirt,Adidas Solid T-Shirt,4,1299,5196,0,0.0,5196.0,3438.54,1757.46,33.82,Regular,UPI,Delivered
+ORD-1854,24-Oct-2024,Oct,Q4,2024,North,Punjab,Sports,Football,Nivia Storm Football,2,499,998,10,99.8,898.2,564.5,333.7,37.15,Regular,UPI,Delivered
+ORD-1855,01-Aug-2024,Aug,Q3,2024,South,Tamil Nadu,Home & Kitchen,Cooker,Hawkins Contura 3L,3,1699,5097,15,764.55,4332.45,2793.09,1539.36,35.53,Regular,Debit Card,Delivered
+ORD-1856,26-May-2024,May,Q2,2024,North,Delhi,Electronics,Mobile,Realme 12 Pro,2,24999,49998,20,9999.6,39998.4,25183.83,14814.57,37.04,Regular,UPI,Pending
+ORD-1857,20-Aug-2024,Aug,Q3,2024,East,Bihar,Sports,Yoga Mat,Boldfit Yoga Mat,4,699,2796,0,0.0,2796.0,1779.12,1016.88,36.37,Regular,UPI,Pending
+ORD-1858,18-Apr-2024,Apr,Q2,2024,West,Rajasthan,Electronics,Laptop,ASUS Vivobook 16,2,44999,89998,20,17999.6,71998.4,47252.91,24745.49,34.37,Regular,Credit Card,Delivered
+ORD-1859,30-Nov-2024,Nov,Q4,2024,West,Gujarat,Clothing,T-Shirt,Nike Dry-Fit T-Shirt,4,1899,7596,5,379.8,7216.2,4590.91,2625.29,36.38,Regular,UPI,Delivered
+ORD-1860,20-Jun-2024,Jun,Q2,2024,North,Delhi,Books,Textbook,Fundamentals of Database Systems,1,999,999,0,0.0,999.0,632.08,366.92,36.73,Regular,COD,Delivered
+ORD-1861,13-Apr-2024,Apr,Q2,2024,North,Delhi,Books,Novel,Midnight Library,5,329,1645,0,0.0,1645.0,1075.54,569.46,34.62,Premium,UPI,Delivered
+ORD-1862,07-Jun-2024,Jun,Q2,2024,North,Punjab,Books,Biography,Playing It My Way (Sachin Tendulkar),2,599,1198,10,119.8,1078.2,717.12,361.08,33.49,Premium,COD,Delivered
+ORD-1863,19-Feb-2024,Feb,Q1,2024,East,Odisha,Sports,Cricket Bat,DSC Condor,2,1999,3998,0,0.0,3998.0,2619.61,1378.39,34.48,Regular,Credit Card,Returned
+ORD-1864,28-May-2024,May,Q2,2024,South,Tamil Nadu,Home & Kitchen,Mixer,Prestige Iris 750W,2,3999,7998,5,399.9,7598.1,5078.94,2519.16,33.16,Premium,Debit Card,Delivered
+ORD-1865,13-Sep-2024,Sep,Q3,2024,East,Odisha,Clothing,Saree,Chanderi Cotton Saree,3,1899,5697,10,569.7,5127.3,3191.24,1936.06,37.76,Premium,Credit Card,Delivered
+ORD-1866,08-Nov-2024,Nov,Q4,2024,North,Delhi,Sports,Dumbbells,Aurion PVC Dumbbells 5kg,1,599,599,0,0.0,599.0,398.92,200.08,33.4,Regular,Net Banking,Delivered
+ORD-1867,14-Feb-2024,Feb,Q1,2024,West,Maharashtra,Home & Kitchen,Bedsheet,Portico New York Bedsheet,3,1999,5997,0,0.0,5997.0,3742.67,2254.33,37.59,Regular,UPI,Delivered
+ORD-1868,29-Dec-2024,Dec,Q4,2024,West,Gujarat,Home & Kitchen,Bedsheet,Story@Home Double Bedsheet,2,999,1998,0,0.0,1998.0,1355.25,642.75,32.17,Regular,UPI,Delivered
+ORD-1869,28-Jul-2024,Jul,Q3,2024,South,Kerala,Books,Comic,Batman: Year One,3,499,1497,10,149.7,1347.3,842.08,505.22,37.5,Regular,Credit Card,Returned
+ORD-1870,15-Dec-2024,Dec,Q4,2024,North,UP,Electronics,Laptop,Acer Aspire 5,1,39999,39999,0,0.0,39999.0,26846.67,13152.33,32.88,Regular,UPI,Delivered
+ORD-1871,07-Feb-2024,Feb,Q1,2024,South,Kerala,Home & Kitchen,Mixer,Bajaj GX1 500W,4,2499,9996,15,1499.4,8496.6,5595.43,2901.17,34.15,New,Credit Card,Delivered
+ORD-1872,25-Feb-2024,Feb,Q1,2024,West,Gujarat,Clothing,Kurta,Biba Printed Kurta,1,2199,2199,10,219.9,1979.1,1267.7,711.4,35.95,Premium,UPI,Delivered
+ORD-1873,28-Feb-2024,Feb,Q1,2024,East,Odisha,Electronics,Smart Watch,Fire-Boltt Gladiator,4,2499,9996,0,0.0,9996.0,6581.5,3414.5,34.16,Regular,UPI,Delivered
+ORD-1874,13-Jul-2024,Jul,Q3,2024,North,Punjab,Home & Kitchen,Lamp,Wipro Smart LED Lamp,1,899,899,5,44.95,854.05,573.99,280.06,32.79,New,Credit Card,Delivered
+ORD-1875,21-Nov-2024,Nov,Q4,2024,South,Tamil Nadu,Clothing,T-Shirt,Nike Dry-Fit T-Shirt,4,1899,7596,0,0.0,7596.0,4845.49,2750.51,36.21,Premium,Net Banking,Delivered
+ORD-1876,08-Dec-2024,Dec,Q4,2024,East,West Bengal,Electronics,Mobile,Redmi Note 13,3,17999,53997,5,2699.85,51297.15,32310.64,18986.51,37.01,Regular,UPI,Delivered
+ORD-1877,18-Dec-2024,Dec,Q4,2024,South,Telangana,Home & Kitchen,Bedsheet,Divine Casa Bedsheet,4,799,3196,0,0.0,3196.0,2089.08,1106.92,34.63,New,UPI,Delivered
+ORD-1878,23-Oct-2024,Oct,Q4,2024,South,Kerala,Books,Novel,To Kill a Mockingbird,4,399,1596,0,0.0,1596.0,1037.35,558.65,35.0,Regular,Debit Card,Delivered
+ORD-1879,14-May-2024,May,Q2,2024,North,Punjab,Clothing,Kurta,Soch Embroidered Kurta,1,3499,3499,0,0.0,3499.0,2215.28,1283.72,36.69,New,UPI,Delivered
+ORD-1880,26-Mar-2024,Mar,Q1,2024,West,Maharashtra,Books,Textbook,RD Sharma Mathematics,5,899,4495,0,0.0,4495.0,2886.76,1608.24,35.78,Regular,UPI,Delivered
+ORD-1881,04-Mar-2024,Mar,Q1,2024,West,Rajasthan,Home & Kitchen,Lamp,IKEA FADO Table Lamp,3,1499,4497,10,449.7,4047.3,2710.44,1336.86,33.03,Regular,COD,Delivered
+ORD-1882,31-Mar-2024,Mar,Q1,2024,West,Gujarat,Books,Textbook,Fundamentals of Database Systems,5,999,4995,0,0.0,4995.0,3259.57,1735.43,34.74,Regular,Net Banking,Delivered
+ORD-1883,11-Aug-2024,Aug,Q3,2024,East,Bihar,Sports,Cricket Bat,MRF Genius Grand Edition,1,4999,4999,0,0.0,4999.0,3294.23,1704.77,34.1,Premium,UPI,Delivered
+ORD-1884,15-Nov-2024,Nov,Q4,2024,North,UP,Home & Kitchen,Pillow,Wakefit Hollow Fiber Pillow,1,599,599,5,29.95,569.05,381.89,187.16,32.89,Regular,Debit Card,Delivered
+ORD-1885,28-Feb-2024,Feb,Q1,2024,South,Kerala,Electronics,Tablet,OnePlus Pad,4,37999,151996,10,15199.6,136796.4,84876.19,51920.21,37.95,Regular,UPI,Delivered
+ORD-1886,03-Dec-2024,Dec,Q4,2024,East,Odisha,Home & Kitchen,Cooker,Hawkins Classic 3L,4,1499,5996,0,0.0,5996.0,3723.11,2272.89,37.91,Regular,UPI,Delivered
+ORD-1887,03-Nov-2024,Nov,Q4,2024,East,Odisha,Clothing,Jacket,Fort Collins Bomber,2,2299,4598,20,919.6,3678.4,2495.46,1182.94,32.16,Regular,Credit Card,Delivered
+ORD-1888,22-Oct-2024,Oct,Q4,2024,West,Maharashtra,Home & Kitchen,Cooker,Butterfly Cordial 5L,3,2199,6597,20,1319.4,5277.6,3322.28,1955.32,37.05,Regular,Debit Card,Delivered
+ORD-1889,01-Mar-2024,Mar,Q1,2024,West,Rajasthan,Books,Comic,Chacha Chaudhary,3,99,297,5,14.85,282.15,176.51,105.64,37.44,Regular,UPI,Delivered
+ORD-1890,19-Mar-2024,Mar,Q1,2024,North,UP,Sports,Cricket Bat,DSC Condor,4,1999,7996,0,0.0,7996.0,5313.66,2682.34,33.55,Regular,Credit Card,Delivered
+ORD-1891,02-Jul-2024,Jul,Q3,2024,South,Tamil Nadu,Clothing,Saree,Banarasi Silk Saree,5,6499,32495,5,1624.75,30870.25,20484.84,10385.41,33.64,Premium,UPI,Delivered
+ORD-1892,27-Jan-2024,Jan,Q1,2024,East,West Bengal,Clothing,T-Shirt,US Polo Assn T-Shirt,1,1199,1199,0,0.0,1199.0,776.41,422.59,35.25,Regular,UPI,Delivered
+ORD-1893,02-Apr-2024,Apr,Q2,2024,North,Delhi,Home & Kitchen,Bedsheet,Portico New York Bedsheet,4,1999,7996,0,0.0,7996.0,5193.1,2802.9,35.05,Regular,UPI,Pending
+ORD-1894,09-Feb-2024,Feb,Q1,2024,South,Telangana,Home & Kitchen,Lamp,Syska Table Lamp,4,1199,4796,0,0.0,4796.0,3025.26,1770.74,36.92,Regular,UPI,Delivered
+ORD-1895,06-Nov-2024,Nov,Q4,2024,North,Delhi,Books,Self-Help,Think and Grow Rich,5,249,1245,20,249.0,996.0,617.82,378.18,37.97,Regular,UPI,Delivered
+ORD-1896,06-Nov-2024,Nov,Q4,2024,North,UP,Electronics,Smart Watch,Apple Watch SE,2,27900,55800,5,2790.0,53010.0,35623.38,17386.62,32.8,Regular,UPI,Delivered
+ORD-1897,22-Apr-2024,Apr,Q2,2024,North,UP,Clothing,Saree,Chanderi Cotton Saree,4,1899,7596,5,379.8,7216.2,4886.77,2329.43,32.28,Regular,Credit Card,Delivered
+ORD-1898,10-Sep-2024,Sep,Q3,2024,West,Rajasthan,Home & Kitchen,Cooker,Pigeon Favourite 3L,2,1099,2198,5,109.9,2088.1,1380.7,707.4,33.88,New,UPI,Delivered
+ORD-1899,25-Oct-2024,Oct,Q4,2024,East,West Bengal,Clothing,Kurta,Anouk Cotton Kurta,4,999,3996,10,399.6,3596.4,2358.45,1237.95,34.42,Regular,UPI,Delivered
+ORD-1900,15-Jul-2024,Jul,Q3,2024,West,Maharashtra,Sports,Yoga Mat,VIFITKIT Yoga Mat,1,499,499,15,74.85,424.15,267.23,156.92,37.0,Regular,Credit Card,Delivered
+ORD-1901,30-May-2024,May,Q2,2024,East,Odisha,Electronics,Mobile,Samsung Galaxy S24,3,74999,224997,10,22499.7,202497.3,135157.59,67339.71,33.25,Regular,UPI,Delivered
+ORD-1902,09-Jul-2024,Jul,Q3,2024,South,Kerala,Electronics,Mobile,OnePlus 12,1,64999,64999,10,6499.9,58499.1,37019.77,21479.33,36.72,Regular,UPI,Delivered
+ORD-1903,03-Feb-2024,Feb,Q1,2024,West,Gujarat,Sports,Football,Puma Spin Ball,2,999,1998,0,0.0,1998.0,1306.01,691.99,34.63,Premium,COD,Delivered
+ORD-1904,09-Dec-2024,Dec,Q4,2024,North,UP,Home & Kitchen,Lamp,Syska Table Lamp,3,1199,3597,5,179.85,3417.15,2159.05,1258.1,36.82,Premium,Credit Card,Pending
+ORD-1905,03-Aug-2024,Aug,Q3,2024,North,Delhi,Home & Kitchen,Cooker,Hawkins Contura 3L,3,1699,5097,10,509.7,4587.3,2909.2,1678.1,36.58,Regular,UPI,Delivered
+ORD-1906,21-Oct-2024,Oct,Q4,2024,North,Punjab,Books,Textbook,Indian Polity by Laxmikanth,1,749,749,20,149.8,599.2,404.51,194.69,32.49,Regular,Credit Card,Delivered
+ORD-1907,18-Feb-2024,Feb,Q1,2024,West,Rajasthan,Books,Self-Help,Rich Dad Poor Dad,3,349,1047,10,104.7,942.3,588.74,353.56,37.52,Premium,Credit Card,Delivered
+ORD-1908,01-Jun-2024,Jun,Q2,2024,West,Gujarat,Electronics,Tablet,Realme Pad 2,1,19999,19999,0,0.0,19999.0,12668.18,7330.82,36.66,Premium,UPI,Pending
+ORD-1909,18-Dec-2024,Dec,Q4,2024,West,Maharashtra,Clothing,T-Shirt,Adidas Solid T-Shirt,3,1299,3897,20,779.4,3117.6,2118.02,999.58,32.06,New,Net Banking,Delivered
+ORD-1910,23-Jan-2024,Jan,Q1,2024,North,Delhi,Books,Novel,It Ends With Us,3,349,1047,10,104.7,942.3,599.49,342.81,36.38,Regular,UPI,Delivered
+ORD-1911,05-Mar-2024,Mar,Q1,2024,East,West Bengal,Sports,Dumbbells,Bulfyss Hex Dumbbells 10kg,1,2199,2199,20,439.8,1759.2,1146.39,612.81,34.83,Regular,Credit Card,Pending
+ORD-1912,13-Jun-2024,Jun,Q2,2024,West,Maharashtra,Electronics,Tablet,Lenovo Tab M10,1,13999,13999,10,1399.9,12599.1,8233.65,4365.45,34.65,New,Credit Card,Delivered
+ORD-1913,15-Apr-2024,Apr,Q2,2024,North,Delhi,Home & Kitchen,Mixer,Lifelong Duos 500W,1,1799,1799,5,89.95,1709.05,1107.62,601.43,35.19,Regular,Credit Card,Delivered
+ORD-1914,29-Oct-2024,Oct,Q4,2024,East,Odisha,Home & Kitchen,Cooker,Hawkins Contura 3L,1,1699,1699,0,0.0,1699.0,1075.68,623.32,36.69,Regular,COD,Returned
+ORD-1915,19-Sep-2024,Sep,Q3,2024,South,Kerala,Clothing,T-Shirt,Nike Dry-Fit T-Shirt,4,1899,7596,0,0.0,7596.0,5022.29,2573.71,33.88,New,Credit Card,Delivered
+ORD-1916,24-Aug-2024,Aug,Q3,2024,North,UP,Electronics,Laptop,HP Pavilion 15,4,58999,235996,0,0.0,235996.0,150094.73,85901.27,36.4,Regular,Credit Card,Delivered
+ORD-1917,01-Mar-2024,Mar,Q1,2024,North,Punjab,Home & Kitchen,Cooker,Prestige Popular 5L,4,1899,7596,20,1519.2,6076.8,3924.71,2152.09,35.41,Regular,UPI,Delivered
+ORD-1918,26-Jan-2024,Jan,Q1,2024,West,Rajasthan,Home & Kitchen,Cooker,Pigeon Favourite 3L,2,1099,2198,10,219.8,1978.2,1247.45,730.75,36.94,Regular,Credit Card,Delivered
+ORD-1919,25-Feb-2024,Feb,Q1,2024,North,UP,Clothing,T-Shirt,Adidas Solid T-Shirt,1,1299,1299,0,0.0,1299.0,875.14,423.86,32.63,Regular,UPI,Delivered
+ORD-1920,21-May-2024,May,Q2,2024,South,Telangana,Home & Kitchen,Lamp,IKEA FADO Table Lamp,1,1499,1499,5,74.95,1424.05,945.62,478.43,33.6,New,UPI,Delivered
+ORD-1921,14-Apr-2024,Apr,Q2,2024,East,Bihar,Books,Comic,Amar Chitra Katha,1,120,120,0,0.0,120.0,75.73,44.27,36.89,New,Credit Card,Delivered
+ORD-1922,18-Dec-2024,Dec,Q4,2024,South,Tamil Nadu,Books,Novel,To Kill a Mockingbird,2,399,798,10,79.8,718.2,484.06,234.14,32.6,Regular,UPI,Delivered
+ORD-1923,20-Jun-2024,Jun,Q2,2024,North,Delhi,Books,Novel,To Kill a Mockingbird,1,399,399,10,39.9,359.1,243.53,115.57,32.18,Regular,Credit Card,Delivered
+ORD-1924,26-Feb-2024,Feb,Q1,2024,North,Delhi,Sports,Yoga Mat,Boldfit Yoga Mat,5,699,3495,20,699.0,2796.0,1761.59,1034.41,37.0,Regular,UPI,Delivered
+ORD-1925,20-Jun-2024,Jun,Q2,2024,West,Gujarat,Books,Comic,Amar Chitra Katha,4,120,480,5,24.0,456.0,292.69,163.31,35.81,Regular,UPI,Delivered
+ORD-1926,22-Sep-2024,Sep,Q3,2024,West,Maharashtra,Books,Comic,Tinkle Double Digest,2,150,300,10,30.0,270.0,181.27,88.73,32.86,Premium,UPI,Delivered
+ORD-1927,05-May-2024,May,Q2,2024,West,Gujarat,Clothing,T-Shirt,Adidas Solid T-Shirt,4,1299,5196,0,0.0,5196.0,3522.51,1673.49,32.21,New,Credit Card,Returned
+ORD-1928,18-Aug-2024,Aug,Q3,2024,South,Kerala,Books,Self-Help,Think and Grow Rich,5,249,1245,10,124.5,1120.5,758.26,362.24,32.33,Regular,UPI,Delivered
+ORD-1929,25-Dec-2024,Dec,Q4,2024,East,Bihar,Electronics,Earphones,OnePlus Bullets Z2,5,1999,9995,10,999.5,8995.5,5732.87,3262.63,36.27,New,Credit Card,Delivered
+ORD-1930,26-Aug-2024,Aug,Q3,2024,South,Telangana,Books,Comic,Batman: Year One,2,499,998,5,49.9,948.1,615.52,332.58,35.08,Regular,UPI,Delivered
+ORD-1931,21-Apr-2024,Apr,Q2,2024,East,Bihar,Electronics,Mobile,Redmi Note 13,3,17999,53997,0,0.0,53997.0,34872.31,19124.69,35.42,Premium,UPI,Delivered
+ORD-1932,28-Jun-2024,Jun,Q2,2024,East,Bihar,Sports,Football,Nivia Storm Football,3,499,1497,0,0.0,1497.0,1017.59,479.41,32.02,Regular,Credit Card,Delivered
+ORD-1933,22-Apr-2024,Apr,Q2,2024,North,Punjab,Books,Textbook,Indian Polity by Laxmikanth,4,749,2996,10,299.6,2696.4,1828.2,868.2,32.2,Regular,UPI,Delivered
+ORD-1934,08-Jun-2024,Jun,Q2,2024,South,Telangana,Home & Kitchen,Bedsheet,Divine Casa Bedsheet,2,799,1598,5,79.9,1518.1,964.0,554.1,36.5,Regular,UPI,Delivered
+ORD-1935,01-Jun-2024,Jun,Q2,2024,West,Rajasthan,Clothing,Kurta,Anouk Cotton Kurta,1,999,999,0,0.0,999.0,650.94,348.06,34.84,Premium,Credit Card,Delivered
+ORD-1936,02-Jul-2024,Jul,Q3,2024,West,Gujarat,Home & Kitchen,Lamp,IKEA FADO Table Lamp,4,1499,5996,15,899.4,5096.6,3168.35,1928.25,37.83,Regular,COD,Delivered
+ORD-1937,12-Mar-2024,Mar,Q1,2024,East,West Bengal,Sports,Cycle,Hercules Roadeo,2,9999,19998,20,3999.6,15998.4,10782.84,5215.56,32.6,New,UPI,Delivered
+ORD-1938,05-Mar-2024,Mar,Q1,2024,West,Rajasthan,Electronics,Earphones,Realme Buds Wireless 3,4,1799,7196,0,0.0,7196.0,4498.07,2697.93,37.49,Regular,COD,Delivered
+ORD-1939,31-Oct-2024,Oct,Q4,2024,North,Punjab,Sports,Dumbbells,Cockatoo Rubber Dumbbells 5kg,1,1299,1299,0,0.0,1299.0,863.09,435.91,33.56,Premium,Debit Card,Delivered
+ORD-1940,14-Apr-2024,Apr,Q2,2024,South,Telangana,Home & Kitchen,Cooker,Prestige Popular 5L,2,1899,3798,5,189.9,3608.1,2373.03,1235.07,34.23,Premium,COD,Delivered
+ORD-1941,15-Nov-2024,Nov,Q4,2024,South,Tamil Nadu,Electronics,Mobile,Samsung Galaxy S24,5,74999,374995,0,0.0,374995.0,244192.75,130802.25,34.88,Regular,UPI,Delivered
+ORD-1942,15-Sep-2024,Sep,Q3,2024,West,Gujarat,Electronics,Mobile,OnePlus 12,4,64999,259996,15,38999.4,220996.6,150048.24,70948.36,32.1,Premium,Net Banking,Delivered
+ORD-1943,09-Nov-2024,Nov,Q4,2024,West,Rajasthan,Sports,Cricket Bat,Spartan MSD Warrior,2,2499,4998,0,0.0,4998.0,3154.18,1843.82,36.89,Premium,Credit Card,Delivered
+ORD-1944,24-Dec-2024,Dec,Q4,2024,South,Kerala,Home & Kitchen,Bedsheet,Spaces Floral Bedsheet,1,2499,2499,15,374.85,2124.15,1363.79,760.36,35.8,Regular,UPI,Delivered
+ORD-1945,25-Aug-2024,Aug,Q3,2024,West,Gujarat,Clothing,T-Shirt,Nike Dry-Fit T-Shirt,4,1899,7596,0,0.0,7596.0,4966.66,2629.34,34.61,Regular,UPI,Delivered
+ORD-1946,02-Dec-2024,Dec,Q4,2024,West,Maharashtra,Books,Textbook,Indian Polity by Laxmikanth,4,749,2996,5,149.8,2846.2,1766.2,1080.0,37.95,Regular,Credit Card,Returned
+ORD-1947,17-Apr-2024,Apr,Q2,2024,East,Bihar,Sports,Dumbbells,Lifelong Chrome Dumbbells,1,1899,1899,0,0.0,1899.0,1252.12,646.88,34.06,Regular,Debit Card,Delivered
+ORD-1948,12-Mar-2024,Mar,Q1,2024,East,Bihar,Books,Biography,Wings of Fire (APJ Abdul Kalam),4,299,1196,10,119.6,1076.4,729.53,346.87,32.23,Premium,UPI,Delivered
+ORD-1949,16-Sep-2024,Sep,Q3,2024,East,West Bengal,Books,Comic,Batman: Year One,3,499,1497,10,149.7,1347.3,840.79,506.51,37.59,Regular,Debit Card,Delivered
+ORD-1950,06-Dec-2024,Dec,Q4,2024,North,Punjab,Home & Kitchen,Bedsheet,Portico New York Bedsheet,2,1999,3998,0,0.0,3998.0,2694.6,1303.4,32.6,Regular,Net Banking,Delivered
+ORD-1951,03-Aug-2024,Aug,Q3,2024,North,Delhi,Sports,Yoga Mat,Kore Exercise Yoga Mat,1,399,399,0,0.0,399.0,257.95,141.05,35.35,Regular,Credit Card,Delivered
+ORD-1952,30-Mar-2024,Mar,Q1,2024,East,West Bengal,Home & Kitchen,Lamp,Wipro Smart LED Lamp,5,899,4495,20,899.0,3596.0,2272.61,1323.39,36.8,Regular,UPI,Delivered
+ORD-1953,13-Apr-2024,Apr,Q2,2024,South,Kerala,Sports,Football,Nivia Storm Football,5,499,2495,0,0.0,2495.0,1641.08,853.92,34.23,Premium,UPI,Delivered
+ORD-1954,03-Jan-2024,Jan,Q1,2024,East,Odisha,Sports,Cycle,Hero Sprint Cycle,3,7999,23997,0,0.0,23997.0,15860.62,8136.38,33.91,New,Debit Card,Delivered
+ORD-1955,07-Apr-2024,Apr,Q2,2024,South,Telangana,Home & Kitchen,Pillow,The Sleep Company Pillow,3,1999,5997,20,1199.4,4797.6,3220.17,1577.43,32.88,Premium,UPI,Delivered
+ORD-1956,06-Feb-2024,Feb,Q1,2024,North,Delhi,Sports,Yoga Mat,Kore Exercise Yoga Mat,1,399,399,15,59.85,339.15,214.96,124.19,36.62,Premium,UPI,Delivered
+ORD-1957,28-May-2024,May,Q2,2024,East,Odisha,Books,Novel,To Kill a Mockingbird,3,399,1197,0,0.0,1197.0,780.52,416.48,34.79,Regular,Credit Card,Delivered
+ORD-1958,08-Jun-2024,Jun,Q2,2024,West,Rajasthan,Electronics,Smart Watch,Noise ColorFit Pro 5,5,3999,19995,15,2999.25,16995.75,11492.79,5502.96,32.38,New,Credit Card,Delivered
+ORD-1959,03-Aug-2024,Aug,Q3,2024,East,West Bengal,Books,Novel,To Kill a Mockingbird,2,399,798,20,159.6,638.4,427.09,211.31,33.1,Regular,Debit Card,Returned
+ORD-1960,01-Feb-2024,Feb,Q1,2024,South,Kerala,Electronics,Smart Watch,Apple Watch SE,1,27900,27900,10,2790.0,25110.0,17046.26,8063.74,32.11,New,Credit Card,Delivered
+ORD-1961,11-Feb-2024,Feb,Q1,2024,West,Maharashtra,Books,Novel,The Alchemist,1,299,299,15,44.85,254.15,165.31,88.84,34.96,Premium,UPI,Delivered
+ORD-1962,26-Apr-2024,Apr,Q2,2024,North,Delhi,Electronics,Laptop,Acer Aspire 5,5,39999,199995,10,19999.5,179995.5,118961.99,61033.51,33.91,Premium,Credit Card,Delivered
+ORD-1963,12-Jul-2024,Jul,Q3,2024,South,Kerala,Home & Kitchen,Pillow,Kurlon Memory Foam Pillow,1,1299,1299,15,194.85,1104.15,692.39,411.76,37.29,Premium,COD,Delivered
+ORD-1964,24-Jun-2024,Jun,Q2,2024,West,Maharashtra,Clothing,Jeans,Levis 511 Slim Fit,5,2999,14995,0,0.0,14995.0,9501.25,5493.75,36.64,Premium,Net Banking,Delivered
+ORD-1965,17-Oct-2024,Oct,Q4,2024,North,Delhi,Clothing,T-Shirt,Puma Men T-Shirt,1,999,999,0,0.0,999.0,645.67,353.33,35.37,Regular,UPI,Delivered
+ORD-1966,05-May-2024,May,Q2,2024,East,West Bengal,Sports,Dumbbells,Bulfyss Hex Dumbbells 10kg,1,2199,2199,0,0.0,2199.0,1373.46,825.54,37.54,New,UPI,Delivered
+ORD-1967,01-Jul-2024,Jul,Q3,2024,South,Kerala,Books,Self-Help,The 5 AM Club,3,320,960,5,48.0,912.0,594.27,317.73,34.84,Regular,Credit Card,Delivered
+ORD-1968,28-Jan-2024,Jan,Q1,2024,East,Odisha,Sports,Dumbbells,Cockatoo Rubber Dumbbells 5kg,1,1299,1299,5,64.95,1234.05,832.64,401.41,32.53,Premium,Credit Card,Delivered
+ORD-1969,10-Oct-2024,Oct,Q4,2024,South,Tamil Nadu,Books,Textbook,HC Verma Physics,2,799,1598,15,239.7,1358.3,895.11,463.19,34.1,Regular,UPI,Delivered
+ORD-1970,18-Jan-2024,Jan,Q1,2024,East,Odisha,Sports,Dumbbells,Cockatoo Rubber Dumbbells 5kg,1,1299,1299,0,0.0,1299.0,827.13,471.87,36.33,Premium,Credit Card,Returned
+ORD-1971,15-Jul-2024,Jul,Q3,2024,West,Maharashtra,Clothing,Jeans,Killer Regular Fit,2,1799,3598,10,359.8,3238.2,2111.14,1127.06,34.81,Premium,UPI,Delivered
+ORD-1972,14-Jan-2024,Jan,Q1,2024,East,Odisha,Sports,Football,Nivia Storm Football,3,499,1497,10,149.7,1347.3,905.31,441.99,32.81,Premium,COD,Delivered
+ORD-1973,25-Feb-2024,Feb,Q1,2024,West,Rajasthan,Books,Comic,Spider-Man Classic,4,299,1196,20,239.2,956.8,608.15,348.65,36.44,New,Credit Card,Pending
+ORD-1974,01-May-2024,May,Q2,2024,South,Tamil Nadu,Books,Self-Help,Atomic Habits,2,450,900,20,180.0,720.0,459.18,260.82,36.23,Regular,UPI,Delivered
+ORD-1975,17-May-2024,May,Q2,2024,East,Bihar,Sports,Cricket Bat,MRF Genius Grand Edition,3,4999,14997,10,1499.7,13497.3,9045.35,4451.95,32.98,Premium,UPI,Delivered
+ORD-1976,05-Jan-2024,Jan,Q1,2024,West,Maharashtra,Books,Biography,Playing It My Way (Sachin Tendulkar),2,599,1198,10,119.8,1078.2,672.27,405.93,37.65,New,UPI,Delivered
+ORD-1977,09-Jun-2024,Jun,Q2,2024,North,Punjab,Clothing,Saree,Chanderi Cotton Saree,3,1899,5697,15,854.55,4842.45,3039.28,1803.17,37.24,Premium,UPI,Delivered
+ORD-1978,26-Jan-2024,Jan,Q1,2024,South,Tamil Nadu,Electronics,Laptop,Acer Aspire 5,4,39999,159996,10,15999.6,143996.4,89640.26,54356.14,37.75,Premium,UPI,Delivered
+ORD-1979,12-May-2024,May,Q2,2024,East,West Bengal,Books,Comic,Tinkle Double Digest,5,150,750,5,37.5,712.5,456.7,255.8,35.9,Regular,UPI,Delivered
+ORD-1980,01-May-2024,May,Q2,2024,South,Kerala,Sports,Yoga Mat,OJS Premium Yoga Mat,1,599,599,10,59.9,539.1,362.57,176.53,32.75,Regular,UPI,Delivered
+ORD-1981,20-Jun-2024,Jun,Q2,2024,West,Rajasthan,Books,Biography,The Story of My Experiments with Truth,5,199,995,0,0.0,995.0,626.47,368.53,37.04,Regular,COD,Returned
+ORD-1982,14-Jan-2024,Jan,Q1,2024,North,UP,Clothing,Saree,Bandhani Print Saree,5,1599,7995,10,799.5,7195.5,4867.01,2328.49,32.36,Regular,Credit Card,Delivered
+ORD-1983,17-Mar-2024,Mar,Q1,2024,West,Rajasthan,Electronics,Mobile,Samsung Galaxy S24,5,74999,374995,20,74999.0,299996.0,203957.91,96038.09,32.01,Premium,Debit Card,Delivered
+ORD-1984,03-Mar-2024,Mar,Q1,2024,North,UP,Home & Kitchen,Pillow,Wakefit Hollow Fiber Pillow,4,599,2396,10,239.6,2156.4,1371.8,784.6,36.38,Premium,UPI,Delivered
+ORD-1985,04-May-2024,May,Q2,2024,East,West Bengal,Home & Kitchen,Bedsheet,Bombay Dyeing Cotton Bedsheet,2,1499,2998,15,449.7,2548.3,1691.99,856.31,33.6,New,UPI,Delivered
+ORD-1986,15-Sep-2024,Sep,Q3,2024,North,Punjab,Home & Kitchen,Pillow,Kurlon Memory Foam Pillow,4,1299,5196,10,519.6,4676.4,2963.84,1712.56,36.62,Premium,COD,Returned
+ORD-1987,05-May-2024,May,Q2,2024,West,Rajasthan,Sports,Football,Puma Spin Ball,3,999,2997,5,149.85,2847.15,1823.58,1023.57,35.95,Regular,UPI,Delivered
+ORD-1988,16-Mar-2024,Mar,Q1,2024,West,Rajasthan,Clothing,Jeans,Killer Regular Fit,1,1799,1799,0,0.0,1799.0,1128.42,670.58,37.28,Regular,Credit Card,Pending
+ORD-1989,21-Feb-2024,Feb,Q1,2024,South,Tamil Nadu,Home & Kitchen,Mixer,Lifelong Duos 500W,1,1799,1799,0,0.0,1799.0,1170.96,628.04,34.91,Regular,UPI,Delivered
+ORD-1990,06-Mar-2024,Mar,Q1,2024,West,Rajasthan,Sports,Football,Adidas Tango,1,1499,1499,10,149.9,1349.1,909.09,440.01,32.62,New,Credit Card,Delivered
+ORD-1991,24-Jan-2024,Jan,Q1,2024,North,UP,Books,Biography,Elon Musk by Walter Isaacson,4,799,3196,10,319.6,2876.4,1833.3,1043.1,36.26,Regular,UPI,Delivered
+ORD-1992,28-Oct-2024,Oct,Q4,2024,North,Delhi,Electronics,Smart Watch,Apple Watch SE,3,27900,83700,15,12555.0,71145.0,45729.34,25415.66,35.72,Regular,Credit Card,Delivered
+ORD-1993,19-Feb-2024,Feb,Q1,2024,South,Kerala,Home & Kitchen,Bedsheet,Bombay Dyeing Cotton Bedsheet,5,1499,7495,20,1499.0,5996.0,4040.33,1955.67,32.62,Regular,Net Banking,Delivered
+ORD-1994,14-Jun-2024,Jun,Q2,2024,West,Gujarat,Clothing,Jeans,Levis 511 Slim Fit,2,2999,5998,10,599.8,5398.2,3515.03,1883.17,34.89,Regular,Credit Card,Delivered
+ORD-1995,25-May-2024,May,Q2,2024,South,Tamil Nadu,Books,Self-Help,Think and Grow Rich,4,249,996,5,49.8,946.2,636.91,309.29,32.69,Regular,COD,Pending
+ORD-1996,24-Feb-2024,Feb,Q1,2024,South,Telangana,Books,Textbook,HC Verma Physics,2,799,1598,20,319.6,1278.4,856.95,421.45,32.97,Premium,UPI,Returned
+ORD-1997,03-Oct-2024,Oct,Q4,2024,South,Tamil Nadu,Home & Kitchen,Mixer,Bajaj GX1 500W,2,2499,4998,5,249.9,4748.1,3212.13,1535.97,32.35,Regular,Debit Card,Delivered
+ORD-1998,20-Aug-2024,Aug,Q3,2024,East,West Bengal,Electronics,Earphones,OnePlus Bullets Z2,4,1999,7996,5,399.8,7596.2,4749.23,2846.97,37.48,Regular,UPI,Delivered
+ORD-1999,30-Jun-2024,Jun,Q2,2024,North,UP,Clothing,T-Shirt,Nike Dry-Fit T-Shirt,2,1899,3798,20,759.6,3038.4,1944.94,1093.46,35.99,Regular,Debit Card,Delivered
+ORD-2000,07-Feb-2024,Feb,Q1,2024,East,West Bengal,Home & Kitchen,Mixer,Sujata Super 900W,3,5499,16497,5,824.85,15672.15,10507.96,5164.19,32.95,Premium,Net Banking,Delivered
+ORD-2001,20-Nov-2024,Nov,Q4,2024,North,Delhi,Clothing,Jacket,Fort Collins Bomber,2,2299,4598,5,229.9,4368.1,2777.75,1590.35,36.41,Regular,Debit Card,Delivered
+ORD-2002,24-May-2024,May,Q2,2024,South,Tamil Nadu,Electronics,Smart Watch,Fire-Boltt Gladiator,1,2499,2499,10,249.9,2249.1,1403.52,845.58,37.6,Regular,UPI,Delivered
+ORD-2003,02-Aug-2024,Aug,Q3,2024,East,Bihar,Home & Kitchen,Pillow,Kurlon Memory Foam Pillow,3,1299,3897,15,584.55,3312.45,2159.15,1153.3,34.82,New,Net Banking,Delivered
+ORD-2004,29-May-2024,May,Q2,2024,West,Gujarat,Home & Kitchen,Pillow,The Sleep Company Pillow,5,1999,9995,15,1499.25,8495.75,5417.95,3077.8,36.23,Regular,COD,Returned
+ORD-2005,27-May-2024,May,Q2,2024,West,Gujarat,Books,Textbook,Indian Polity by Laxmikanth,1,749,749,0,0.0,749.0,485.27,263.73,35.21,Regular,UPI,Delivered
+ORD-2006,26-Dec-2024,Dec,Q4,2024,South,Kerala,Home & Kitchen,Pillow,Recron Certified Pillow,2,399,798,0,0.0,798.0,508.69,289.31,36.25,Regular,Net Banking,Delivered
+ORD-2007,01-Feb-2024,Feb,Q1,2024,East,Odisha,Books,Biography,Elon Musk by Walter Isaacson,4,799,3196,10,319.6,2876.4,1852.17,1024.23,35.61,New,UPI,Delivered
+ORD-2008,22-Jun-2024,Jun,Q2,2024,North,Punjab,Home & Kitchen,Lamp,Wipro Smart LED Lamp,5,899,4495,0,0.0,4495.0,2931.46,1563.54,34.78,Premium,UPI,Pending
+ORD-2009,08-Nov-2024,Nov,Q4,2024,East,West Bengal,Sports,Cycle,Hero Sprint Cycle,1,7999,7999,10,799.9,7199.1,4502.43,2696.67,37.46,Premium,COD,Delivered
+ORD-2010,10-Oct-2024,Oct,Q4,2024,North,UP,Electronics,Smart Watch,Fire-Boltt Gladiator,3,2499,7497,20,1499.4,5997.6,3789.92,2207.68,36.81,Regular,Credit Card,Returned
+ORD-2011,27-Apr-2024,Apr,Q2,2024,East,West Bengal,Books,Self-Help,Think and Grow Rich,2,249,498,20,99.6,398.4,264.54,133.86,33.6,New,UPI,Delivered
+ORD-2012,26-Sep-2024,Sep,Q3,2024,North,UP,Home & Kitchen,Lamp,Philips Deco LED Lamp,2,599,1198,5,59.9,1138.1,726.21,411.89,36.19,Regular,Debit Card,Delivered
+ORD-2013,19-May-2024,May,Q2,2024,North,Punjab,Home & Kitchen,Cooker,Pigeon Favourite 3L,1,1099,1099,0,0.0,1099.0,686.25,412.75,37.56,Premium,Debit Card,Delivered
+ORD-2014,08-Jan-2024,Jan,Q1,2024,South,Tamil Nadu,Sports,Dumbbells,Kore Steel Dumbbells 10kg,5,1499,7495,5,374.75,7120.25,4749.82,2370.43,33.29,Regular,Debit Card,Delivered
+ORD-2015,22-Aug-2024,Aug,Q3,2024,South,Tamil Nadu,Books,Comic,Spider-Man Classic,4,299,1196,5,59.8,1136.2,733.73,402.47,35.42,Regular,UPI,Delivered
+ORD-2016,25-May-2024,May,Q2,2024,South,Kerala,Electronics,Earphones,OnePlus Bullets Z2,3,1999,5997,20,1199.4,4797.6,3180.21,1617.39,33.71,Regular,Credit Card,Delivered
+ORD-2017,28-Apr-2024,Apr,Q2,2024,West,Gujarat,Home & Kitchen,Pillow,Sleepwell Fiber Pillow,3,499,1497,10,149.7,1347.3,846.95,500.35,37.14,Premium,UPI,Delivered
+ORD-2018,16-Apr-2024,Apr,Q2,2024,West,Rajasthan,Clothing,T-Shirt,Adidas Solid T-Shirt,4,1299,5196,15,779.4,4416.6,2876.99,1539.61,34.86,Premium,Debit Card,Delivered
+ORD-2019,09-Sep-2024,Sep,Q3,2024,East,Odisha,Books,Self-Help,The Psychology of Money,1,399,399,10,39.9,359.1,237.49,121.61,33.87,Regular,Net Banking,Delivered
+ORD-2020,17-Apr-2024,Apr,Q2,2024,West,Rajasthan,Home & Kitchen,Bedsheet,Portico New York Bedsheet,3,1999,5997,15,899.55,5097.45,3377.22,1720.23,33.75,Regular,Net Banking,Pending
+ORD-2021,11-Feb-2024,Feb,Q1,2024,North,Punjab,Electronics,Earphones,Sony WH-CH520,1,4490,4490,0,0.0,4490.0,2923.87,1566.13,34.88,Regular,UPI,Returned
+ORD-2022,28-Feb-2024,Feb,Q1,2024,North,Punjab,Home & Kitchen,Cooker,Hawkins Contura 3L,4,1699,6796,0,0.0,6796.0,4518.93,2277.07,33.51,Regular,UPI,Delivered
+ORD-2023,10-Aug-2024,Aug,Q3,2024,East,Bihar,Books,Comic,Amar Chitra Katha,5,120,600,10,60.0,540.0,353.07,186.93,34.62,Regular,UPI,Delivered
+ORD-2024,10-Nov-2024,Nov,Q4,2024,East,Bihar,Sports,Yoga Mat,OJS Premium Yoga Mat,4,599,2396,5,119.8,2276.2,1539.1,737.1,32.38,New,Debit Card,Returned
+ORD-2025,10-Mar-2024,Mar,Q1,2024,South,Telangana,Home & Kitchen,Mixer,Bajaj GX1 500W,4,2499,9996,0,0.0,9996.0,6287.69,3708.31,37.1,Regular,COD,Delivered
+ORD-2026,06-Apr-2024,Apr,Q2,2024,South,Telangana,Electronics,Smart Watch,Samsung Galaxy Watch 6,3,29999,89997,0,0.0,89997.0,56128.11,33868.89,37.63,Regular,UPI,Delivered
+ORD-2027,13-Oct-2024,Oct,Q4,2024,South,Kerala,Electronics,Laptop,Lenovo IdeaPad 3,3,38999,116997,10,11699.7,105297.3,68976.9,36320.4,34.49,Regular,Credit Card,Delivered
+ORD-2028,10-May-2024,May,Q2,2024,South,Tamil Nadu,Sports,Football,Nivia Storm Football,2,499,998,5,49.9,948.1,597.97,350.13,36.93,Regular,UPI,Delivered
+ORD-2029,26-Nov-2024,Nov,Q4,2024,West,Gujarat,Sports,Cycle,Decathlon Rockrider,3,12999,38997,15,5849.55,33147.45,20967.7,12179.75,36.74,Regular,UPI,Delivered
+ORD-2030,10-Nov-2024,Nov,Q4,2024,South,Tamil Nadu,Clothing,Kurta,Manyavar Men Kurta,3,2999,8997,0,0.0,8997.0,6061.79,2935.21,32.62,Regular,Credit Card,Delivered
+ORD-2031,06-Dec-2024,Dec,Q4,2024,West,Gujarat,Books,Comic,Tinkle Double Digest,2,150,300,20,60.0,240.0,154.46,85.54,35.64,Premium,Debit Card,Delivered
+ORD-2032,24-Sep-2024,Sep,Q3,2024,East,Bihar,Electronics,Smart Watch,Fire-Boltt Gladiator,2,2499,4998,5,249.9,4748.1,3146.47,1601.63,33.73,Premium,Credit Card,Delivered
+ORD-2033,08-May-2024,May,Q2,2024,North,UP,Home & Kitchen,Bedsheet,Portico New York Bedsheet,1,1999,1999,10,199.9,1799.1,1207.78,591.32,32.87,Premium,UPI,Delivered
+ORD-2034,11-Nov-2024,Nov,Q4,2024,South,Kerala,Books,Textbook,HC Verma Physics,2,799,1598,15,239.7,1358.3,871.57,486.73,35.83,Regular,Credit Card,Delivered
+ORD-2035,07-Jul-2024,Jul,Q3,2024,East,Bihar,Electronics,Smart Watch,boAt Wave Sigma,1,1499,1499,5,74.95,1424.05,937.74,486.31,34.15,Regular,COD,Delivered
+ORD-2036,20-May-2024,May,Q2,2024,North,UP,Electronics,Earphones,Realme Buds Wireless 3,4,1799,7196,15,1079.4,6116.6,3856.07,2260.53,36.96,Premium,Credit Card,Delivered
+ORD-2037,23-Feb-2024,Feb,Q1,2024,North,Punjab,Electronics,Smart Watch,Fire-Boltt Gladiator,2,2499,4998,0,0.0,4998.0,3123.6,1874.4,37.5,Premium,UPI,Delivered
+ORD-2038,29-Dec-2024,Dec,Q4,2024,North,Punjab,Electronics,Smart Watch,boAt Wave Sigma,2,1499,2998,0,0.0,2998.0,1918.6,1079.4,36.0,Premium,Net Banking,Returned
+ORD-2039,27-Mar-2024,Mar,Q1,2024,East,Bihar,Electronics,Earphones,OnePlus Bullets Z2,1,1999,1999,0,0.0,1999.0,1262.52,736.48,36.84,Premium,UPI,Delivered
+ORD-2040,29-Mar-2024,Mar,Q1,2024,West,Maharashtra,Books,Comic,Chacha Chaudhary,5,99,495,10,49.5,445.5,280.83,164.67,36.96,Premium,Net Banking,Delivered
+ORD-2041,20-May-2024,May,Q2,2024,East,West Bengal,Books,Biography,Playing It My Way (Sachin Tendulkar),1,599,599,15,89.85,509.15,318.37,190.78,37.47,New,UPI,Delivered
+ORD-2042,11-Jun-2024,Jun,Q2,2024,North,Delhi,Electronics,Laptop,Lenovo IdeaPad 3,4,38999,155996,0,0.0,155996.0,104927.89,51068.11,32.74,New,UPI,Delivered
+ORD-2043,07-Apr-2024,Apr,Q2,2024,South,Kerala,Electronics,Earphones,JBL Tune 510BT,2,3499,6998,5,349.9,6648.1,4177.84,2470.26,37.16,Regular,UPI,Delivered
+ORD-2044,12-Apr-2024,Apr,Q2,2024,South,Kerala,Books,Biography,The Story of My Experiments with Truth,1,199,199,15,29.85,169.15,108.48,60.67,35.87,Regular,Debit Card,Delivered
+ORD-2045,19-Nov-2024,Nov,Q4,2024,South,Tamil Nadu,Sports,Dumbbells,Kore Steel Dumbbells 10kg,5,1499,7495,5,374.75,7120.25,4839.1,2281.15,32.04,Regular,Credit Card,Delivered
+ORD-2046,27-May-2024,May,Q2,2024,South,Kerala,Sports,Cycle,Hercules Roadeo,1,9999,9999,20,1999.8,7999.2,5330.7,2668.5,33.36,Regular,Credit Card,Delivered
+ORD-2047,29-Feb-2024,Feb,Q1,2024,South,Kerala,Clothing,Kurta,Soch Embroidered Kurta,3,3499,10497,10,1049.7,9447.3,6176.89,3270.41,34.62,Premium,COD,Delivered
+ORD-2048,23-Feb-2024,Feb,Q1,2024,East,West Bengal,Clothing,Kurta,Anouk Cotton Kurta,3,999,2997,10,299.7,2697.3,1777.18,920.12,34.11,Regular,COD,Delivered
+ORD-2049,27-Aug-2024,Aug,Q3,2024,South,Tamil Nadu,Home & Kitchen,Pillow,Recron Certified Pillow,5,399,1995,10,199.5,1795.5,1191.96,603.54,33.61,Regular,UPI,Delivered
+ORD-2050,03-Nov-2024,Nov,Q4,2024,East,Odisha,Home & Kitchen,Bedsheet,Bombay Dyeing Cotton Bedsheet,2,1499,2998,20,599.6,2398.4,1502.53,895.87,37.35,Regular,UPI,Delivered
+ORD-2051,30-Oct-2024,Oct,Q4,2024,North,Delhi,Sports,Football,Adidas Tango,5,1499,7495,20,1499.0,5996.0,3788.92,2207.08,36.81,New,Debit Card,Delivered
+ORD-2052,19-Jun-2024,Jun,Q2,2024,North,Delhi,Books,Textbook,NCERT Science Class 10,4,199,796,10,79.6,716.4,451.28,265.12,37.01,Regular,UPI,Returned
+ORD-2053,03-Jun-2024,Jun,Q2,2024,East,West Bengal,Clothing,Jeans,Pepe Jeans Regular Fit,4,2499,9996,0,0.0,9996.0,6631.83,3364.17,33.66,Regular,Credit Card,Delivered
+ORD-2054,03-Jan-2024,Jan,Q1,2024,West,Maharashtra,Books,Novel,Silent Patient,5,399,1995,10,199.5,1795.5,1188.49,607.01,33.81,New,Credit Card,Delivered
+ORD-2055,27-Dec-2024,Dec,Q4,2024,South,Tamil Nadu,Home & Kitchen,Cooker,Pigeon Favourite 3L,2,1099,2198,10,219.8,1978.2,1318.26,659.94,33.36,New,Debit Card,Delivered
+ORD-2056,05-Aug-2024,Aug,Q3,2024,West,Rajasthan,Electronics,Tablet,OnePlus Pad,5,37999,189995,0,0.0,189995.0,120324.15,69670.85,36.67,Premium,Debit Card,Delivered
+ORD-2057,23-Jun-2024,Jun,Q2,2024,North,UP,Sports,Dumbbells,Aurion PVC Dumbbells 5kg,2,599,1198,0,0.0,1198.0,778.7,419.3,35.0,Regular,UPI,Delivered
+ORD-2058,15-Jul-2024,Jul,Q3,2024,South,Kerala,Clothing,Saree,Chanderi Cotton Saree,4,1899,7596,15,1139.4,6456.6,4016.58,2440.02,37.79,New,UPI,Delivered
+ORD-2059,15-Dec-2024,Dec,Q4,2024,North,Punjab,Electronics,Tablet,Apple iPad Air,4,54999,219996,0,0.0,219996.0,138521.15,81474.85,37.03,Regular,Credit Card,Delivered
+ORD-2060,06-Jan-2024,Jan,Q1,2024,West,Rajasthan,Home & Kitchen,Lamp,Philips Deco LED Lamp,3,599,1797,10,179.7,1617.3,1027.82,589.48,36.45,Premium,Credit Card,Delivered
+ORD-2061,18-Aug-2024,Aug,Q3,2024,East,Odisha,Books,Comic,Amar Chitra Katha,1,120,120,0,0.0,120.0,81.46,38.54,32.12,Regular,UPI,Delivered
+ORD-2062,17-Mar-2024,Mar,Q1,2024,North,Punjab,Sports,Yoga Mat,Boldfit Yoga Mat,5,699,3495,15,524.25,2970.75,1919.38,1051.37,35.39,Regular,UPI,Returned
+ORD-2063,23-Aug-2024,Aug,Q3,2024,East,West Bengal,Sports,Yoga Mat,VIFITKIT Yoga Mat,4,499,1996,10,199.6,1796.4,1186.52,609.88,33.95,Premium,UPI,Delivered
+ORD-2064,30-May-2024,May,Q2,2024,East,Odisha,Electronics,Earphones,JBL Tune 510BT,3,3499,10497,0,0.0,10497.0,6883.37,3613.63,34.43,Regular,UPI,Delivered
+ORD-2065,07-May-2024,May,Q2,2024,South,Tamil Nadu,Sports,Cricket Bat,SG Savage Edition,2,3499,6998,15,1049.7,5948.3,3841.8,2106.5,35.41,Regular,COD,Delivered
+ORD-2066,04-May-2024,May,Q2,2024,West,Maharashtra,Electronics,Tablet,Lenovo Tab M10,1,13999,13999,0,0.0,13999.0,9191.2,4807.8,34.34,Premium,Debit Card,Delivered
+ORD-2067,19-Sep-2024,Sep,Q3,2024,North,Punjab,Books,Biography,Elon Musk by Walter Isaacson,1,799,799,0,0.0,799.0,540.94,258.06,32.3,Regular,Credit Card,Returned
+ORD-2068,09-Aug-2024,Aug,Q3,2024,North,Delhi,Sports,Yoga Mat,VIFITKIT Yoga Mat,5,499,2495,20,499.0,1996.0,1302.09,693.91,34.77,Premium,Credit Card,Delivered
+ORD-2069,20-Oct-2024,Oct,Q4,2024,West,Maharashtra,Home & Kitchen,Bedsheet,Portico New York Bedsheet,3,1999,5997,20,1199.4,4797.6,3167.79,1629.81,33.97,Premium,COD,Delivered
+ORD-2070,19-May-2024,May,Q2,2024,North,Punjab,Clothing,T-Shirt,Levis Graphic T-Shirt,2,1499,2998,5,149.9,2848.1,1811.46,1036.64,36.4,Regular,COD,Delivered
+ORD-2071,23-Apr-2024,Apr,Q2,2024,South,Tamil Nadu,Books,Textbook,HC Verma Physics,5,799,3995,5,199.75,3795.25,2518.87,1276.38,33.63,Premium,Credit Card,Delivered
+ORD-2072,31-Oct-2024,Oct,Q4,2024,East,Bihar,Home & Kitchen,Lamp,Syska LED Bulb,1,199,199,10,19.9,179.1,114.7,64.4,35.96,Regular,UPI,Delivered
+ORD-2073,12-Sep-2024,Sep,Q3,2024,South,Telangana,Clothing,Kurta,Biba Printed Kurta,4,2199,8796,0,0.0,8796.0,5802.21,2993.79,34.04,Regular,UPI,Delivered
+ORD-2074,25-Jun-2024,Jun,Q2,2024,North,Delhi,Sports,Yoga Mat,VIFITKIT Yoga Mat,3,499,1497,10,149.7,1347.3,871.82,475.48,35.29,Regular,UPI,Delivered
+ORD-2075,15-Nov-2024,Nov,Q4,2024,East,Bihar,Home & Kitchen,Lamp,Philips Deco LED Lamp,3,599,1797,20,359.4,1437.6,955.49,482.11,33.54,New,UPI,Delivered
+ORD-2076,12-Jul-2024,Jul,Q3,2024,North,Delhi,Home & Kitchen,Cooker,Prestige Popular 5L,1,1899,1899,5,94.95,1804.05,1137.85,666.2,36.93,Regular,Debit Card,Delivered
+ORD-2077,24-Jul-2024,Jul,Q3,2024,West,Gujarat,Clothing,Kurta,Soch Embroidered Kurta,3,3499,10497,10,1049.7,9447.3,6294.07,3153.23,33.38,Premium,Credit Card,Delivered
+ORD-2078,20-Nov-2024,Nov,Q4,2024,East,Bihar,Sports,Cycle,Leader Scout 26T,2,6499,12998,10,1299.8,11698.2,7600.2,4098.0,35.03,Regular,Net Banking,Delivered
+ORD-2079,31-Mar-2024,Mar,Q1,2024,West,Gujarat,Electronics,Smart Watch,boAt Wave Sigma,4,1499,5996,0,0.0,5996.0,3963.36,2032.64,33.9,Regular,Credit Card,Delivered
+ORD-2080,02-Aug-2024,Aug,Q3,2024,West,Maharashtra,Electronics,Smart Watch,Fire-Boltt Gladiator,2,2499,4998,20,999.6,3998.4,2718.65,1279.75,32.01,Regular,Debit Card,Pending
+ORD-2081,15-Jun-2024,Jun,Q2,2024,South,Tamil Nadu,Sports,Dumbbells,Aurion PVC Dumbbells 5kg,3,599,1797,0,0.0,1797.0,1194.25,602.75,33.54,New,Credit Card,Delivered
+ORD-2082,08-Apr-2024,Apr,Q2,2024,South,Kerala,Books,Textbook,RD Sharma Mathematics,4,899,3596,5,179.8,3416.2,2184.19,1232.01,36.06,Regular,Net Banking,Delivered
+ORD-2083,24-Aug-2024,Aug,Q3,2024,West,Maharashtra,Sports,Dumbbells,Kore Steel Dumbbells 10kg,2,1499,2998,15,449.7,2548.3,1656.43,891.87,35.0,Regular,Credit Card,Delivered
+ORD-2084,22-Mar-2024,Mar,Q1,2024,South,Kerala,Electronics,Mobile,Apple iPhone 15,4,72999,291996,20,58399.2,233596.8,158783.24,74813.56,32.03,New,UPI,Delivered
+ORD-2085,13-May-2024,May,Q2,2024,North,UP,Sports,Cycle,Hero Sprint Cycle,4,7999,31996,15,4799.4,27196.6,18212.62,8983.98,33.03,Regular,Debit Card,Delivered
+ORD-2086,21-Jan-2024,Jan,Q1,2024,East,Odisha,Sports,Dumbbells,Bulfyss Hex Dumbbells 10kg,1,2199,2199,0,0.0,2199.0,1382.64,816.36,37.12,Regular,Net Banking,Delivered
+ORD-2087,27-Feb-2024,Feb,Q1,2024,South,Kerala,Home & Kitchen,Bedsheet,Portico New York Bedsheet,2,1999,3998,15,599.7,3398.3,2149.78,1248.52,36.74,Regular,Credit Card,Delivered
+ORD-2088,29-Dec-2024,Dec,Q4,2024,West,Maharashtra,Books,Self-Help,Rich Dad Poor Dad,4,349,1396,10,139.6,1256.4,838.32,418.08,33.28,Premium,Credit Card,Delivered
+ORD-2089,12-Mar-2024,Mar,Q1,2024,South,Telangana,Books,Novel,To Kill a Mockingbird,3,399,1197,10,119.7,1077.3,714.06,363.24,33.72,Regular,Debit Card,Delivered
+ORD-2090,05-Jun-2024,Jun,Q2,2024,West,Rajasthan,Home & Kitchen,Bedsheet,Portico New York Bedsheet,2,1999,3998,0,0.0,3998.0,2624.47,1373.53,34.36,New,UPI,Delivered
+ORD-2091,18-Apr-2024,Apr,Q2,2024,East,West Bengal,Sports,Cricket Bat,SS Ton Reserve,3,5999,17997,20,3599.4,14397.6,9570.48,4827.12,33.53,New,UPI,Delivered
+ORD-2092,28-Mar-2024,Mar,Q1,2024,East,Bihar,Clothing,Jacket,Red Tape Puffer Jacket,3,3999,11997,20,2399.4,9597.6,6166.09,3431.51,35.75,New,Credit Card,Delivered
+ORD-2093,25-Sep-2024,Sep,Q3,2024,West,Maharashtra,Home & Kitchen,Lamp,Philips Deco LED Lamp,1,599,599,10,59.9,539.1,341.51,197.59,36.65,Regular,UPI,Delivered
+ORD-2094,02-Mar-2024,Mar,Q1,2024,South,Kerala,Home & Kitchen,Lamp,Syska LED Bulb,1,199,199,20,39.8,159.2,107.28,51.92,32.61,Premium,UPI,Delivered
+ORD-2095,16-Nov-2024,Nov,Q4,2024,North,Punjab,Sports,Cricket Bat,SS Ton Reserve,5,5999,29995,20,5999.0,23996.0,16096.43,7899.57,32.92,Regular,UPI,Delivered
+ORD-2096,16-Aug-2024,Aug,Q3,2024,South,Tamil Nadu,Books,Textbook,RD Sharma Mathematics,2,899,1798,15,269.7,1528.3,963.82,564.48,36.94,New,UPI,Delivered
+ORD-2097,07-Apr-2024,Apr,Q2,2024,North,Delhi,Sports,Yoga Mat,Kore Exercise Yoga Mat,2,399,798,5,39.9,758.1,481.12,276.98,36.54,Premium,Credit Card,Delivered
+ORD-2098,27-Jan-2024,Jan,Q1,2024,East,Bihar,Electronics,Laptop,ASUS Vivobook 16,1,44999,44999,15,6749.85,38249.15,23905.84,14343.31,37.5,Regular,Credit Card,Delivered
+ORD-2099,06-Sep-2024,Sep,Q3,2024,East,Bihar,Electronics,Smart Watch,Samsung Galaxy Watch 6,1,29999,29999,15,4499.85,25499.15,16998.85,8500.3,33.34,Regular,Debit Card,Delivered
+ORD-2100,21-Aug-2024,Aug,Q3,2024,North,Punjab,Home & Kitchen,Pillow,The Sleep Company Pillow,4,1999,7996,0,0.0,7996.0,5115.19,2880.81,36.03,Regular,UPI,Delivered
+ORD-2101,15-May-2024,May,Q2,2024,South,Kerala,Books,Comic,Batman: Year One,3,499,1497,15,224.55,1272.45,797.43,475.02,37.33,Premium,UPI,Delivered
+ORD-2102,17-Sep-2024,Sep,Q3,2024,West,Gujarat,Clothing,Jeans,Levis 511 Slim Fit,4,2999,11996,5,599.8,11396.2,7130.31,4265.89,37.43,New,UPI,Delivered
+ORD-2103,03-Apr-2024,Apr,Q2,2024,South,Tamil Nadu,Clothing,Jeans,Wrangler Comfort Fit,5,1999,9995,5,499.75,9495.25,6069.37,3425.88,36.08,Regular,UPI,Delivered
+ORD-2104,08-Nov-2024,Nov,Q4,2024,South,Telangana,Clothing,Saree,Banarasi Silk Saree,2,6499,12998,10,1299.8,11698.2,7804.44,3893.76,33.29,New,Credit Card,Delivered
+ORD-2105,21-Sep-2024,Sep,Q3,2024,West,Rajasthan,Sports,Dumbbells,Cockatoo Rubber Dumbbells 5kg,2,1299,2598,5,129.9,2468.1,1600.12,867.98,35.17,New,UPI,Delivered
+ORD-2106,19-Jun-2024,Jun,Q2,2024,East,Bihar,Books,Biography,The Story of My Experiments with Truth,4,199,796,10,79.6,716.4,476.95,239.45,33.42,Regular,COD,Delivered
+ORD-2107,28-Jul-2024,Jul,Q3,2024,East,Bihar,Clothing,Kurta,Biba Printed Kurta,1,2199,2199,5,109.95,2089.05,1321.36,767.69,36.75,Premium,UPI,Delivered
+ORD-2108,13-Jun-2024,Jun,Q2,2024,West,Gujarat,Books,Comic,Batman: Year One,2,499,998,5,49.9,948.1,622.95,325.15,34.29,Regular,UPI,Delivered
+ORD-2109,23-Mar-2024,Mar,Q1,2024,East,Bihar,Home & Kitchen,Pillow,Recron Certified Pillow,1,399,399,10,39.9,359.1,237.46,121.64,33.87,New,Credit Card,Delivered
+ORD-2110,06-Nov-2024,Nov,Q4,2024,West,Maharashtra,Electronics,Mobile,OnePlus 12,3,64999,194997,20,38999.4,155997.6,100176.5,55821.1,35.78,New,UPI,Delivered
+ORD-2111,07-Feb-2024,Feb,Q1,2024,East,Bihar,Home & Kitchen,Cooker,Prestige Popular 5L,5,1899,9495,5,474.75,9020.25,5903.26,3116.99,34.56,Regular,UPI,Delivered
+ORD-2112,06-Oct-2024,Oct,Q4,2024,East,Bihar,Sports,Yoga Mat,Kore Exercise Yoga Mat,2,399,798,0,0.0,798.0,536.45,261.55,32.78,Premium,Debit Card,Pending
+ORD-2113,03-Jul-2024,Jul,Q3,2024,West,Rajasthan,Clothing,Jeans,Wrangler Comfort Fit,4,1999,7996,5,399.8,7596.2,4919.67,2676.53,35.24,Regular,Credit Card,Delivered
+ORD-2114,10-May-2024,May,Q2,2024,North,Delhi,Electronics,Earphones,OnePlus Bullets Z2,4,1999,7996,15,1199.4,6796.6,4539.35,2257.25,33.21,Premium,UPI,Pending
+ORD-2115,10-Jul-2024,Jul,Q3,2024,North,UP,Home & Kitchen,Mixer,Sujata Super 900W,3,5499,16497,20,3299.4,13197.6,8572.11,4625.49,35.05,Regular,Credit Card,Delivered
+ORD-2116,16-Oct-2024,Oct,Q4,2024,North,UP,Electronics,Smart Watch,Fire-Boltt Gladiator,5,2499,12495,0,0.0,12495.0,8177.17,4317.83,34.56,Regular,Credit Card,Delivered
+ORD-2117,07-Feb-2024,Feb,Q1,2024,West,Gujarat,Home & Kitchen,Lamp,Wipro Smart LED Lamp,3,899,2697,0,0.0,2697.0,1701.54,995.46,36.91,Regular,Credit Card,Delivered
+ORD-2118,09-Aug-2024,Aug,Q3,2024,North,Punjab,Sports,Yoga Mat,Kore Exercise Yoga Mat,5,399,1995,10,199.5,1795.5,1115.24,680.26,37.89,Regular,UPI,Delivered
+ORD-2119,24-Apr-2024,Apr,Q2,2024,East,Bihar,Home & Kitchen,Cooker,Hawkins Contura 3L,3,1699,5097,0,0.0,5097.0,3217.89,1879.11,36.87,Regular,UPI,Delivered
+ORD-2120,30-Sep-2024,Sep,Q3,2024,North,Delhi,Sports,Yoga Mat,Kore Exercise Yoga Mat,3,399,1197,10,119.7,1077.3,727.94,349.36,32.43,Premium,UPI,Delivered
+ORD-2121,18-May-2024,May,Q2,2024,South,Tamil Nadu,Books,Novel,To Kill a Mockingbird,4,399,1596,0,0.0,1596.0,1069.4,526.6,32.99,Regular,UPI,Delivered
+ORD-2122,16-Apr-2024,Apr,Q2,2024,West,Maharashtra,Home & Kitchen,Lamp,IKEA FADO Table Lamp,2,1499,2998,5,149.9,2848.1,1897.57,950.53,33.37,Regular,UPI,Pending
+ORD-2123,16-Sep-2024,Sep,Q3,2024,North,Delhi,Clothing,T-Shirt,Levis Graphic T-Shirt,5,1499,7495,10,749.5,6745.5,4485.63,2259.87,33.5,Regular,UPI,Pending
+ORD-2124,16-Sep-2024,Sep,Q3,2024,East,Odisha,Books,Comic,Tinkle Double Digest,4,150,600,0,0.0,600.0,372.26,227.74,37.96,Premium,UPI,Returned
+ORD-2125,30-Jun-2024,Jun,Q2,2024,East,Odisha,Electronics,Earphones,JBL Tune 510BT,2,3499,6998,0,0.0,6998.0,4611.86,2386.14,34.1,Premium,Net Banking,Delivered
+ORD-2126,20-May-2024,May,Q2,2024,East,West Bengal,Clothing,Jeans,Pepe Jeans Regular Fit,5,2499,12495,0,0.0,12495.0,7842.82,4652.18,37.23,Regular,Credit Card,Delivered
+ORD-2127,01-Feb-2024,Feb,Q1,2024,South,Telangana,Books,Self-Help,The 5 AM Club,4,320,1280,0,0.0,1280.0,825.8,454.2,35.48,Regular,Credit Card,Delivered
+ORD-2128,08-Dec-2024,Dec,Q4,2024,South,Kerala,Electronics,Laptop,HP Pavilion 15,4,58999,235996,5,11799.8,224196.2,143118.76,81077.44,36.16,Premium,COD,Delivered
+ORD-2129,13-Jun-2024,Jun,Q2,2024,North,Delhi,Books,Novel,Silent Patient,1,399,399,0,0.0,399.0,269.25,129.75,32.52,Regular,UPI,Delivered
+ORD-2130,25-Sep-2024,Sep,Q3,2024,South,Tamil Nadu,Electronics,Mobile,OnePlus 12,2,64999,129998,0,0.0,129998.0,83873.8,46124.2,35.48,Regular,COD,Delivered
+ORD-2131,31-Jul-2024,Jul,Q3,2024,West,Maharashtra,Sports,Cricket Bat,SS Ton Reserve,4,5999,23996,15,3599.4,20396.6,13746.76,6649.84,32.6,Regular,UPI,Delivered
+ORD-2132,10-Nov-2024,Nov,Q4,2024,North,Punjab,Home & Kitchen,Pillow,Kurlon Memory Foam Pillow,2,1299,2598,5,129.9,2468.1,1606.45,861.65,34.91,Premium,UPI,Delivered
+ORD-2133,18-Feb-2024,Feb,Q1,2024,West,Gujarat,Sports,Cricket Bat,SG Savage Edition,2,3499,6998,5,349.9,6648.1,4195.47,2452.63,36.89,Premium,UPI,Pending
+ORD-2134,08-Dec-2024,Dec,Q4,2024,East,West Bengal,Books,Biography,The Story of My Experiments with Truth,2,199,398,0,0.0,398.0,264.62,133.38,33.51,Premium,Credit Card,Delivered
+ORD-2135,03-Apr-2024,Apr,Q2,2024,North,Delhi,Electronics,Laptop,Dell Inspiron 14,4,49999,199996,10,19999.6,179996.4,111724.26,68272.14,37.93,Regular,Net Banking,Delivered
+ORD-2136,22-Oct-2024,Oct,Q4,2024,West,Gujarat,Clothing,Kurta,Soch Embroidered Kurta,3,3499,10497,20,2099.4,8397.6,5428.14,2969.46,35.36,Premium,Credit Card,Delivered
+ORD-2137,21-Jun-2024,Jun,Q2,2024,East,West Bengal,Books,Self-Help,Think and Grow Rich,5,249,1245,15,186.75,1058.25,698.23,360.02,34.02,Premium,UPI,Delivered
+ORD-2138,02-Feb-2024,Feb,Q1,2024,East,Odisha,Electronics,Smart Watch,Fire-Boltt Gladiator,1,2499,2499,5,124.95,2374.05,1610.81,763.24,32.15,Premium,UPI,Delivered
+ORD-2139,05-Mar-2024,Mar,Q1,2024,East,Odisha,Home & Kitchen,Lamp,Syska LED Bulb,1,199,199,20,39.8,159.2,100.45,58.75,36.9,Premium,Net Banking,Delivered
+ORD-2140,13-Mar-2024,Mar,Q1,2024,South,Tamil Nadu,Clothing,Saree,Bandhani Print Saree,5,1599,7995,0,0.0,7995.0,5226.91,2768.09,34.62,Regular,UPI,Delivered
+ORD-2141,03-Oct-2024,Oct,Q4,2024,South,Telangana,Sports,Football,Adidas Tango,2,1499,2998,0,0.0,2998.0,1981.15,1016.85,33.92,Premium,Net Banking,Delivered
+ORD-2142,18-Mar-2024,Mar,Q1,2024,West,Maharashtra,Books,Novel,Silent Patient,3,399,1197,10,119.7,1077.3,726.16,351.14,32.59,New,Net Banking,Delivered
+ORD-2143,10-Mar-2024,Mar,Q1,2024,East,West Bengal,Electronics,Tablet,Realme Pad 2,3,19999,59997,5,2999.85,56997.15,38494.91,18502.24,32.46,Premium,COD,Delivered
+ORD-2144,29-Jul-2024,Jul,Q3,2024,South,Tamil Nadu,Home & Kitchen,Cooker,Prestige Popular 5L,4,1899,7596,0,0.0,7596.0,5003.98,2592.02,34.12,Regular,UPI,Delivered
+ORD-2145,06-Feb-2024,Feb,Q1,2024,South,Kerala,Clothing,Kurta,Manyavar Men Kurta,5,2999,14995,0,0.0,14995.0,9482.09,5512.91,36.76,Regular,UPI,Delivered
+ORD-2146,22-Nov-2024,Nov,Q4,2024,North,UP,Books,Comic,Tinkle Double Digest,5,150,750,15,112.5,637.5,404.13,233.37,36.61,Regular,Net Banking,Delivered
+ORD-2147,08-Nov-2024,Nov,Q4,2024,West,Maharashtra,Electronics,Tablet,Lenovo Tab M10,1,13999,13999,10,1399.9,12599.1,8444.91,4154.19,32.97,Regular,Credit Card,Delivered
+ORD-2148,27-Mar-2024,Mar,Q1,2024,West,Gujarat,Clothing,Jacket,Wildcraft Windcheater,1,1999,1999,10,199.9,1799.1,1141.49,657.61,36.55,Premium,Credit Card,Delivered
+ORD-2149,09-Aug-2024,Aug,Q3,2024,West,Maharashtra,Electronics,Tablet,Lenovo Tab M10,3,13999,41997,20,8399.4,33597.6,21493.39,12104.21,36.03,Premium,UPI,Delivered
+ORD-2150,07-Jan-2024,Jan,Q1,2024,North,UP,Home & Kitchen,Cooker,Hawkins Contura 3L,4,1699,6796,5,339.8,6456.2,4231.81,2224.39,34.45,Premium,UPI,Delivered
+ORD-2151,28-Dec-2024,Dec,Q4,2024,West,Rajasthan,Sports,Cycle,Leader Scout 26T,5,6499,32495,20,6499.0,25996.0,17475.12,8520.88,32.78,Premium,UPI,Delivered
+ORD-2152,25-Nov-2024,Nov,Q4,2024,North,UP,Electronics,Mobile,Samsung Galaxy S24,3,74999,224997,10,22499.7,202497.3,135453.89,67043.41,33.11,Premium,UPI,Delivered
+ORD-2153,13-Aug-2024,Aug,Q3,2024,West,Rajasthan,Sports,Cricket Bat,Spartan MSD Warrior,4,2499,9996,0,0.0,9996.0,6327.09,3668.91,36.7,Regular,Credit Card,Delivered
+ORD-2154,29-May-2024,May,Q2,2024,West,Maharashtra,Home & Kitchen,Bedsheet,Spaces Floral Bedsheet,3,2499,7497,10,749.7,6747.3,4577.47,2169.83,32.16,Regular,UPI,Delivered
+ORD-2155,22-Aug-2024,Aug,Q3,2024,East,West Bengal,Clothing,Jacket,Red Tape Puffer Jacket,3,3999,11997,10,1199.7,10797.3,7182.35,3614.95,33.48,Premium,UPI,Delivered
+ORD-2156,15-Feb-2024,Feb,Q1,2024,East,Odisha,Sports,Cycle,Firefox Target 21S,3,14999,44997,5,2249.85,42747.15,26763.05,15984.1,37.39,Premium,Credit Card,Delivered
+ORD-2157,11-Sep-2024,Sep,Q3,2024,South,Kerala,Clothing,Saree,Georgette Partywear Saree,3,2499,7497,10,749.7,6747.3,4509.58,2237.72,33.16,New,Debit Card,Pending
+ORD-2158,14-Jun-2024,Jun,Q2,2024,North,Delhi,Clothing,Jacket,Levis Denim Jacket,5,4599,22995,20,4599.0,18396.0,11732.46,6663.54,36.22,Regular,UPI,Delivered
+ORD-2159,08-Feb-2024,Feb,Q1,2024,South,Tamil Nadu,Electronics,Smart Watch,Samsung Galaxy Watch 6,3,29999,89997,0,0.0,89997.0,59663.81,30333.19,33.7,Regular,UPI,Returned
+ORD-2160,23-Feb-2024,Feb,Q1,2024,East,Bihar,Sports,Cricket Bat,SS Ton Reserve,2,5999,11998,15,1799.7,10198.3,6828.46,3369.84,33.04,Regular,UPI,Pending
+ORD-2161,14-Jan-2024,Jan,Q1,2024,West,Maharashtra,Clothing,Jeans,Pepe Jeans Regular Fit,4,2499,9996,5,499.8,9496.2,5970.48,3525.72,37.13,Regular,COD,Returned
+ORD-2162,04-Sep-2024,Sep,Q3,2024,West,Gujarat,Sports,Cycle,Decathlon Rockrider,2,12999,25998,10,2599.8,23398.2,14768.09,8630.11,36.88,Regular,UPI,Delivered
+ORD-2163,17-Jul-2024,Jul,Q3,2024,East,Bihar,Books,Self-Help,Think and Grow Rich,3,249,747,10,74.7,672.3,453.13,219.17,32.6,New,UPI,Delivered
+ORD-2164,20-Dec-2024,Dec,Q4,2024,South,Kerala,Clothing,Jacket,Red Tape Puffer Jacket,2,3999,7998,0,0.0,7998.0,5429.53,2568.47,32.11,Premium,Credit Card,Delivered
+ORD-2165,09-Jun-2024,Jun,Q2,2024,North,UP,Clothing,Saree,Bandhani Print Saree,2,1599,3198,15,479.7,2718.3,1729.24,989.06,36.39,Premium,Credit Card,Delivered
+ORD-2166,29-Oct-2024,Oct,Q4,2024,West,Maharashtra,Clothing,T-Shirt,US Polo Assn T-Shirt,4,1199,4796,20,959.2,3836.8,2528.52,1308.28,34.1,New,Credit Card,Delivered
+ORD-2167,02-Feb-2024,Feb,Q1,2024,East,West Bengal,Books,Comic,Amar Chitra Katha,1,120,120,15,18.0,102.0,65.88,36.12,35.41,Premium,UPI,Delivered
+ORD-2168,04-Dec-2024,Dec,Q4,2024,West,Gujarat,Sports,Yoga Mat,VIFITKIT Yoga Mat,2,499,998,20,199.6,798.4,540.34,258.06,32.32,Regular,Credit Card,Delivered
+ORD-2169,10-Jun-2024,Jun,Q2,2024,North,UP,Electronics,Tablet,Realme Pad 2,1,19999,19999,0,0.0,19999.0,13135.96,6863.04,34.32,Regular,Debit Card,Delivered
+ORD-2170,07-May-2024,May,Q2,2024,South,Tamil Nadu,Electronics,Earphones,boAt Rockerz 255,3,1299,3897,0,0.0,3897.0,2438.16,1458.84,37.43,Regular,Debit Card,Delivered
+ORD-2171,27-Jul-2024,Jul,Q3,2024,West,Rajasthan,Home & Kitchen,Cooker,Pigeon Favourite 3L,2,1099,2198,0,0.0,2198.0,1403.8,794.2,36.13,Regular,UPI,Delivered
+ORD-2172,16-Feb-2024,Feb,Q1,2024,South,Kerala,Home & Kitchen,Cooker,Prestige Popular 5L,3,1899,5697,0,0.0,5697.0,3648.26,2048.74,35.96,Premium,Credit Card,Delivered
+ORD-2173,06-Nov-2024,Nov,Q4,2024,North,UP,Electronics,Tablet,Apple iPad Air,2,54999,109998,0,0.0,109998.0,74558.4,35439.6,32.22,Regular,UPI,Delivered
+ORD-2174,15-Jan-2024,Jan,Q1,2024,East,West Bengal,Clothing,Jeans,Spykar Super Skinny,4,2299,9196,0,0.0,9196.0,5996.83,3199.17,34.79,New,UPI,Delivered
+ORD-2175,20-Mar-2024,Mar,Q1,2024,East,Bihar,Clothing,Kurta,W Women Kurta,5,1499,7495,0,0.0,7495.0,5013.12,2481.88,33.11,Regular,Credit Card,Pending
+ORD-2176,02-Mar-2024,Mar,Q1,2024,East,Odisha,Electronics,Tablet,Samsung Galaxy Tab S9,5,35999,179995,20,35999.0,143996.0,90723.69,53272.31,37.0,Regular,UPI,Delivered
+ORD-2177,09-Nov-2024,Nov,Q4,2024,East,Odisha,Sports,Dumbbells,Bulfyss Hex Dumbbells 10kg,1,2199,2199,20,439.8,1759.2,1097.61,661.59,37.61,Regular,UPI,Pending
+ORD-2178,08-Sep-2024,Sep,Q3,2024,South,Kerala,Electronics,Tablet,Apple iPad Air,4,54999,219996,0,0.0,219996.0,147587.94,72408.06,32.91,Regular,Credit Card,Returned
+ORD-2179,15-Oct-2024,Oct,Q4,2024,West,Rajasthan,Clothing,Saree,Chanderi Cotton Saree,2,1899,3798,15,569.7,3228.3,2149.44,1078.86,33.42,Regular,Credit Card,Delivered
+ORD-2180,12-Jul-2024,Jul,Q3,2024,North,Punjab,Electronics,Earphones,boAt Rockerz 255,3,1299,3897,20,779.4,3117.6,2023.47,1094.13,35.1,Regular,Credit Card,Delivered
+ORD-2181,27-May-2024,May,Q2,2024,North,UP,Electronics,Laptop,HP Pavilion 15,3,58999,176997,20,35399.4,141597.6,89263.34,52334.26,36.96,Regular,UPI,Delivered
+ORD-2182,04-Jun-2024,Jun,Q2,2024,West,Maharashtra,Books,Comic,Tinkle Double Digest,4,150,600,20,120.0,480.0,312.69,167.31,34.86,Regular,UPI,Delivered
+ORD-2183,19-Apr-2024,Apr,Q2,2024,North,Punjab,Clothing,Jeans,Wrangler Comfort Fit,1,1999,1999,5,99.95,1899.05,1233.84,665.21,35.03,Regular,Credit Card,Delivered
+ORD-2184,14-Jul-2024,Jul,Q3,2024,South,Telangana,Electronics,Tablet,Apple iPad Air,2,54999,109998,10,10999.8,98998.2,67226.13,31772.07,32.09,New,Net Banking,Delivered
+ORD-2185,24-Jul-2024,Jul,Q3,2024,North,Delhi,Clothing,Jacket,Decathlon Fleece Jacket,5,1499,7495,5,374.75,7120.25,4791.34,2328.91,32.71,Regular,Credit Card,Returned
+ORD-2186,16-Nov-2024,Nov,Q4,2024,East,West Bengal,Books,Biography,Wings of Fire (APJ Abdul Kalam),4,299,1196,10,119.6,1076.4,691.72,384.68,35.74,Premium,UPI,Delivered
+ORD-2187,09-May-2024,May,Q2,2024,North,UP,Home & Kitchen,Mixer,Philips HL7756 750W,2,4499,8998,5,449.9,8548.1,5335.99,3212.11,37.58,Regular,UPI,Delivered
+ORD-2188,04-Feb-2024,Feb,Q1,2024,South,Telangana,Books,Textbook,NCERT Science Class 10,4,199,796,5,39.8,756.2,493.18,263.02,34.78,Regular,Credit Card,Delivered
+ORD-2189,02-Mar-2024,Mar,Q1,2024,West,Maharashtra,Electronics,Smart Watch,Samsung Galaxy Watch 6,2,29999,59998,0,0.0,59998.0,39064.31,20933.69,34.89,Regular,Credit Card,Delivered
+ORD-2190,20-Jan-2024,Jan,Q1,2024,West,Maharashtra,Electronics,Mobile,Samsung Galaxy S24,4,74999,299996,10,29999.6,269996.4,174495.03,95501.37,35.37,Regular,Credit Card,Delivered
+ORD-2191,14-Sep-2024,Sep,Q3,2024,South,Tamil Nadu,Books,Novel,Midnight Library,1,329,329,0,0.0,329.0,210.72,118.28,35.95,New,COD,Delivered
+ORD-2192,12-Apr-2024,Apr,Q2,2024,North,Punjab,Home & Kitchen,Cooker,Pigeon Favourite 3L,5,1099,5495,0,0.0,5495.0,3481.16,2013.84,36.65,Premium,UPI,Delivered
+ORD-2193,13-Jan-2024,Jan,Q1,2024,West,Maharashtra,Clothing,Jacket,Red Tape Puffer Jacket,3,3999,11997,20,2399.4,9597.6,6043.28,3554.32,37.03,Regular,UPI,Delivered
+ORD-2194,03-Feb-2024,Feb,Q1,2024,West,Rajasthan,Sports,Cricket Bat,DSC Condor,2,1999,3998,10,399.8,3598.2,2310.84,1287.36,35.78,Regular,UPI,Delivered
+ORD-2195,14-Jul-2024,Jul,Q3,2024,North,UP,Electronics,Earphones,Realme Buds Wireless 3,1,1799,1799,5,89.95,1709.05,1137.77,571.28,33.43,Regular,Credit Card,Delivered
+ORD-2196,31-Aug-2024,Aug,Q3,2024,West,Gujarat,Sports,Dumbbells,Bulfyss Hex Dumbbells 10kg,2,2199,4398,15,659.7,3738.3,2455.15,1283.15,34.32,Regular,COD,Delivered
+ORD-2197,19-Mar-2024,Mar,Q1,2024,West,Rajasthan,Books,Textbook,RD Sharma Mathematics,3,899,2697,0,0.0,2697.0,1827.98,869.02,32.22,Regular,UPI,Delivered
+ORD-2198,11-Jan-2024,Jan,Q1,2024,West,Gujarat,Clothing,T-Shirt,Levis Graphic T-Shirt,4,1499,5996,20,1199.2,4796.8,3219.14,1577.66,32.89,New,UPI,Delivered
+ORD-2199,16-Apr-2024,Apr,Q2,2024,West,Gujarat,Home & Kitchen,Lamp,IKEA FADO Table Lamp,4,1499,5996,10,599.6,5396.4,3495.85,1900.55,35.22,Regular,Credit Card,Delivered
+ORD-2200,28-Sep-2024,Sep,Q3,2024,South,Tamil Nadu,Clothing,Jeans,Spykar Super Skinny,2,2299,4598,10,459.8,4138.2,2789.23,1348.97,32.6,Regular,Debit Card,Delivered
